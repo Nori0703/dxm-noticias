@@ -1,0 +1,27 @@
+{
+  "actualizado": "2026-11-03T12:30:00-04:00",
+  "notas": [
+    {
+      "id": "2026-11-03-nueva-york-vota-hoy-fiscalia",
+      "fecha": "2026-11-03",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Elecciones 2026 · Hoy se vota",
+      "titulo": "Nueva York vota hoy: Letitia James y Saritha Komatireddy se disputan la Fiscalía General",
+      "bajada": "Los centros de votación abren de 6 de la mañana a 9 de la noche. Además de fiscal general, los neoyorquinos eligen gobernador, contralor y miembros del Congreso y del Senado estatal.",
+      "cuerpo": [
+        "Nueva York vota hoy y una de las carreras más seguidas es la de la Fiscalía General. La demócrata Letitia James, en el cargo desde 2019, busca un tercer mandato frente a la republicana Saritha Komatireddy, exfiscal federal y exjefa de gabinete de la DEA, que cuenta con el respaldo del presidente Donald Trump.",
+        "La última encuesta del Siena College, hecha del 11 al 17 de septiembre, le daba a James 52% frente al 39% de Komatireddy. En redes también circulan cifras de plataformas de predicción como Kalshi; esas cifras reflejan apuestas de dinero, no son encuestas ni resultados oficiales.",
+        "Busca tu centro de votación en vote.nyc o en elections.ny.gov. Si tienes problemas para votar, la línea de protección al votante de la Fiscalía atiende hoy hasta las 9 de la noche en el (866) 390-2992."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        { "nombre": "Fany Luna", "url": "https://www.instagram.com/p/DfQIxDZCB_Q/" },
+        { "nombre": "FOX 5 NY", "url": "https://www.fox5ny.com/news/nyc-election-midterms-guide-instructions-how-to-breakdown-information-politics-voting.amp" }
+      ]
+    }
+  ]
+}
