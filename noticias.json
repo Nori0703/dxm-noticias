@@ -1,26 +1,194 @@
 {
-  "actualizado": "2026-11-03T12:30:00-04:00",
+  "actualizado": "2026-11-04T16:45:00-04:00",
   "notas": [
     {
-      "id": "2026-11-03-nueva-york-vota-hoy-fiscalia",
-      "fecha": "2026-11-03",
+      "id": "2026-11-04-james-tercer-mandato-hochul-reelecta",
+      "fecha": "2026-11-04",
       "seccion": "politica",
       "destacada": true,
-      "kicker": "Elecciones 2026 · Hoy se vota",
-      "titulo": "Nueva York vota hoy: Letitia James y Saritha Komatireddy se disputan la Fiscalía General",
-      "bajada": "Los centros de votación abren de 6 de la mañana a 9 de la noche. Además de fiscal general, los neoyorquinos eligen gobernador, contralor y miembros del Congreso y del Senado estatal.",
+      "kicker": "Resultados · Nueva York",
+      "titulo": "Letitia James gana un tercer mandato y Hochul sigue al frente de Nueva York",
+      "bajada": "La fiscal general derrotó a la republicana Saritha Komatireddy y la gobernadora se impuso a Bruce Blakeman. En el valle del Hudson, el republicano Mike Lawler reconoció su derrota.",
       "cuerpo": [
-        "Nueva York vota hoy y una de las carreras más seguidas es la de la Fiscalía General. La demócrata Letitia James, en el cargo desde 2019, busca un tercer mandato frente a la republicana Saritha Komatireddy, exfiscal federal y exjefa de gabinete de la DEA, que cuenta con el respaldo del presidente Donald Trump.",
-        "La última encuesta del Siena College, hecha del 11 al 17 de septiembre, le daba a James 52% frente al 39% de Komatireddy. En redes también circulan cifras de plataformas de predicción como Kalshi; esas cifras reflejan apuestas de dinero, no son encuestas ni resultados oficiales.",
-        "Busca tu centro de votación en vote.nyc o en elections.ny.gov. Si tienes problemas para votar, la línea de protección al votante de la Fiscalía atiende hoy hasta las 9 de la noche en el (866) 390-2992."
+        "Los demócratas retuvieron los tres cargos estatales más importantes de Nueva York en las elecciones del martes 3 de noviembre. La gobernadora Kathy Hochul ganó un segundo mandato completo frente al ejecutivo del condado de Nassau, Bruce Blakeman, en una carrera que la agencia AP proyectó a su favor minutos después del cierre de las urnas.",
+        "La fiscal general Letitia James, que llegó a la elección con una ventaja de 13 puntos en la última encuesta del Siena College, se impuso a la exfiscal federal Saritha Komatireddy y cumplirá su tercer periodo al frente de la Fiscalía. El contralor Thomas DiNapoli también fue reelecto.",
+        "En el distrito 17, al norte de la ciudad, el congresista republicano Mike Lawler reconoció su derrota ante la demócrata Cait Conley, aunque al cierre de esta nota la AP aún no había proyectado oficialmente a la ganadora.",
+        "Para la comunidad dominicana, el resultado significa continuidad en la oficina que lleva casos de vivienda, fraude al consumidor y derechos laborales, temas que tocan de cerca a los barrios del Alto Manhattan y el Bronx. Los conteos finales y la certificación de los resultados pueden tomar varios días."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/letitia-james.jpg",
+      "imagen_alt": "Letitia James, fiscal general de Nueva York",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-kathy-hochul-gana-la-gobernacion-los-democratas-avanzan-y-tres-dominicanos-llegan-al-congreso/"
+        },
+        {
+          "nombre": "FOX 5 NY",
+          "url": "https://www.fox5ny.com/news/ny-election-results-2026-new-york"
+        },
+        {
+          "nombre": "Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/live-ny-election-results-2026-114907883.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-tres-dominicanos-congreso",
+      "fecha": "2026-11-04",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Orgullo dominicano",
+      "titulo": "Por primera vez, tres dominicanos llegan juntos al Congreso de Estados Unidos",
+      "bajada": "Darializa Ávila Chevalier en Nueva York, Analilia Mejía en Nueva Jersey y Manny Rutinel en Colorado formarán la mayor presencia dominicana en la historia de la Cámara de Representantes.",
+      "cuerpo": [
+        "La diáspora dominicana tendrá tres voces en la Cámara de Representantes al mismo tiempo, algo que nunca había pasado. Los tres ganaron sus distritos en las elecciones del martes 3 de noviembre, cada uno en un estado distinto.",
+        "En Nueva York, Darializa Ávila Chevalier, hija de inmigrantes dominicanos y egresada de la Universidad de Columbia, ganó el distrito 13, que incluye Washington Heights, Inwood, partes de Harlem y el noroeste del Bronx. En junio había derrotado en la primaria demócrata al congresista Adriano Espaillat, y el martes se impuso al republicano Manuel Williams.",
+        "En Nueva Jersey, Analilia Mejía, de raíces dominicanas y colombianas, retuvo el distrito 11 que ganó en una elección especial en abril, cuando se convirtió en la primera mujer de origen dominicano en el Congreso. En Colorado, el abogado y economista Manny Rutinel le arrebató el distrito 8 al republicano Gabe Evans: con cerca del 80% de los votos contados, tenía 56% frente al 40% de su rival.",
+        "Los tres juramentarán en enero, cuando empieza el nuevo Congreso."
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
       "imagen": "",
       "imagen_alt": "",
       "fuentes": [
-        { "nombre": "Fany Luna", "url": "https://www.instagram.com/p/DfQIxDZCB_Q/" },
-        { "nombre": "FOX 5 NY", "url": "https://www.fox5ny.com/news/nyc-election-midterms-guide-instructions-how-to-breakdown-information-politics-voting.amp" }
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-kathy-hochul-gana-la-gobernacion-los-democratas-avanzan-y-tres-dominicanos-llegan-al-congreso/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/04/tres-representantes-de-origen-dominicano-llegan-al-congreso-de-eeuu/3710071"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/11/04/tres-congresistas-de-origen-dominicano-llegan-al-congreso-federal-en-simultaneo-un-hecho-sin-precedentes-en-la-historia-legislativa-de-estados-unidos/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-democratas-camara-senado",
+      "fecha": "2026-11-04",
+      "seccion": "politica",
+      "destacada": false,
+      "kicker": "Elecciones 2026 · Washington",
+      "titulo": "Los demócratas toman el control de la Cámara y el Senado, según las proyecciones",
+      "bajada": "El resultado cambia el equilibrio en Washington para los dos últimos años del mandato de Donald Trump.",
+      "cuerpo": [
+        "El Partido Demócrata ganó el control de las dos cámaras del Congreso en las elecciones de medio término del martes 3 de noviembre, de acuerdo con las proyecciones de las principales cadenas de noticias. Antes de la votación, los republicanos tenían mayoría en ambas.",
+        "En juego estaban los 435 escaños de la Cámara de Representantes y 35 de los 100 del Senado. Algunos conteos y certificaciones siguen en curso, por lo que el número final de escaños de cada partido puede tardar días en conocerse.",
+        "Con la mayoría en la Cámara, los demócratas controlarán la agenda legislativa y las investigaciones de los comités. En el Senado, podrán frenar o aprobar los nombramientos que envíe la Casa Blanca, incluidos jueces y miembros del gabinete.",
+        "El costo de la vida, los precios de la gasolina y la política migratoria dominaron la campaña, temas que pesan directamente sobre las familias inmigrantes."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Washington",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/cambio-historico-en-washington-los-democratas-recuperan-la-camara-y-el-senado-en-las-elecciones-de-estados-unidos/"
+        },
+        {
+          "nombre": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+        },
+        {
+          "nombre": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-fitch-sube-calificacion-rd",
+      "fecha": "2026-11-04",
+      "seccion": "economia",
+      "destacada": false,
+      "kicker": "Economía · República Dominicana",
+      "titulo": "Fitch sube la nota de República Dominicana a BB por su crecimiento y sus cuentas",
+      "bajada": "La calificadora mejoró un escalón la calificación del país y ahora prevé que la economía crezca 4.5% este año.",
+      "cuerpo": [
+        "La agencia Fitch Ratings elevó la calificación crediticia de largo plazo de República Dominicana de BB- a BB, con perspectiva estable. El anuncio se dio a conocer el martes 3 de noviembre.",
+        "Fitch citó la solidez de la economía, la resistencia de las cuentas fiscales y externas, la flexibilidad del tipo de cambio y el Plan Anticrisis lanzado por el Gobierno en junio, que busca reforzar los ingresos públicos.",
+        "La agencia subió su previsión de crecimiento para 2026 de 3.5% a 4.5%, por encima de la mediana de los países con su misma nota, y espera un ritmo parecido en 2027 y 2028. Calcula que la deuda del Gobierno central cerrará el año en 47.9% del PIB.",
+        "Una mejor calificación suele abaratar el dinero que el país pide prestado en el exterior y da más confianza a los inversionistas, algo que a la larga puede reflejarse en empleo y en las remesas que la diáspora envía a casa."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/fitch-eleva-la-calificacion-crediticia-de-republica-dominicana-a-bb-con-perspectiva-estable/"
+        },
+        {
+          "nombre": "Dominican Today",
+          "url": "https://dominicantoday.com/fitch-raises-dominican-republics-sovereign-credit-rating-to-bb/"
+        },
+        {
+          "nombre": "Acento",
+          "url": "https://acento.com.do/economia/fitch-ratings-eleva-calificacion-de-republica-dominicana-a-bb-9783191.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-rd-al-dia-medicos-ia-amenazas",
+      "fecha": "2026-11-04",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "Médicos suspenden el paro, el Gobierno aprueba un código de ética para la inteligencia artificial y detienen a un joven por presuntas amenazas a Abinader",
+      "bajada": "Lo más importante de la isla este miércoles, mientras el presidente participa en la Cumbre Iberoamericana en Madrid.",
+      "cuerpo": [
+        "El Colegio Médico Dominicano suspendió el paro nacional de 24 horas previsto para este miércoles 4 de noviembre y la marcha al Palacio Nacional anunciada para el día 11, luego de acordar una reunión con el presidente Luis Abinader el jueves 12 de noviembre. El gremio reclama mejoras laborales, mejores condiciones en los hospitales y cambios en las normas del ejercicio médico.",
+        "El Gobierno aprobó un Código de Ética de la Inteligencia Artificial que servirá de guía para el uso responsable de esta tecnología en las instituciones públicas.",
+        "El Ministerio Público investiga presuntas amenazas contra la seguridad del presidente. El martes fue detenido en San Francisco de Macorís Delvinson De la Cruz Sosa, de 29 años, y se hicieron dos allanamientos. Las autoridades no han demostrado ante un tribunal la existencia de un plan, y el detenido se presume inocente.",
+        "Abinader llegó el martes a Madrid para la XXX Cumbre Iberoamericana, donde tendrá agenda oficial hasta el viernes 6. Allí reconoció a doce dominicanos residentes en Europa y se reunirá con el presidente del Banco de Desarrollo de América Latina y el Caribe, Sergio Díaz-Granados.",
+        "Además, una investigación de Diario Libre con datos de la Fundación Vida Sin Violencia contabiliza 77 mujeres asesinadas por sus parejas o exparejas en lo que va de 2026, con al menos 110 menores que quedaron sin su madre. Son cifras de la fundación, no estadísticas oficiales."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/dominicana-abinader-participa-en-cumbre-en-madrid-medicos-suspenden-paro-y-gobierno-anuncia-medidas-de-inteligencia-artificial/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-investigan-presuntas-amenazas-contra-abinader-suspenden-paro-medico-y-crece-la-preocupacion-por-los-feminicidios/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/tecnologia/republica-dominicana-aprueba-un-codigo-de-etica-para-la-inteligencia-artificial-en-las-instituciones-publicas/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04-onu-turismo-2027-rd",
+      "fecha": "2026-11-04",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "Turismo · República Dominicana",
+      "titulo": "República Dominicana será sede de la Asamblea General de ONU Turismo en 2027",
+      "bajada": "Abinader la presentó en Madrid como una vitrina para atraer inversión en un año en que el país espera más de 12 millones de visitantes.",
+      "cuerpo": [
+        "La 27.ª Asamblea General de ONU Turismo se celebrará en República Dominicana en 2027. El presidente Luis Abinader lo destacó en Madrid durante una reunión con la secretaria general del organismo, Shaikha Alnuwais, a la que asistió también el viceministro de Turismo Carlos Peguero.",
+        "Según el mandatario, el encuentro servirá para mostrar los destinos del país, atraer inversión y presentar a la isla como referente regional en turismo sostenible. República Dominicana, segundo destino turístico de América Latina después de México, preside por segundo periodo consecutivo la Comisión Regional para las Américas del organismo.",
+        "Abinader proyectó más de 12 millones de visitantes este año, más que la población del país, y vinculó el turismo a la meta de duplicar el tamaño de la economía para 2036."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Madrid",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/turismo/el-presidente-luis-abinader-destaca-celebracion-de-asamblea-general-de-onu-turismo-en-el-pais-en-2027-como-oportunidad-para-atraer-nuevas-inversiones/"
+        }
       ]
     }
   ]
