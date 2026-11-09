@@ -1,11 +1,118 @@
 {
-  "actualizado": "2026-11-04T16:45:00-04:00",
+  "actualizado": "2026-11-09T11:10:00-04:00",
   "notas": [
+    {
+      "id": "2026-11-09-mamdani-25-millones-code-blue",
+      "fecha": "2026-11-09",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política · Ciudad de Nueva York",
+      "titulo": "Mamdani invierte $25 millones para proteger del frío a quienes viven en la calle",
+      "bajada": "El plan amplía el programa Code Blue con 800 camas más, autobuses con calefacción y más personal en la calle, y refuerza la limpieza de nieve en las zonas que usan los mayores.",
+      "cuerpo": [
+        "El alcalde Zohran Mamdani anunció una inversión municipal de $25 millones para ampliar Code Blue, el programa que protege a las personas sin hogar cuando el frío se vuelve peligroso. El anuncio llegó el lunes 9 de noviembre, antes de que empiece el invierno.",
+        "El plan suma 800 camas, 300 trabajadores de alcance comunitario que recorren las calles, 20 autobuses con calefacción, cuatro centros temporales más y equipos de enfermería y atención médica móvil.",
+        "Una parte del dinero va a mejorar la limpieza de nieve y hielo, sobre todo en aceras, paradas y cruces que usan las personas mayores y con discapacidad.",
+        "Para recibir avisos de emergencia de la ciudad, como alertas de frío extremo o de nieve, se puede enviar la palabra NOTIFYNYC por mensaje de texto al 692-692. Si ves a alguien en la calle que necesita ayuda cuando hace frío, puedes llamar al 311."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-despierta-con-otra-tragedia-en-alto-manhattan-un-muerto-en-incendio-arrestan-a-sospechoso-de-atacar-a-una-envejeciente-y-mamdani-anuncia-us25-millones-contra-el-frio/"
+        },
+        {
+          "nombre": "Gothamist",
+          "url": "https://gothamist.com/news/mamdani-says-more-help-is-coming-to-homeless-new-yorkers-living-outside-this-winter"
+        },
+        {
+          "nombre": "ABC7 New York",
+          "url": "https://abc7ny.com/post/mamdani-announces-25m-investment-code-blue-snow-removal-operations/20026081/"
+        },
+        {
+          "nombre": "amNY",
+          "url": "https://www.amny.com/news/winter-mamdani-25m-cold-weather-response/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-alto-manhattan-incendio-arresto-inwood",
+      "fecha": "2026-11-09",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Alto Manhattan",
+      "titulo": "Muere un hombre en un incendio en Hamilton Heights y arrestan a un sospechoso del ataque a una mujer de 83 años en Inwood",
+      "bajada": "Dos hechos que tocan de cerca a los barrios dominicanos del norte de Manhattan.",
+      "cuerpo": [
+        "Un hombre murió y cuatro personas resultaron heridas, entre ellas dos bomberos con lesiones leves, en un incendio en el 660 de Riverside Drive, entre las calles 143 y 144, en Hamilton Heights. El fuego empezó cerca de la 1:30 de la madrugada del lunes 9 de noviembre en un apartamento del tercer piso.",
+        "Los bomberos declararon una segunda alarma. La acumulación de objetos dentro del apartamento dificultó el rescate y el combate de las llamas. Unas 16 personas quedaron desplazadas. La causa del incendio está bajo investigación y la identidad de la víctima no se ha dado a conocer.",
+        "En otro caso, la policía arrestó el sábado 7 de noviembre, en un tren de la línea E cerca de Kew Gardens, en Queens, a Yahiness Holden, de 33 años. Se le acusa de seguir el 26 de octubre a una mujer de 83 años hasta su edificio, cerca de Vermilyea Avenue y la calle 204, en Inwood, e intentar violarla. La mujer se defendió y sufrió heridas leves.",
+        "Holden enfrenta cargos de intento de violación, agresión y otros delitos. No ha sido condenado y se presume inocente."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-despierta-con-otra-tragedia-en-alto-manhattan-un-muerto-en-incendio-arrestan-a-sospechoso-de-atacar-a-una-envejeciente-y-mamdani-anuncia-us25-millones-contra-el-frio/"
+        },
+        {
+          "nombre": "ABC7 New York",
+          "url": "https://abc7ny.com/post/man-dead-16-displaced-early-morning-fire-hamilton-heights-apartment/20025940/"
+        },
+        {
+          "nombre": "Gothamist",
+          "url": "https://gothamist.com/news/1-dead-after-early-morning-fire-rips-through-hamilton-heights-apartment-building-fdny-says"
+        },
+        {
+          "nombre": "NBC New York",
+          "url": "https://www.nbcnewyork.com/news/local/man-arrested-in-attempted-rape-of-83-year-old-woman-in-inwood/6569342/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09-rd-al-dia-feminicidios-titulos-bonao",
+      "fecha": "2026-11-09",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "Los feminicidios llegan a 81 en el año, Abinader entrega 2,500 títulos y un edificio de servicios en Bonao",
+      "bajada": "Lo más importante de la isla en este lunes feriado por el Día de la Constitución.",
+      "cuerpo": [
+        "Dos mujeres fueron asesinadas el fin de semana, una en San Juan de la Maguana y otra en Esperanza, Valverde. Con ellas son 81 las víctimas de feminicidio en lo que va de 2026, según el conteo de Diario Libre. En ambos casos las parejas o exparejas fueron señaladas como presuntos responsables; las personas detenidas o investigadas se presumen inocentes.",
+        "El presidente Luis Abinader entregó el domingo 8 de noviembre 2,500 títulos de propiedad en El Almirante II, Santo Domingo Este, que benefician a unas 13,000 personas. En Bonao inauguró el edificio Juan Pablo Duarte, rehabilitado con una inversión de más de RD$240 millones, donde funcionarán 33 instituciones públicas, entre ellas Pasaportes, SeNaSa y Supérate. Los servicios empiezan este martes 10.",
+        "El mandatario también inauguró dos escuelas, en Bonao y Villa Altagracia, con 50 aulas y capacidad para más de 1,500 estudiantes.",
+        "Este lunes 9 es feriado por el traslado del Día de la Constitución, que se celebró el viernes 6. Las labores se retoman el martes. Esta semana, el galón de gasolina premium cuesta RD$362.10 y el de regular RD$317.50."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-81-feminicidios-estremecen-al-pais-abinader-entrega-nuevas-obras-y-el-feriado-mueve-la-economia/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/09/feminicidios-en-rd-se-elevan-a-81-las-victimas-en-el-2026/3715137"
+        },
+        {
+          "nombre": "Canal 6",
+          "url": "https://elseis.do/noticias/dos-nuevos-feminicidios-en-san-juan-y-valverde-elevan-a-81-las-victimas-en-el-2026"
+        }
+      ]
+    },
     {
       "id": "2026-11-04-james-tercer-mandato-hochul-reelecta",
       "fecha": "2026-11-04",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Resultados · Nueva York",
       "titulo": "Letitia James gana un tercer mandato y Hochul sigue al frente de Nueva York",
       "bajada": "La fiscal general derrotó a la republicana Saritha Komatireddy y la gobernadora se impuso a Bruce Blakeman. En el valle del Hudson, el republicano Mike Lawler reconoció su derrota.",
