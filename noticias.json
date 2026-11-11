@@ -1,11 +1,146 @@
 {
-  "actualizado": "2026-11-09T11:10:00-04:00",
+  "actualizado": "2026-11-11T12:31:00-04:00",
   "notas": [
+    {
+      "id": "2026-11-11-juez-ordena-ciudad-entregar-ice-datos-albergue-bronx",
+      "fecha": "2026-11-11",
+      "seccion": "inmigracion",
+      "destacada": true,
+      "kicker": "Inmigración · El Bronx",
+      "titulo": "Juez federal ordena a la ciudad entregar a ICE datos de residentes de un albergue del Bronx con antecedentes graves",
+      "bajada": "La orden se limita a personas acusadas de delitos violentos y pasará por un supervisor nombrado por el tribunal. La administración de Mamdani estudia sus opciones legales.",
+      "cuerpo": [
+        "El juez federal Lewis A. Kaplan ordenó a la Ciudad de Nueva York cumplir una citación administrativa de ICE y entregar nombres y fechas de nacimiento de algunos residentes del albergue para hombres migrantes ubicado en el 825 de la calle 141 Este, en Mott Haven, en el Bronx. El fallo se emitió el viernes 6 de noviembre.",
+        "ICE había pedido datos de todos los hombres del albergue, pero el juez redujo la orden a residentes con historiales criminales graves, acusados de delitos como asesinato, homicidio, violación, robo, agresión, hurto mayor o ataque a un agente. Un supervisor especial nombrado por el tribunal revisará los expedientes y vigilará la entrega. La ciudad y ICE tienen dos semanas para presentarle un plan.",
+        "La ciudad había argumentado que la citación buscaba saltarse las leyes de ciudad santuario. Kaplan rechazó ese argumento. \"Estamos revisando esa decisión y evaluando todas nuestras opciones legales\", dijo el alcalde Zohran Mamdani. La fiscal general del estado, Letitia James, también evalúa el caso, y grupos de defensa de los inmigrantes piden apelar.",
+        "La orden no autoriza deportaciones generales ni afecta a quienes no tienen ese tipo de antecedentes. Aun así, organizaciones comunitarias temen que el caso haga dudar a muchos inmigrantes a la hora de usar servicios de la ciudad. El albergue, el último de emergencia para hombres adultos, tiene hoy cerca de 1,000 residentes y la ciudad planea cerrarlo a fin de año."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
+        },
+        {
+          "nombre": "Bronx Times",
+          "url": "https://www.bxtimes.com/ice-federal-judge-order-mamdani-bronx-shelter/"
+        },
+        {
+          "nombre": "WPTV / Scripps",
+          "url": "https://www.wptv.com/politics/immigration/judge-orders-mamdani-to-comply-with-ice-records-request-in-nyc"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-edificios-renta-estabilizada-east-harlem-subasta",
+      "fecha": "2026-11-11",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Vivienda · East Harlem",
+      "titulo": "Unos 850 apartamentos de renta estabilizada en East Harlem van a subasta tras caerse la compra que apoyaba la ciudad",
+      "bajada": "Los 38 edificios pertenecían a Emerald Equities. El mismo día, Mamdani firmó COPA, una ley que da a las organizaciones sin fines de lucro la primera oportunidad de comprar edificios en problemas.",
+      "cuerpo": [
+        "La compra de 38 edificios de East Harlem por parte de Spatial Equity, una oferta que contaba con el respaldo de la administración del alcalde Zohran Mamdani, se cayó el martes 10 de noviembre. Los inmuebles, que estuvieron en manos de Emerald Equities, irán ahora a subasta por ejecución hipotecaria, uno por uno.",
+        "Según la Asociación de Apartamentos de Nueva York, son unos 850 apartamentos de renta estabilizada. Los inquilinos siguen protegidos por las reglas de renta estabilizada, pero la venta definirá quién será su nuevo dueño y cómo se mantendrán los edificios.",
+        "Ese mismo martes, Mamdani firmó la Ley de Oportunidad de Compra Comunitaria (COPA). La norma da a ciertas organizaciones sin fines de lucro la primera oportunidad de hacer una oferta cuando salen a la venta algunos edificios multifamiliares en problemas o con acuerdos de vivienda asequible. El Departamento de Vivienda (HPD) calcula que aplica a unos 3,400 edificios.",
+        "East Harlem es uno de los barrios con más familias latinas de Manhattan. Los inquilinos de los edificios afectados pueden informarse sobre sus derechos llamando al 311."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
+        },
+        {
+          "nombre": "The Real Deal",
+          "url": "https://therealdeal.com/new-york/2026/11/10/mamdani-gives-copa-signature/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-arrestan-miami-sospechoso-violaciones-central-park",
+      "fecha": "2026-11-11",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Seguridad · Nueva York",
+      "titulo": "Arrestan en Miami a sospechoso de una violación en Central Park; la policía lo vincula a otros dos ataques",
+      "bajada": "Dereck Rivera-Deleon fue detenido el martes por un equipo del NYPD y los US Marshals. Se presume inocente mientras no sea declarado culpable.",
+      "cuerpo": [
+        "Detectives del NYPD, junto a los US Marshals, arrestaron el martes 10 de noviembre en Miami a Dereck Rivera-Deleon, buscado por una agresión sexual en Central Park. Según la policía, fue detenido en el negocio donde trabajaba, con apoyo de la policía de Miami Beach.",
+        "El ataque ocurrió el 24 de octubre, cerca de las 8:30 de la noche, en el parque cerca de la calle 67 Este y East Drive. Según el NYPD, un hombre amenazó con un cuchillo a una mujer de 39 años, la arrastró a una zona boscosa y la agredió sexualmente. La víctima fue llevada al hospital en condición estable.",
+        "Las autoridades dicen que Rivera-Deleon también será acusado por otras dos violaciones en Central Park, una en 2021 y otra en 2023. Hasta ahora no se han detallado formalmente esos cargos. Como toda persona arrestada, se presume inocente hasta que un tribunal decida lo contrario.",
+        "Quien tenga información puede llamar de forma confidencial a la línea del NYPD en español, 1-888-57-PISTA."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
+        },
+        {
+          "nombre": "ABC7 New York",
+          "url": "https://abc7ny.com/post/dereck-rivera-deleon-arrested-central-park-rape-case-linked-2-others/20030520/"
+        },
+        {
+          "nombre": "US Marshals Service",
+          "url": "https://www.usmarshals.gov/news/press-release/joint-law-enforcement-operation-apprehends-fugitive-wanted-central-park-sexual"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11-rd-al-dia-suprema-corte-montero-haiti",
+      "fecha": "2026-11-11",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: Justiniano Montero asume la Suprema Corte y el país apoya con logística la misión salvadoreña en Haití",
+      "bajada": "Montero sustituye a Luis Henry Molina al frente del máximo tribunal, con seis jueces nuevos. Abinader reiteró que el país ayuda con logística, pero no enviará tropas a Haití.",
+      "cuerpo": [
+        "El Consejo Nacional de la Magistratura, que encabeza el presidente Luis Abinader, juramentó el martes 10 de noviembre al juez de carrera Justiniano Montero Montero como presidente de la Suprema Corte de Justicia. Sustituye a Luis Henry Molina, que ocupó el cargo desde 2019.",
+        "En el mismo acto se juramentaron seis jueces nuevos: Julio César Emilio Canó Alfau, Antonia Josefina Grullón Blandino, Amauri Antonio Pimentel Fabián, Arelis Socorro Ricourt Gómez, Diomede Ydelfo Villalona Guerrero e Ylona María de la Rocha Camilo. Otros cuatro magistrados fueron ratificados en sus puestos.",
+        "Por otro lado, el Gobierno dominicano mantiene el apoyo logístico a los militares salvadoreños que el presidente Nayib Bukele envió a Haití para combatir a las bandas armadas. Abinader ha dicho que la República Dominicana no enviará tropas al país vecino y que mantiene reforzada la vigilancia en la frontera."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-la-republica-dominicana-abinader-respalda-a-bukele-cambia-la-suprema-corte-y-nuevos-crimenes-preocupan-al-pais-miercoles-11-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/gobierno/20261110/montero-otros-seis-jueces-son-juramentados-consejo-magistratura_929545.html"
+        },
+        {
+          "nombre": "Revista Mercado",
+          "url": "https://revistamercado.do/internacional/rd-sirve-de-apoyo-logistico-a-los-militares-de-bukele-en-haiti-que-aporta-el-pais-y-que-no-hara/"
+        },
+        {
+          "nombre": "Diario El Mundo (El Salvador)",
+          "url": "https://diario.elmundo.sv/nacionales/republica-dominicana-facilita-despliegue-militar-salvadoreno-hacia-haiti"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/abinader-dispone-reforzar-vigilancia-en-la-frontera-ante-llegada-de-tropas-internacionales-a-haiti/"
+        }
+      ]
+    },
     {
       "id": "2026-11-09-mamdani-25-millones-code-blue",
       "fecha": "2026-11-09",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · Ciudad de Nueva York",
       "titulo": "Mamdani invierte $25 millones para proteger del frío a quienes viven en la calle",
       "bajada": "El plan amplía el programa Code Blue con 800 camas más, autobuses con calefacción y más personal en la calle, y refuerza la limpieza de nieve en las zonas que usan los mayores.",
