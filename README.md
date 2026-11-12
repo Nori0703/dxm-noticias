@@ -14,6 +14,9 @@ Este repositorio guarda las noticias que se muestran solas en la página de **Do
 | `fecha` | AAAA-MM-DD |
 | `seccion` | `politica`, `inmigracion`, `economia`, `comunidad` o `rd` (noticias de República Dominicana) |
 | `destacada` | `true` solo en la nota de portada |
+| `destacada_hasta` | Opcional. Fecha AAAA-MM-DD: la nota es principal solo hasta ese día; después la portada pasa sola a la siguiente |
+| `credito_foto` | Opcional. Crédito de las fotos, por ejemplo "Fotos: Hodelpa Hospitality" |
+| `galeria` | Opcional. Lista de `{url, alt}` con más fotos para la nota principal (fotos guardadas en `img/`) |
 | `kicker` | Etiqueta corta sobre el título |
 | `titulo`, `bajada` | Título y resumen |
 | `cuerpo` | Lista de párrafos |

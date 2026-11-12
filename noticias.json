@@ -1,11 +1,65 @@
 {
-  "actualizado": "2026-11-11T12:31:00-04:00",
+  "actualizado": "2026-11-12T12:45:00-04:00",
   "notas": [
+    {
+      "id": "2026-11-12-hodelpa-certificacion-bioscore",
+      "fecha": "2026-11-12",
+      "seccion": "rd",
+      "destacada": true,
+      "destacada_hasta": "2026-11-12",
+      "kicker": "Turismo · Sostenibilidad",
+      "titulo": "Los nueve hoteles de Hodelpa obtienen la certificación de sostenibilidad Bioscore",
+      "bajada": "La cadena dominicana fue evaluada en consumo de agua y energía, emisiones, manejo de residuos y condiciones de trabajo, con verificación independiente de OCA Global.",
+      "cuerpo": [
+        "La cadena hotelera dominicana Hodelpa Hospitality recibió la certificación internacional de sostenibilidad Bioscore para sus nueve hoteles, ubicados en Santo Domingo, Santiago, Juan Dolio y Puerto Plata.",
+        "El sello mide indicadores ambientales, sociales y de gobernanza, conocidos como criterios ASG: cuánta energía y agua consume cada hotel, sus emisiones de carbono, cómo maneja la basura, cómo trata a su personal y qué tan responsable es su gestión. Según la empresa, la firma OCA Global verificó los resultados de forma independiente.",
+        "En el proceso participó la consultora The Good Concierge, especializada en sostenibilidad para hoteles, que ayudó a medir los indicadores, reunir las pruebas y planear mejoras en cada establecimiento.",
+        "El presidente y CEO de la cadena, Ángel Hernández, describió la certificación como “un logro de todo el equipo” y dijo que los motiva a seguir construyendo una operación más responsable con sus empleados, sus huéspedes y los lugares donde operan.",
+        "El turismo es uno de los motores de la economía dominicana, y cada vez más viajeros y agencias internacionales piden pruebas de que los hoteles cuidan el entorno. Hodelpa, con más de 35 años en el mercado, acompaña estas certificaciones con jornadas de limpieza de ríos y siembra de árboles de su programa ambiental Ecogreen."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-paneles-solares.jpg",
+      "imagen_alt": "Paneles solares en el techo de uno de los hoteles de Hodelpa",
+      "credito_foto": "Fotos: Hodelpa Hospitality",
+      "galeria": [
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-limpieza-rio-grupo.jpg",
+          "alt": "Voluntarios de Hodelpa tras una jornada de limpieza de un río"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-siembra-arboles.jpg",
+          "alt": "Siembra de árboles del programa Ecogreen"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-limpieza-rio.jpg",
+          "alt": "Recogida de basura a la orilla del río"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-siembra-arbol.jpg",
+          "alt": "Un colaborador de Hodelpa siembra un árbol"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-playa-aerea.jpg",
+          "alt": "Vista aérea de la playa de uno de los hoteles"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-resort-aereo.jpg",
+          "alt": "Vista aérea de uno de los hoteles de la cadena"
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "comunicado de Hodelpa Hospitality",
+          "url": ""
+        }
+      ]
+    },
     {
       "id": "2026-11-11-juez-ordena-ciudad-entregar-ice-datos-albergue-bronx",
       "fecha": "2026-11-11",
       "seccion": "inmigracion",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Inmigración · El Bronx",
       "titulo": "Juez federal ordena a la ciudad entregar a ICE datos de residentes de un albergue del Bronx con antecedentes graves",
       "bajada": "La orden se limita a personas acusadas de delitos violentos y pasará por un supervisor nombrado por el tribunal. La administración de Mamdani estudia sus opciones legales.",
