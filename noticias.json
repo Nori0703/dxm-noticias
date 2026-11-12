@@ -1,6 +1,100 @@
 {
-  "actualizado": "2026-11-12T12:45:00-04:00",
+  "actualizado": "2026-11-12T19:49:00-04:00",
   "notas": [
+    {
+      "id": "2026-11-12-derrumbe-edificio-flatbush-ocho-muertos",
+      "fecha": "2026-11-12",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Nueva York · Brooklyn",
+      "titulo": "Derrumbe de un edificio en Flatbush deja ocho muertos y 18 heridos; entre las víctimas hay inmigrantes",
+      "bajada": "El inmueble de tres pisos se vino abajo sobre una excavación vecina. La ciudad investiga si la obra de al lado tuvo que ver y ordenó revisar unas 100 construcciones.",
+      "cuerpo": [
+        "Ocho personas murieron y al menos 18 resultaron heridas cuando un edificio residencial de tres pisos en el 1321 de Flatbush Avenue, en Brooklyn, colapsó la tarde del miércoles 11 de noviembre, alrededor de las 4:00 p. m., y cayó sobre una excavación en el terreno contiguo, donde se levantaba una nueva construcción.",
+        "Entre los fallecidos hay dos niños y dos trabajadores de la obra. El alcalde Zohran Mamdani dijo que las víctimas incluyen inmigrantes de Colombia, México y Ecuador. El consulado de Colombia en Nueva York informó que tres de los muertos son colombianos, dos de ellos menores de edad, y que una colombiana está herida. Entre las víctimas identificadas por su familia está José Luis Caguana, ecuatoriano de 26 años que trabajaba en la obra.",
+        "Más de 250 bomberos y rescatistas trabajaron entre los escombros con perros, drones y maquinaria. La comisionada de Bomberos, Lillian Bonsignore, explicó que la operación seguiría siendo de rescate hasta poder revisar debajo de los escombros más grandes.",
+        "La causa no se ha determinado. Las autoridades investigan si la excavación en el terreno vecino contribuyó al colapso; la Oficina del Fiscal de Brooklyn participa en la investigación y Mamdani ordenó inspeccionar unas 100 obras vinculadas a las empresas del proyecto. Registros del Departamento de Edificios muestran que esa obra recibió una orden de paralización en marzo por fallas en la protección durante la demolición, aunque los funcionarios no la han relacionado con el derrumbe.",
+        "Flatbush, conocido como el “pequeño Caribe”, es hogar de miles de familias inmigrantes. Quienes vivan junto a una obra y noten grietas o movimientos en su edificio pueden reportarlo llamando al 311."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario (EFE)",
+          "url": "https://elnuevodiario.com.do/tres-colombianos-entre-ellos-dos-menores-mueren-en-derrumbe-de-edificio-en-nueva-york/"
+        },
+        {
+          "nombre": "El Nuevo Diario (AFP)",
+          "url": "https://elnuevodiario.com.do/suben-a-ocho-los-muertos-por-derrumbe-de-edificio-en-brooklyn-nueva-york/"
+        },
+        {
+          "nombre": "Engineering News-Record",
+          "url": "https://www.enr.com/articles/64269-eight-dead-18-injured-in-brooklyn-building-collapse-next-to-construction-site"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-vuelo-587-25-anos-belle-harbor",
+      "fecha": "2026-11-12",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Comunidad · Queens",
+      "titulo": "A 25 años del vuelo 587, Nueva York recuerda a sus 265 víctimas, casi todas dominicanas",
+      "bajada": "Familiares, vecinos y el alcalde Zohran Mamdani se reunieron este jueves en el memorial de Belle Harbor, en Queens, con un minuto de silencio y el toque de campana.",
+      "cuerpo": [
+        "La comunidad dominicana de Nueva York conmemoró este jueves 12 de noviembre los 25 años del accidente del vuelo 587 de American Airlines, que cayó sobre Belle Harbor, en Queens, minutos después de despegar del aeropuerto JFK rumbo a Santo Domingo en 2001.",
+        "En el memorial de la calle Beach 116 se guardó un minuto de silencio y sonó una campana a la hora del accidente. El alcalde Zohran Mamdani encabezó el homenaje junto a familiares de las víctimas y vecinos del área.",
+        "Murieron 265 personas: 251 pasajeros, nueve tripulantes y cinco residentes de Belle Harbor. Alrededor del 90 % de los pasajeros eran de origen dominicano, y muchos vivían en Washington Heights. Es el segundo accidente aéreo más mortífero en la historia de Estados Unidos.",
+        "La Junta Nacional de Seguridad en el Transporte (NTSB) atribuyó la caída al uso excesivo del timón por parte del copiloto ante la turbulencia que dejó otro avión, lo que hizo que el estabilizador vertical se desprendiera en pleno vuelo.",
+        "El memorial, un muro curvo de granito diseñado por el artista dominicano Freddy Rodríguez, lleva grabado un verso del poeta Pedro Mir: “Después no quiero más que paz”."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/dominicanos-en-nyc-recordaran-las-265-victimas-del-vuelo-587-de-american-airlines-en-queens-en-2001/"
+        },
+        {
+          "nombre": "QNS",
+          "url": "https://qns.com/2026/11/flight-587-25th-anniversary/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-congresista-pide-liberar-profesora-enfermeria-ice",
+      "fecha": "2026-11-12",
+      "seccion": "inmigracion",
+      "destacada": false,
+      "kicker": "Inmigración · EE. UU.",
+      "titulo": "Congresista pide liberar a una profesora de enfermería detenida por ICE y trasladada a Luisiana",
+      "bajada": "El representante Josh Harder reclama que Ann Lawani, docente de la Universidad de San Francisco sin antecedentes penales, sea devuelta a California mientras sigue su caso.",
+      "cuerpo": [
+        "El congresista demócrata Josh Harder, de Stockton, California, exigió al Departamento de Seguridad Nacional (DHS) la liberación de Ann Lawani, profesora de enfermería de la Universidad de San Francisco (USF), detenida por agentes de Inmigración y Control de Aduanas (ICE) en su casa de Lodi, California, en septiembre.",
+        "Lawani, de 39 años, fue trasladada de un centro de detención en Stockton a El Paso, Texas, y luego a un centro de ICE en el sur de Luisiana, donde sigue detenida, según EFE. Su paradero no aparece en el localizador de detenidos de ICE, bajo una política nueva para personas con órdenes finales de deportación, informó KQED.",
+        "En una carta al secretario de Seguridad Nacional, Markwayne Mullin, Harder pidió que la liberen bajo supervisión, que la regresen a California y que se les informe a ella y a su abogado a qué país la quieren deportar. Según el congresista, el caso plantea “serias preocupaciones sobre el debido proceso”.",
+        "Lawani no tiene antecedentes penales, supervisa a 230 estudiantes de enfermería en la USF, trabaja como enfermera en John Muir Health y cuida a su padre de 83 años. La universidad y su familia han pedido públicamente su regreso.",
+        "El caso refleja una preocupación extendida en las comunidades inmigrantes: los traslados de detenidos a centros lejanos dificultan que sus familias y abogados los ubiquen y los defiendan."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "California",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario (EFE)",
+          "url": "https://elnuevodiario.com.do/congresista-de-ee-uu-exige-la-liberacion-de-una-profesora-de-enfermeria-detenida-por-ice/"
+        },
+        {
+          "nombre": "KQED",
+          "url": "https://www.kqed.org/news/12109044/california-lawmaker-calls-for-release-of-usf-nursing-professor-detained-by-ice"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-hodelpa-certificacion-bioscore",
       "fecha": "2026-11-12",
