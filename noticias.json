@@ -1,6 +1,144 @@
 {
-  "actualizado": "2026-11-12T19:49:00-04:00",
+  "actualizado": "2026-11-13T13:52:41-04:00",
   "notas": [
+    {
+      "id": "2026-11-13-concejo-prohibe-precios-vigilancia-datos-personales",
+      "fecha": "2026-11-13",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política · Nueva York",
+      "titulo": "El Concejo de Nueva York prohíbe cobrar precios distintos a cada cliente usando sus datos personales",
+      "bajada": "La medida, aprobada 44 a 5, frena los precios fijados por algoritmos según el perfil del comprador. Entraría en vigor un año después de convertirse en ley.",
+      "cuerpo": [
+        "El Concejo Municipal de Nueva York aprobó el jueves 12 de noviembre, por 44 votos a favor y 5 en contra, un proyecto que prohíbe a las empresas cobrar precios diferentes a distintos clientes por el mismo producto o servicio a partir de sus datos personales, una práctica conocida en inglés como “surveillance pricing”.",
+        "La propuesta, identificada como Introducción 891-A y presentada por la presidenta del Concejo, Julie Menin, define esa práctica como precios fijados total o parcialmente por un algoritmo que usa información personal del consumidor. Según City & State, la norma entraría en vigor un año después de convertirse en ley.",
+        "El alcalde Zohran Mamdani expresó su apoyo a la legislación. De acuerdo con City & State, Nueva York se convertiría en la quinta jurisdicción del país en prohibir este tipo de precios. En el ámbito estatal, la Legislatura aprobó una ley similar que espera la firma de la gobernadora Kathy Hochul.",
+        "Algunas empresas, entre ellas Uber, cuestionaron la medida. Menin respondió que la ley no impide ofrecer descuentos: “Cualquier sugerencia de que las compañías no pueden hacer descuentos es simplemente incorrecta”, dijo, según City & State.",
+        "Para muchas familias hispanas y dominicanas que compran en línea o usan aplicaciones de transporte y entrega, la norma busca que el precio no dependa de quién es el cliente, dónde vive o qué ha comprado antes."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-viernes-13-de-noviembre-de-2026-nueva-york-despierta-de-luto-ocho-muertos-en-brooklyn-tres-acusados-por-asesinato-de-un-nino-y-nuevas-medidas-sobre-precios-y-vivienda/"
+        },
+        {
+          "nombre": "Concejo Municipal de Nueva York",
+          "url": "https://council.nyc.gov/press/2026/11/12/3339/"
+        },
+        {
+          "nombre": "City & State New York",
+          "url": "https://www.cityandstateny.com/policy/2026/11/julie-menins-surveillance-pricing-ban-passes-council/417196/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-fuerza-del-pueblo-empadronamiento-nueva-york-leonel-visita",
+      "fecha": "2026-11-13",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Diáspora · Nueva York",
+      "titulo": "La Fuerza del Pueblo alerta por el lento empadronamiento en Nueva York mientras Leonel Fernández visita la ciudad",
+      "bajada": "La seccional del partido pide a la Junta Central Electoral más personal y recursos para inscribir a los dominicanos rumbo a 2028. Fernández tendrá dos encuentros el domingo en el Bronx y Manhattan.",
+      "cuerpo": [
+        "La seccional de Nueva York del partido Fuerza del Pueblo (FP) pidió el jueves 12 de noviembre a la Junta Central Electoral (JCE) que acelere la cedulación y el empadronamiento de los dominicanos en esa ciudad de cara a las elecciones generales de mayo de 2028.",
+        "En una rueda de prensa, dirigentes de la FP en Nueva York, entre ellos su presidente, Carlos Feliz, citaron datos de la Oficina de Servicios en el Exterior: 43,530 ciudadanos tienen su cédula en mano y, de ellos, 25,222 figuran aptos para votar. En las elecciones de 2024, unos 274,000 de los 863,785 inscritos en el padrón del exterior correspondían al estado de Nueva York.",
+        "El partido calcula que, al ritmo actual, para diciembre de 2027 solo habría unos 100,000 empadronados en Nueva York, y pidió un calendario público de operativos, más personal y estadísticas periódicas. “Esta situación resulta alarmante”, dijeron los dirigentes, según Zabala al Día. La JCE no había respondido públicamente a los planteamientos en las fuentes consultadas.",
+        "En paralelo, el expresidente y presidente de la FP, Leonel Fernández, llegó a Estados Unidos este viernes para una agenda política en Massachusetts, Nueva Jersey y Nueva York. El domingo 15 encabezará un encuentro a las 11:00 a. m. en el Beverly Hills Manor (1700 Jerome Avenue, en el Bronx) y otro a partir de las 3:00 p. m. en Taíno Towers (Segunda Avenida con calle 123, en Manhattan), donde juramentará a nuevos miembros del partido.",
+        "El voto en el exterior pesa en la política dominicana: los inscritos fuera del país representaron cerca del 11 % del padrón presidencial de 2024, y Nueva York concentra la mayor comunidad dominicana en el extranjero."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/fuerza-del-pueblo-expresa-preocupacion-por-ritmo-del-empadronamiento-en-nueva-york/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/leonel-fernandez-encabezara-dos-encuentros-multitudinarios-con-dominicanos-en-nueva-york-este-domingo/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/fp-pide-a-la-jce-agilizar-empadronamiento-de-dominicanos-en-nueva-york-para-elecciones-de-2028/"
+        },
+        {
+          "nombre": "El Sol de Santiago",
+          "url": "https://elsoldesantiago.com/leonel-fernandez-encabezara-este-domingo-en-nyc-encuentros-con-cientos-de-dominicanos/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-abinader-congela-combustibles-hasta-enero",
+      "fecha": "2026-11-13",
+      "seccion": "economia",
+      "destacada": false,
+      "kicker": "Economía · República Dominicana",
+      "titulo": "Abinader mantendrá congelados los combustibles hasta el 7 de enero, con un tope al subsidio",
+      "bajada": "El Gobierno sostendrá los precios mientras el subsidio no pase de RD$1,500 millones por semana. Comerciantes prevén precios estables en Navidad.",
+      "cuerpo": [
+        "El presidente Luis Abinader anunció el jueves 12 de noviembre, en una reunión con industriales, comerciantes y transportistas en el Palacio Nacional, que el Gobierno mantendrá sin cambios los precios de los combustibles hasta el 7 de enero de 2027.",
+        "La medida tiene una condición: que el subsidio no supere los RD$1,500 millones semanales. Si el costo sobrepasa ese límite, las autoridades podrían revisar la política, según Zabala al Día.",
+        "Según Diario Libre, el Gobierno proyecta que el gasto en subsidios a los combustibles rondará los RD$50,000 millones al cierre de este año. En la semana del 7 al 13 de noviembre, el galón de gasolina premium costaba RD$362.10 y el de gasolina regular, RD$317.50.",
+        "En el encuentro, el presidente de la Federación Dominicana de Comerciantes, Iván García, dijo que los precios se mantendrán estables durante la temporada navideña.",
+        "La decisión interesa también a la diáspora: muchas familias en Estados Unidos envían remesas para cubrir gastos de transporte y alimentos en la isla, que suelen subir cuando aumentan los combustibles."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/abinader-anuncia-congelacion-de-combustibles-hasta-enero-la-medida-dependera-de-un-subsidio-maximo-de-rd1500-millones-semanales/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/economia/energia/2026/11/12/abinader-anuncia-estabilidad-en-precios-combustibles-hasta-2027/3718754"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-rd-al-dia-reunion-electoral-oea-itla-spacex",
+      "fecha": "2026-11-13",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: autoridades electorales de 25 países se reúnen en Santo Domingo y el Gobierno conversa con SpaceX",
+      "bajada": "La JCE y la OEA organizan un foro sobre inteligencia artificial, ciberseguridad y desinformación en las elecciones. Abinader recibió a ejecutivos de SpaceX para hablar de conectividad y educación.",
+      "cuerpo": [
+        "La Junta Central Electoral (JCE) y la Organización de los Estados Americanos (OEA) inauguraron el miércoles 11 de noviembre en Santo Domingo la XIX Reunión Interamericana de Autoridades Electorales, con 35 organismos electorales de 25 países. El encuentro, en el hotel El Embajador, concluye este viernes 13.",
+        "Entre los temas figuran el financiamiento político, la tecnología electoral, la ciberseguridad y la desinformación impulsada por inteligencia artificial. Participan el presidente de la JCE, Román Jáquez Liranzo, y el secretario general de la OEA, Albert R. Ramdin, con apoyo de los gobiernos de Canadá y Suiza.",
+        "Por otro lado, el presidente Luis Abinader se reunió el jueves 12 en el Palacio Nacional con ejecutivos de SpaceX y autoridades del Instituto Tecnológico de las Américas (ITLA) para tratar sobre conectividad a internet e inteligencia artificial en la educación, según Zabala al Día. El rector del ITLA, Jimmy Rosario, dijo que el país ya cuenta con más de 50,000 antenas Starlink y que la institución hizo un piloto con tecnologías de la empresa."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/republica-dominicana-bajo-la-lupa-lluvias-subsidios-millonarios-y-reunion-electoral-de-25-paises-marcan-la-actualidad/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-se-reune-con-ejecutivos-de-spacex-republica-dominicana-ya-cuenta-con-50000-antenas-starlink/"
+        },
+        {
+          "nombre": "El Seis (Canal 6)",
+          "url": "https://elseis.do/noticias/jce-y-oea-inauguran-la-xix-reunion-interamericana-de-autoridades-electorales"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/11/10/republica-dominicana-reunira-a-lideres-electorales-de-25-paises-para-hablar-del-futuro-del-voto-ante-los-ciberataques-y-la-ia/"
+        }
+      ]
+    },
     {
       "id": "2026-11-12-derrumbe-edificio-flatbush-ocho-muertos",
       "fecha": "2026-11-12",
@@ -99,7 +237,7 @@
       "id": "2026-11-12-hodelpa-certificacion-bioscore",
       "fecha": "2026-11-12",
       "seccion": "rd",
-      "destacada": true,
+      "destacada": false,
       "destacada_hasta": "2026-11-12",
       "kicker": "Turismo · Sostenibilidad",
       "titulo": "Los nueve hoteles de Hodelpa obtienen la certificación de sostenibilidad Bioscore",
