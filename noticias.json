@@ -1,11 +1,121 @@
 {
-  "actualizado": "2026-11-13T13:52:41-04:00",
+  "actualizado": "2026-11-13T19:51:05-04:00",
   "notas": [
+    {
+      "id": "2026-11-13-faa-detiene-vuelos-en-todo-estados-unidos",
+      "fecha": "2026-11-13",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Viajes · Estados Unidos",
+      "titulo": "La FAA detiene las salidas de vuelos en todos los aeropuertos de Estados Unidos por una falla de comunicaciones",
+      "bajada": "La medida, poco común, se tomó la tarde de este viernes y sigue vigente hasta nuevo aviso. Las autoridades dominicanas piden a los viajeros confirmar su vuelo antes de ir al aeropuerto.",
+      "cuerpo": [
+        "La Administración Federal de Aviación (FAA) ordenó la tarde de este viernes 13 de noviembre detener todas las salidas de vuelos desde los aeropuertos de Estados Unidos, tras un problema de comunicaciones que afecta a los centros regionales de control de tránsito aéreo, que dirigen los aviones entre un aeropuerto y otro.",
+        "En su aviso, la FAA explicó que la parada se aplica \"por circunstancias extraordinarias y por razones de seguridad\" y que se mantendrá hasta nuevo aviso. Los aviones que ya estaban en el aire pueden seguir a su destino, y los vuelos internacionales que se dirigen al país se atenderán caso por caso, según la agencia. El secretario de Transporte, Sean Duffy, informó que técnicos de la FAA investigan la falla.",
+        "El secretario de Seguridad Nacional, Markwayne Mullin, dijo que hasta ahora no hay indicios de un ataque y que se trata de una avería de telecomunicaciones, de acuerdo con la agencia AP. Al cierre de esta nota no se había informado una hora para reanudar los vuelos ni cifras oficiales de vuelos afectados. Es la primera parada nacional de este tipo desde enero de 2023.",
+        "Para la comunidad dominicana, que viaja con frecuencia entre Nueva York, Nueva Jersey, Florida y la isla, el impacto es directo. El Gabinete de Turismo de República Dominicana pidió a los pasajeros revisar el estado de sus vuelos con las aerolíneas y no ir a los aeropuertos sin confirmar cambios. Según El Día, la medida solo afecta vuelos hacia y desde Estados Unidos; los vuelos de la isla a Europa y América Latina siguen operando.",
+        "Antes de salir hacia el aeropuerto, conviene consultar la aplicación o la página de su aerolínea y el estado del sistema aéreo en nasstatus.faa.gov."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Washington",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/turismo-pide-verificar-vuelos-tras-suspension-de-operaciones-aereas-en-estados-unidos/"
+        },
+        {
+          "nombre": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+        },
+        {
+          "nombre": "NBC4 Washington (AP)",
+          "url": "https://www.nbcwashington.com/news/national-international/faa-ground-stop-nationwide-us-airports/4182917/"
+        },
+        {
+          "nombre": "Scripps News",
+          "url": "https://www.scrippsnews.com/us-news/faa-issues-nationwide-ground-stop-on-us-air-traffic"
+        },
+        {
+          "nombre": "ABC7",
+          "url": "https://abc7.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-leonel-fernandez-y-abel-martinez-visitan-la-diaspora",
+      "fecha": "2026-11-13",
+      "seccion": "politica",
+      "destacada": false,
+      "kicker": "Política dominicana · Nueva York",
+      "titulo": "Leonel Fernández y Abel Martínez preparan encuentros con la diáspora en Nueva York",
+      "bajada": "El presidente de la Fuerza del Pueblo tendrá dos actos este domingo en El Bronx y Manhattan; el aspirante del PLD anunció reuniones en Nueva York y Nueva Jersey para la próxima semana.",
+      "cuerpo": [
+        "El expresidente Leonel Fernández, presidente de la Fuerza del Pueblo (FP), encabezará este domingo 15 de noviembre dos actos con dominicanos en Nueva York, como parte de una gira por Estados Unidos que incluye Massachusetts y Nueva Jersey, según El Nuevo Diario y El Día.",
+        "El primer encuentro será a las 11:00 de la mañana en el salón Beverly Hills Manor, en el 1700 de la avenida Jerome, cerca de la calle 175, en El Bronx, organizado por el proyecto \"300 con Leonel\", que dirige Geraldo Rosario. El segundo será a las 3:00 de la tarde en Taíno Towers, en la Segunda Avenida con la calle 123, en Manhattan, donde se juramentarán nuevos miembros del partido. Ambos actos los coordina el arquitecto Franklin Labolur, director operativo de la FP.",
+        "Según esos medios, Fernández plantea una \"alianza estratégica con la diáspora\" y propone un Ministerio de Dominicanos en el Exterior, de cara a las elecciones de 2028.",
+        "Por su parte, el aspirante presidencial del Partido de la Liberación Dominicana (PLD) y exalcalde de Santiago, Abel Martínez, anunció que viajará la próxima semana a Nueva York y Nueva Jersey con una delegación de miembros del Comité Central de su partido. De acuerdo con una nota de prensa de su equipo, publicada por El Nuevo Diario, se reunirá con dirigentes del PLD en el exterior y con líderes comunitarios. No se informaron fechas exactas.",
+        "Las visitas muestran el peso de los dominicanos en Estados Unidos dentro de la política de la isla: la diáspora vota en las elecciones presidenciales y elige diputados propios."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/leonel-fernandez-encabezara-este-domingo-en-nyc-encuentros-con-cientos-de-dominicanos/"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/leonel-fernandez-encabezara-este-domingo-en-nyc-encuentros-con-cientos-de-dominicanos/"
+        },
+        {
+          "nombre": "Canal 6 (El Seis)",
+          "url": "https://elseis.do/noticias/leonel-fernandez-encabezara-actos-en-el-bronx-y-manhattan-con-la-diaspora-dominicana"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/abel-martinez-viajara-a-ee-uu-para-fortalecer-su-compromiso-con-la-diaspora-dominicana/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-hombre-golpeado-en-arresto-por-error-demanda-a-la-ciudad",
+      "fecha": "2026-11-13",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Comunidad · Brooklyn",
+      "titulo": "Hombre golpeado en un arresto por error en Brooklyn demanda a la ciudad y al NYPD por $100 millones",
+      "bajada": "Timothy Brown fue detenido en abril en una licorería de Gowanus por detectives que lo confundieron con un sospechoso; la fiscalía no presentó cargos en su contra.",
+      "cuerpo": [
+        "Timothy Brown, un vecino de Brooklyn, presentó una demanda federal por $100 millones contra la ciudad de Nueva York y agentes del Departamento de Policía (NYPD), siete meses después de ser golpeado y arrestado por error dentro de una licorería en Gowanus, según El Día y el canal NY1.",
+        "El arresto ocurrió en abril y fue grabado en video por otro cliente. De acuerdo con la demanda, detectives de narcóticos encubiertos lo confundieron con una persona vinculada a la venta de drogas. La fiscalía decidió no presentar cargos contra Brown, y no se le encontraron sustancias ilegales, según El Día.",
+        "Sus abogados, de la firma Cochran, afirman que sufrió fracturas de costillas y de la nariz, además de otras lesiones, y que hoy camina con bastón. \"Esto ha cambiado su vida por completo\", dijo el abogado Derek Sells, citado por El Día. Las acusaciones de la demanda no han sido probadas en un tribunal.",
+        "Según NY1, el NYPD puso en funciones limitadas a los detectives y a su sargento, disolvió su equipo y ordenó auditorías de las unidades de narcóticos, además de aclarar que los agentes deben activar sus cámaras corporales durante los arrestos.",
+        "El caso reabre el debate sobre la supervisión policial en una ciudad donde miles de familias hispanas y dominicanas viven en barrios con fuerte presencia de unidades antidrogas."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Brooklyn",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/afroamericano-demanda-por-us100-millones-a-nyc-y-nypd-tras-golpiza-y-arresto-por-error-de-identidad/"
+        },
+        {
+          "nombre": "NY1",
+          "url": "https://ny1.com/nyc/all-boroughs/news/2026/11/11/100m-lawsuit-follows-mistaken-nypd-arrest-in-gowanus"
+        }
+      ]
+    },
     {
       "id": "2026-11-13-concejo-prohibe-precios-vigilancia-datos-personales",
       "fecha": "2026-11-13",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · Nueva York",
       "titulo": "El Concejo de Nueva York prohíbe cobrar precios distintos a cada cliente usando sus datos personales",
       "bajada": "La medida, aprobada 44 a 5, frena los precios fijados por algoritmos según el perfil del comprador. Entraría en vigor un año después de convertirse en ley.",
