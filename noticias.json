@@ -1,11 +1,49 @@
 {
-  "actualizado": "2026-11-14T13:49:40-04:00",
+  "actualizado": "2026-11-14T19:49:31-04:00",
   "notas": [
+    {
+      "id": "2026-11-14-suspension-vuelos-cancelaciones-aeropuertos-rd",
+      "fecha": "2026-11-14",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · Viajes",
+      "titulo": "La parada de vuelos en EE. UU. dejó 25 vuelos cancelados en aeropuertos dominicanos y pasajeros varados en Las Américas",
+      "bajada": "La FAA levantó la orden el viernes en la noche tras más de cuatro horas, pero las aerolíneas siguen reprogramando y el Gobierno estadounidense advierte que habrá retrasos y cancelaciones en los próximos días.",
+      "cuerpo": [
+        "La suspensión nacional de salidas de vuelos que ordenó la Administración Federal de Aviación (FAA) el viernes 13 de noviembre provocó la cancelación de 25 operaciones —15 salidas y 10 llegadas— en los aeropuertos internacionales de República Dominicana entre el viernes y este sábado 14, según el más reciente conteo publicado por El Día y El Nuevo Diario.",
+        "La mayoría de las cancelaciones, 22, ocurrieron en el Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo, en vuelos de JetBlue, American Airlines, Arajet, Delta y United hacia y desde Nueva York (JFK y Newark), Miami, Fort Lauderdale, Orlando, Boston y San Juan, Puerto Rico. Un reporte anterior de Aerodom, citado por Diario Libre, contaba 19. En el aeropuerto Gregorio Luperón, de Puerto Plata, se cancelaron tres vuelos de Delta y Air Transat, que fueron reprogramados para este sábado.",
+        "Diario Libre reportó que el sábado todavía había pasajeros esperando en el AILA; algunos durmieron en la terminal y otros se quejaron de que las aerolíneas solo les ofrecieron cambiar la hora del vuelo.",
+        "En Estados Unidos, la orden de la FAA comenzó a las 3:54 de la tarde (hora del Este) y fue levantada a las 8:15 de la noche, según el secretario de Transporte, Sean Duffy, que la atribuyó a una sobrecarga de equipos de telecomunicaciones en los centros de control de tráfico aéreo. El secretario de Seguridad Nacional, Markwayne Mullin, descartó un ciberataque. De acuerdo con datos de FlightRadar24 citados por Al Jazeera, el viernes se cancelaron más de 4,700 vuelos en el país y unos 10,000 sufrieron retrasos. Duffy advirtió que seguirá habiendo demoras mientras las aerolíneas reprograman: \"va a ser lento\", dijo.",
+        "Para la comunidad dominicana, que viaja con frecuencia entre la isla y Nueva York, Nueva Jersey y Florida, la recomendación sigue siendo la misma: confirmar el estado del vuelo directamente con la aerolínea antes de salir hacia el aeropuerto y estar atentos a cambios de horario en los próximos días."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/se-elevan-a-25-los-vuelos-cancelados-entre-republica-dominicana-ee-uu-y-puerto-rico/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/suman-25-los-vuelos-cancelados-en-aeropuertos-de-rd-por-cierre-del-espacio-aereo-de-ee-uu/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/economia/turismo/2026/11/14/la-suspension-de-vuelos-mantiene-a-pasajeros-varados-en-el-aila/3720704"
+        },
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+        }
+      ]
+    },
     {
       "id": "2026-11-14-leonel-fernandez-vuelo-desviado-washington-agenda-diaspora",
       "fecha": "2026-11-14",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política dominicana · Estados Unidos",
       "titulo": "El vuelo de Leonel Fernández terminó en Washington por la suspensión nacional de vuelos; mantiene su agenda con la diáspora",
       "bajada": "El presidente de la Fuerza del Pueblo, que viajaba a Nueva York, aterrizó el viernes en el aeropuerto Reagan. Este sábado tiene un encuentro en Harvard y el domingo actos en el Bronx, Nueva Jersey y Manhattan.",
