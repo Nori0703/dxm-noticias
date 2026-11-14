@@ -1,11 +1,79 @@
 {
-  "actualizado": "2026-11-13T19:51:05-04:00",
+  "actualizado": "2026-11-14T13:49:40-04:00",
   "notas": [
+    {
+      "id": "2026-11-14-leonel-fernandez-vuelo-desviado-washington-agenda-diaspora",
+      "fecha": "2026-11-14",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política dominicana · Estados Unidos",
+      "titulo": "El vuelo de Leonel Fernández terminó en Washington por la suspensión nacional de vuelos; mantiene su agenda con la diáspora",
+      "bajada": "El presidente de la Fuerza del Pueblo, que viajaba a Nueva York, aterrizó el viernes en el aeropuerto Reagan. Este sábado tiene un encuentro en Harvard y el domingo actos en el Bronx, Nueva Jersey y Manhattan.",
+      "cuerpo": [
+        "El expresidente Leonel Fernández, presidente de la Fuerza del Pueblo (FP), llegó a Estados Unidos la noche del viernes 13 de noviembre, pero no a Nueva York como estaba previsto: su vuelo regular de Delta desde República Dominicana fue desviado al Aeropuerto Nacional Ronald Reagan, en Washington D. C., según informó El Día.",
+        "El cambio ocurrió por la orden de la Administración Federal de Aviación (FAA) que detuvo ese viernes por la tarde las salidas en todos los aeropuertos del país. El aviso de la FAA citó \"circunstancias extraordinarias\" y razones de seguridad, y el secretario de Transporte, Sean Duffy, atribuyó la falla a un problema de comunicaciones en los centros de control de tráfico aéreo. Según FlightAware, citado por Al Jazeera y Reuters, unos 7,000 vuelos sufrieron retrasos o cancelaciones; medios estadounidenses informaron después que la FAA levantó la orden y los vuelos comenzaron a reanudarse.",
+        "De acuerdo con El Día, Fernández llegó acompañado de la doctora Daisy Ventura y de miembros de su seguridad personal. Para este sábado tiene previsto un encuentro con académicos de la Universidad de Harvard, en Cambridge, Massachusetts.",
+        "El domingo 15 se reunirá a las 11:00 de la mañana con empresarios y emprendedores dominicanos en el salón Beverly Hills Manor (1700 Jerome Avenue, en el Bronx); luego irá a Hackensack, Nueva Jersey, y por la tarde regresará a Manhattan para juramentar nuevos miembros del partido en Taíno Towers, en la Segunda Avenida con la calle 123.",
+        "La gira forma parte del trabajo de los partidos dominicanos con la diáspora de cara a las elecciones de 2028. Quienes tengan vuelos estos días hacia o desde República Dominicana deben confirmar el estado de su viaje con su aerolínea."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Washington D. C.",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/leonel-fernandez-llego-el-viernes-a-washington-d-c-en-vuelo-regular-de-rd/"
+        },
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+        },
+        {
+          "nombre": "WCVB",
+          "url": "https://www.wcvb.com/article/faa-ground-stop-nov-13-2026/74427064"
+        },
+        {
+          "nombre": "NBC Chicago",
+          "url": "https://www.nbcchicago.com/news/local/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-and-safety/4016516/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-casos-de-gripe-se-disparan-en-nueva-york",
+      "fecha": "2026-11-14",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Salud · Nueva York",
+      "titulo": "Los casos de gripe se disparan en el estado de Nueva York y las autoridades piden vacunarse antes de Thanksgiving",
+      "bajada": "Los contagios confirmados subieron 77 % en una semana y las hospitalizaciones se duplicaron, según el Departamento de Salud estatal.",
+      "cuerpo": [
+        "La temporada de gripe llegó temprano y con fuerza al estado de Nueva York. En su reporte semanal más reciente, el Departamento de Salud estatal contabilizó 7,696 casos confirmados de influenza, un 77 % más que la semana anterior, y 668 personas hospitalizadas, un aumento de 105 %.",
+        "El comisionado de Salud del estado, el doctor James McDonald, advirtió que la vacunación va más baja que el año pasado y recomendó ponerse la vacuna al menos dos semanas antes de las reuniones de Acción de Gracias, porque los niños transmiten el virus con facilidad. También hay vacunas disponibles contra el RSV y el COVID-19. \"La gripe ya está aquí\", resumió McDonald.",
+        "Según El Día, citando cifras del Departamento de Salud, en las últimas cuatro semanas se confirmaron 18,739 casos en el estado, frente a 2,657 en el mismo período de 2025. En la temporada pasada, cerca de 27,000 neoyorquinos fueron hospitalizados por gripe.",
+        "El Departamento de Salud de la ciudad recomienda lavarse las manos con frecuencia, quedarse en casa si se está enfermo y usar mascarilla en lugares concurridos. Las personas mayores de 65 años o con defensas bajas pueden pedir la vacuna de dosis alta. Para encontrar un lugar de vacunación cercano se puede llamar al 311.",
+        "Con las fiestas de fin de año y los viajes a República Dominicana a la vuelta de la esquina, la vacuna es una forma sencilla de proteger a los mayores y a los niños de la familia."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/los-casos-de-gripe-aumentan-en-ny-antes-de-las-fiestas-de-halloween-y-navidad/"
+        },
+        {
+          "nombre": "International Business Times",
+          "url": "https://www.ibtimes.com.au/new-york-flu-cases-hospitalisations-surge-early-1878107"
+        }
+      ]
+    },
     {
       "id": "2026-11-13-faa-detiene-vuelos-en-todo-estados-unidos",
       "fecha": "2026-11-13",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Viajes · Estados Unidos",
       "titulo": "La FAA detiene las salidas de vuelos en todos los aeropuertos de Estados Unidos por una falla de comunicaciones",
       "bajada": "La medida, poco común, se tomó la tarde de este viernes y sigue vigente hasta nuevo aviso. Las autoridades dominicanas piden a los viajeros confirmar su vuelo antes de ir al aeropuerto.",
