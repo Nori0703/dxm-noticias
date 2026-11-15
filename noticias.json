@@ -1,11 +1,44 @@
 {
-  "actualizado": "2026-11-14T19:49:31-04:00",
+  "actualizado": "2026-11-15T13:49:16-04:00",
   "notas": [
+    {
+      "id": "2026-11-15-vuelos-cancelados-rd-suben-43-normalidad-domingo",
+      "fecha": "2026-11-15",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · Viajes",
+      "titulo": "Suben a 43 los vuelos cancelados en República Dominicana; EE. UU. espera normalizar las operaciones este domingo",
+      "bajada": "Aerodom contó diez cancelaciones más este domingo en Las Américas, por mal tiempo y por las secuelas de la parada aérea en Estados Unidos. La FAA prevé que los horarios se recuperen al cierre del día.",
+      "cuerpo": [
+        "Los aeropuertos de República Dominicana acumulan 43 vuelos cancelados entre el viernes 13 y este domingo 15 de noviembre —22 salidas y 21 llegadas—, según el conteo de Aeropuertos Dominicanos Siglo XXI (Aerodom) publicado por El Día. Solo este domingo se suspendieron diez operaciones, todas en el Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo.",
+        "De acuerdo con Aerodom, 29 de las cancelaciones se deben al cierre del espacio aéreo de Estados Unidos y sus efectos, siete al mal tiempo, cuatro a problemas del control aéreo en Canadá y dos a falta de tripulación de Delta en Atlanta. El sábado fue el peor día, con 19 cancelaciones entre Las Américas y Puerto Plata. Este domingo los vuelos suspendidos fueron sobre todo de JetBlue, hacia y desde Nueva York, San Juan, Fort Lauderdale y Orlando, además de operaciones de American Airlines afectadas por la reorganización de sus tripulaciones. Otros vuelos hacia Nueva York, Miami y Boston salieron con retraso.",
+        "En Estados Unidos, el director de la Administración Federal de Aviación (FAA), Bryan Bedford, pronosticó que los horarios podrían recuperarse por completo al final de este domingo, aunque las aerolíneas todavía deben reubicar aviones y tripulaciones, según Diario Libre. La plataforma FlightAware contaba más de 1,200 vuelos cancelados en el país en la mañana del domingo. Las autoridades atribuyen la falla a trabajos de sustitución de líneas de cobre por fibra óptica, que afectaron las comunicaciones y señales de radar, y descartaron un ciberataque.",
+        "Para los dominicanos que viajan entre la isla y Nueva York, Nueva Jersey, Boston o Florida, la recomendación sigue siendo verificar el estado del vuelo directamente con la aerolínea antes de salir hacia el aeropuerto, ya que los retrasos pueden continuar mientras las compañías terminan de reprogramar."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/cancelan-10-vuelos-este-domingo-en-las-americas-por-mal-tiempo-y-efectos-del-cierre-aereo-de-ee-uu/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/15/cuales-son-los-vuelos-cancelados-entre-ee-uu-y-la-rd/3721155"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/11/15/decenas-de-pasajeros-quedaron-varados-en-republica-dominicana-tras-la-suspension-de-19-vuelos-a-estados-unidos/"
+        }
+      ]
+    },
     {
       "id": "2026-11-14-suspension-vuelos-cancelaciones-aeropuertos-rd",
       "fecha": "2026-11-14",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · Viajes",
       "titulo": "La parada de vuelos en EE. UU. dejó 25 vuelos cancelados en aeropuertos dominicanos y pasajeros varados en Las Américas",
       "bajada": "La FAA levantó la orden el viernes en la noche tras más de cuatro horas, pero las aerolíneas siguen reprogramando y el Gobierno estadounidense advierte que habrá retrasos y cancelaciones en los próximos días.",
