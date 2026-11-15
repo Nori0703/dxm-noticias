@@ -1,11 +1,81 @@
 {
-  "actualizado": "2026-11-15T13:49:16-04:00",
+  "actualizado": "2026-11-15T19:51:08-04:00",
   "notas": [
+    {
+      "id": "2026-11-15-dominicana-75-anos-muere-hunts-point-sobrino-bajo-custodia",
+      "fecha": "2026-11-15",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · El Bronx",
+      "titulo": "Muere una dominicana de 75 años en Hunts Point tras una agresión en su apartamento; su sobrino quedó bajo custodia",
+      "bajada": "Carmen Núñez fue llevada al Hospital Lincoln la madrugada del sábado y no sobrevivió. La policía detuvo en el lugar a un sobrino de 35 años, pero hasta ahora no se han anunciado cargos.",
+      "cuerpo": [
+        "Carmen Núñez, una dominicana de 75 años, murió la madrugada del sábado 14 de noviembre después de ser agredida dentro de su apartamento en el 754 de la calle Manida, en Hunts Point, El Bronx. La policía recibió una llamada al 911 alrededor de las 12:43 a. m. por una agresión en curso y la encontró inconsciente; fue trasladada al Hospital Lincoln, donde la declararon muerta.",
+        "Según fuentes policiales citadas por News 12 y Diario Libre, una discusión con un sobrino de 35 años terminó en un ataque físico. El hombre fue puesto bajo custodia en el lugar, pero la policía no ha divulgado su nombre ni ha informado cargos formales. Como cualquier persona señalada en una investigación, se presume inocente mientras un tribunal no determine lo contrario.",
+        "Vecinos del edificio la describieron como una figura querida en la comunidad; uno de ellos la llamó \"la madre del edificio\", según Diario Libre. El caso lo investiga el NYPD, en la zona del Precinto 41.",
+        "Hunts Point es uno de los vecindarios del sur del Bronx con mayor presencia de familias dominicanas y latinas. Las personas que necesiten ayuda ante una situación de violencia en el hogar pueden llamar al 911 en caso de emergencia o a la línea de NYC Hope, 1-800-621-4673, disponible en español las 24 horas."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "El Bronx, Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-domingo-15-de-noviembre-de-2026-nueva-york-despierta-con-dos-muertes-violentas-investigaciones-del-nypd-y-creciente-preocupacion-por-incendios-de-baterias-electricas/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/15/dominicana-en-el-bronx-muere-tras-ser-golpeada-por-un-sobrino/3721224"
+        },
+        {
+          "nombre": "News 12 The Bronx",
+          "url": "https://bronx.news12.com/75-year-old-woman-found-dead-in-hunts-point-home-nephew-in-custody-sources-say"
+        },
+        {
+          "nombre": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/bronx-man-held-after-aunt-death-1832295"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-rd-al-dia-guajimia-santiago-cultura-sur",
+      "fecha": "2026-11-15",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: entregan tramo saneado de la cañada Guajimía, tiroteo en Santiago y cierre del festival Cultura en el Sur",
+      "bajada": "El Gobierno puso en servicio casi un kilómetro y medio de la cañada en Santo Domingo Oeste, un sargento murió en un enfrentamiento en Santiago y Azua despide cuatro días de actividades culturales.",
+      "cuerpo": [
+        "La vicepresidenta Raquel Peña y el director de la Caasd, Felipe (Fellito) Suberví, entregaron el sábado 14 de noviembre 1,489 metros lineales saneados de la cañada Guajimía, en Ciudad Agraria y Bayona, Santo Domingo Oeste. La obra costó unos RD$466.7 millones e incluye canalización de aguas pluviales y residuales, calles, aceras, iluminación y espacios recreativos. Según la Caasd, beneficia a más de 17,000 personas.",
+        "Suberví dijo que ya se han intervenido 23.5 kilómetros de los 63 de cañadas previstos en el Gran Santo Domingo, y que los tramos de Las Caobas y Caoba Park deben estar listos en el primer trimestre de 2027.",
+        "En Santiago, según Zabala al Día y la Policía Nacional, el sargento Juan Isaac Espinal Jiménez, de 35 años y miembro de la Dirección Central de Investigaciones (Dicrim), murió el jueves 12 durante un operativo en la zona de Gurabo, en el que también fallecieron otras tres personas. La Policía vinculó a dos de los hombres con investigaciones de homicidio; las circunstancias del enfrentamiento siguen bajo investigación, y ninguno de los señalados fue juzgado. El agente deja cuatro hijos.",
+        "Este domingo 15 cerró en el recinto de la UASD en Azua el festival Cultura en el Sur, organizado por el Ministerio de Cultura desde el jueves 12, con 51 actividades y artistas de Azua, San Juan, Elías Piña, San José de Ocoa, Peravia y San Cristóbal, y un homenaje al artista plástico Dionisio Blanco."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-la-republica-dominicana-gobierno-entrega-obra-millonaria-en-guajimia-y-la-seguridad-policial-vuelve-al-debate-nacional/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/14/la-caasd-entrega-1489-metros-de-canada-de-guajimia-saneados/3720786"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/roberto-angel-salcedo-anuncia-festival-cultura/"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-vuelos-cancelados-rd-suben-43-normalidad-domingo",
       "fecha": "2026-11-15",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · Viajes",
       "titulo": "Suben a 43 los vuelos cancelados en República Dominicana; EE. UU. espera normalizar las operaciones este domingo",
       "bajada": "Aerodom contó diez cancelaciones más este domingo en Las Américas, por mal tiempo y por las secuelas de la parada aérea en Estados Unidos. La FAA prevé que los horarios se recuperen al cierre del día.",
