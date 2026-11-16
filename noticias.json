@@ -1,11 +1,74 @@
 {
-  "actualizado": "2026-11-16T13:53:50-04:00",
+  "actualizado": "2026-11-16T19:51:44-04:00",
   "notas": [
+    {
+      "id": "2026-11-16-abinader-convoca-prm-frenar-choques-internos-2028",
+      "fecha": "2026-11-16",
+      "seccion": "rd",
+      "destacada": true,
+      "kicker": "Política · República Dominicana",
+      "titulo": "Abinader reúne a la cúpula del PRM para frenar las peleas públicas por la candidatura de 2028",
+      "bajada": "El presidente convocó este lunes a la alta dirigencia de su partido tras varios días de choques entre figuras oficialistas, incluido el cónsul dominicano en Nueva York.",
+      "cuerpo": [
+        "El presidente Luis Abinader convocó a la alta dirigencia del Partido Revolucionario Moderno (PRM) a una reunión en la sede del partido en Santo Domingo la tarde de este lunes 16 de noviembre, con el objetivo de poner freno a los enfrentamientos públicos entre dirigentes que aspiran a sucederlo en 2028. Abinader no puede volver a postularse por mandato constitucional.",
+        "La convocatoria llega después de una semana de cruces. La vicepresidenta Raquel Peña denunció una campaña en su contra que calificó de \"sucia, despiadada y grosera\", luego de cuestionamientos por una licitación de ingredientes para habichuelas con dulce; la exvicepresidenta Milagros Ortiz Bosch respondió que a Peña le faltaba experiencia política.",
+        "La disputa también tocó a la diáspora: el cónsul dominicano en Nueva York, Jesús \"Chu\" Vásquez, cuestionó la militancia del ministro de Turismo, David Collado, y recibió respuestas del presidente de la Cámara de Diputados, Alfredo Pacheco, y del diputado Ramón Bueno. Collado ha dicho que no ha declarado aspiraciones presidenciales.",
+        "En paralelo, la diputada Maribel Almánzar retiró un proyecto sobre documentos de identidad para personas cuya nacionalidad no pudiera determinarse, después de que la Dirección Ejecutiva del PRM lo rechazara. La vicepresidenta ejecutiva del partido, Deligne Ascención, pidió tramitar las diferencias por canales internos mientras se redacta un reglamento de conducta para los aspirantes y sus equipos.",
+        "Para los dominicanos en Estados Unidos, la pugna interna del partido de gobierno anticipa una campaña larga en la que el voto y la dirigencia del exterior, sobre todo en Nueva York, vuelven a estar en juego."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-convoca-a-la-cupula-del-prm-a-reunion-urgente-para-frenar-los-choques-internos-rumbo-al-2028/"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/abinader-convoca-a-dirigentes-del-prm-para-frenar-enfrentamientos-publicos/"
+        },
+        {
+          "nombre": "El Día · Entérate NY",
+          "url": "https://eldia.com.do/enterate-ny-33/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-viettel-entra-mercado-dominicano-indotel-concesion",
+      "fecha": "2026-11-16",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "Economía · República Dominicana",
+      "titulo": "Viettel llega a República Dominicana: Indotel firma concesiones con Claro y la operadora vietnamita por US$119.5 millones",
+      "bajada": "La entrada de un nuevo operador móvil promete más competencia en un mercado que afecta directamente lo que pagan las familias por llamadas, datos e internet.",
+      "cuerpo": [
+        "El Instituto Dominicano de las Telecomunicaciones (Indotel) firmó este lunes 16 de noviembre los contratos de concesión con Claro Dominicana y Viettel Dominicana, filial del grupo vietnamita Viettel, que entra así como nuevo operador al mercado dominicano.",
+        "Las dos empresas recibieron en total 260 megahercios (MHz) de espectro radioeléctrico, con compromisos por US$119.5 millones: US$107 millones corresponden a Viettel y el resto, US$12.5 millones, a Claro, cuya concesión fue ampliada. Según Zabala al Día, el paquete incluye frecuencias de la banda de 700 MHz que quedaron sin asignar en las licitaciones de 2021 y 2023, y hasta un 30 % de los montos podrá destinarse a proyectos como becas digitales y expansión de fibra óptica.",
+        "El presidente del Consejo Directivo del Indotel, Guido Gómez Mazara, defendió la llegada del nuevo competidor: \"La competencia es buena, saludable\", dijo. Según Listín Diario, Gómez estimó que Viettel podría empezar a cumplir sus compromisos en un plazo de tres a cuatro meses.",
+        "Viettel ya opera en Haití, bajo la marca Natcom, y en Perú. Para los dominicanos de la diáspora que mantienen planes y recargas para familiares en la isla, un mercado con más operadores podría traducirse en más opciones de precio y cobertura, aunque las tarifas dependerán de cómo despliegue la empresa su red."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/viettel-entra-al-mercado-dominicano-indotel-firma-concesion-con-claro-y-viettel-por-usd-119-5-millones/"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/gobierno/20261116/indotel-firma-contrato-viettel-claro-us-119-5-millones-fortalecer-telecomunicaciones-rd_930315.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-falla-tecnica-interrumpe-examen-shsat-nueva-york",
       "fecha": "2026-11-16",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Educación · Nueva York",
       "titulo": "Falla técnica interrumpe el examen de ingreso a las escuelas especializadas de Nueva York",
       "bajada": "Estudiantes que no pudieron terminar el SHSAT el sábado tendrán una nueva fecha automáticamente, según el Departamento de Educación. El canciller ordenó investigar al proveedor.",
@@ -1003,72 +1066,6 @@
         {
           "nombre": "Yahoo News",
           "url": "https://www.yahoo.com/news/politics/articles/live-ny-election-results-2026-114907883.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-tres-dominicanos-congreso",
-      "fecha": "2026-11-04",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Orgullo dominicano",
-      "titulo": "Por primera vez, tres dominicanos llegan juntos al Congreso de Estados Unidos",
-      "bajada": "Darializa Ávila Chevalier en Nueva York, Analilia Mejía en Nueva Jersey y Manny Rutinel en Colorado formarán la mayor presencia dominicana en la historia de la Cámara de Representantes.",
-      "cuerpo": [
-        "La diáspora dominicana tendrá tres voces en la Cámara de Representantes al mismo tiempo, algo que nunca había pasado. Los tres ganaron sus distritos en las elecciones del martes 3 de noviembre, cada uno en un estado distinto.",
-        "En Nueva York, Darializa Ávila Chevalier, hija de inmigrantes dominicanos y egresada de la Universidad de Columbia, ganó el distrito 13, que incluye Washington Heights, Inwood, partes de Harlem y el noroeste del Bronx. En junio había derrotado en la primaria demócrata al congresista Adriano Espaillat, y el martes se impuso al republicano Manuel Williams.",
-        "En Nueva Jersey, Analilia Mejía, de raíces dominicanas y colombianas, retuvo el distrito 11 que ganó en una elección especial en abril, cuando se convirtió en la primera mujer de origen dominicano en el Congreso. En Colorado, el abogado y economista Manny Rutinel le arrebató el distrito 8 al republicano Gabe Evans: con cerca del 80% de los votos contados, tenía 56% frente al 40% de su rival.",
-        "Los tres juramentarán en enero, cuando empieza el nuevo Congreso."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-kathy-hochul-gana-la-gobernacion-los-democratas-avanzan-y-tres-dominicanos-llegan-al-congreso/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/04/tres-representantes-de-origen-dominicano-llegan-al-congreso-de-eeuu/3710071"
-        },
-        {
-          "nombre": "Infobae",
-          "url": "https://www.infobae.com/republica-dominicana/2026/11/04/tres-congresistas-de-origen-dominicano-llegan-al-congreso-federal-en-simultaneo-un-hecho-sin-precedentes-en-la-historia-legislativa-de-estados-unidos/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-democratas-camara-senado",
-      "fecha": "2026-11-04",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Elecciones 2026 · Washington",
-      "titulo": "Los demócratas toman el control de la Cámara y el Senado, según las proyecciones",
-      "bajada": "El resultado cambia el equilibrio en Washington para los dos últimos años del mandato de Donald Trump.",
-      "cuerpo": [
-        "El Partido Demócrata ganó el control de las dos cámaras del Congreso en las elecciones de medio término del martes 3 de noviembre, de acuerdo con las proyecciones de las principales cadenas de noticias. Antes de la votación, los republicanos tenían mayoría en ambas.",
-        "En juego estaban los 435 escaños de la Cámara de Representantes y 35 de los 100 del Senado. Algunos conteos y certificaciones siguen en curso, por lo que el número final de escaños de cada partido puede tardar días en conocerse.",
-        "Con la mayoría en la Cámara, los demócratas controlarán la agenda legislativa y las investigaciones de los comités. En el Senado, podrán frenar o aprobar los nombramientos que envíe la Casa Blanca, incluidos jueces y miembros del gabinete.",
-        "El costo de la vida, los precios de la gasolina y la política migratoria dominaron la campaña, temas que pesan directamente sobre las familias inmigrantes."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Washington",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/politica/cambio-historico-en-washington-los-democratas-recuperan-la-camara-y-el-senado-en-las-elecciones-de-estados-unidos/"
-        },
-        {
-          "nombre": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
-        },
-        {
-          "nombre": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
         }
       ]
     }
