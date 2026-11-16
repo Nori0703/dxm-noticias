@@ -1,11 +1,136 @@
 {
-  "actualizado": "2026-11-15T19:51:08-04:00",
+  "actualizado": "2026-11-16T13:53:50-04:00",
   "notas": [
+    {
+      "id": "2026-11-16-falla-tecnica-interrumpe-examen-shsat-nueva-york",
+      "fecha": "2026-11-16",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Educación · Nueva York",
+      "titulo": "Falla técnica interrumpe el examen de ingreso a las escuelas especializadas de Nueva York",
+      "bajada": "Estudiantes que no pudieron terminar el SHSAT el sábado tendrán una nueva fecha automáticamente, según el Departamento de Educación. El canciller ordenó investigar al proveedor.",
+      "cuerpo": [
+        "Muchos estudiantes de octavo grado que presentaban el sábado 14 de noviembre el SHSAT, el examen que decide la admisión a las escuelas secundarias especializadas de Nueva York, fueron enviados a casa antes de tiempo porque no pudieron entrar o terminar la prueba en línea, informaron funcionarios de la ciudad.",
+        "El canciller de Escuelas, Kamar Samuels, atribuyó el problema a una falla técnica de la plataforma del proveedor y dijo que la prueba siguió con normalidad el domingo 15. El Departamento de Educación no ha dicho cuántos alumnos resultaron afectados.",
+        "Según el Departamento de Educación, quienes no pudieron completar el examen recibirán una nueva fecha de forma automática, sin que eso afecte su puntuación ni su consideración para la admisión. El calendario de este año incluye otra jornada el sábado 21 de noviembre y un día de prueba en las escuelas el 18.",
+        "Samuels dijo que pidió a su equipo una investigación completa del proveedor. \"Entiendo la frustración de nuestros estudiantes y familias\", afirmó. Legisladores de Brooklyn, entre ellos la concejal Susan Zhuang, criticaron en un comunicado conjunto al Departamento y a la empresa Pearson, encargada del examen, según amNY.",
+        "Para las familias hispanas y dominicanas con hijos en octavo grado, la recomendación es revisar los avisos de la escuela y de MySchools para confirmar la nueva fecha asignada."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-lunes-16-de-noviembre-de-2026-nueva-york-despierta-con-tres-muertes-violentas-bajo-investigacion-problemas-en-los-aeropuertos-y-nuevas-preocupaciones-por-la-seguridad/"
+        },
+        {
+          "nombre": "amNY",
+          "url": "https://www.amny.com/news/nyc-students-shsat-test-tech-outage/"
+        },
+        {
+          "nombre": "CBS New York",
+          "url": "https://www.cbsnews.com/newyork/video/shsat-rescheduled-for-nyc-students-after-technical-issue/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-policia-mata-conductor-belt-parkway-brooklyn",
+      "fecha": "2026-11-16",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Seguridad · Brooklyn",
+      "titulo": "Policía mata a conductor que embistió vehículos en el Belt Parkway tras un reporte de posible secuestro",
+      "bajada": "El NYPD dice que el hombre, de 26 años, huyó en una furgoneta y chocó patrullas y autos con personas dentro. La mujer que iba con él salió ilesa. El caso sigue bajo investigación.",
+      "cuerpo": [
+        "Agentes del NYPD mataron a tiros la noche del sábado 14 de noviembre a Omatoyo Neverson, de 26 años y residente de Brooklyn, en el Belt Parkway, después de una persecución que empezó con un reporte de posible secuestro en el sur del condado.",
+        "Según la policía, poco después de las 7:00 p. m. dos testigos alertaron a los agentes y llamaron al 911 porque vieron a una mujer gritando y pataleando dentro de una furgoneta blanca. Cuando los policías se acercaron, el conductor huyó y, ya en el Belt Parkway, avanzó y retrocedió \"embistiendo vehículos de la policía y de civiles con personas dentro\", dijo el subjefe Charles Minch.",
+        "Los agentes usaron gas pimienta y una pistola eléctrica sin lograr detenerlo, y luego dispararon, de acuerdo con el NYPD. Neverson murió en el hospital. La policía dijo que la mujer es adulta, no sufrió heridas y que el caso parece ser de violencia doméstica. Neverson era buscado por dos incidentes anteriores relacionados con ella. Como murió, no llegó a ser juzgado por esos casos.",
+        "Los hechos fueron grabados por las cámaras corporales de los agentes, pero los videos no se han hecho públicos. Según Zabala al Día, un teniente y tres agentes fueron asignados a funciones modificadas mientras se revisa el uso de la fuerza.",
+        "La investigación sobre el tiroteo y lo que lo provocó sigue abierta. Las víctimas de violencia doméstica en Nueva York pueden pedir ayuda en español a la línea directa de la ciudad, 1-800-621-4673."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Brooklyn, Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-lunes-16-de-noviembre-de-2026-nueva-york-despierta-con-tres-muertes-violentas-bajo-investigacion-problemas-en-los-aeropuertos-y-nuevas-preocupaciones-por-la-seguridad/"
+        },
+        {
+          "nombre": "CBS New York",
+          "url": "https://www.cbsnews.com/newyork/news/belt-parkway-police-shooting-nypd-coney-island-brooklyn/"
+        },
+        {
+          "nombre": "ABC7 New York",
+          "url": "https://abc7ny.com/post/officials-responding-police-involved-shooting-belt-parkway-brooklyn/20041109/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-rd-al-dia-lluvias-santiago-yaguate-vuelos",
+      "fecha": "2026-11-16",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: lluvias dejan una muerta en Santiago, entregan apartamentos en Yaguate y los vuelos se normalizan",
+      "bajada": "Unas 55 viviendas se inundaron en Santiago y una persona sigue desaparecida en Puerto Plata. En San Cristóbal, el Gobierno entregó la primera etapa de un residencial.",
+      "cuerpo": [
+        "Las lluvias del fin de semana inundaron unas 55 viviendas en Santiago, según datos preliminares de la Defensa Civil: cerca de 12 en Pinar del Río, en el distrito de Santiago Oeste, y unas 43 en Los Salados, Cambollita y sectores cercanos.",
+        "Una mujer de 57 años que fue arrastrada por la corriente de la cañada de Vuelta Larga, en Los Salados, fue hallada muerta la mañana del lunes 16, informó Diario Libre. En Puerto Plata, rescatistas buscan a una persona que fue arrastrada por el río Bajabonico cuando intentaba cruzarlo en motocicleta. Las autoridades piden no cruzar calles, arroyos ni cañadas con corriente fuerte. Según Zabala al Día, especialistas también alertan sobre casos de dengue y leptospirosis en temporada de lluvias.",
+        "En Yaguate, San Cristóbal, el presidente Luis Abinader entregó el domingo 15 los primeros 40 apartamentos del Residencial Villa Esperanza, que benefician a más de 200 personas que vivían en condiciones vulnerables. El ministro de Vivienda, Jean Luis Rodríguez, dijo que el proyecto tendrá 80 viviendas y que se trabaja en las 40 restantes. La inversión ronda los 305 millones de pesos.",
+        "Para los dominicanos que viajan desde Estados Unidos, Aerodom informó que las operaciones en los aeropuertos del país se están normalizando tras la suspensión de vuelos en EE. UU. del viernes 13: el lunes solo se reportó un vuelo afectado. La empresa recomienda confirmar el estado del vuelo directamente con la aerolínea."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/lluvias-dejan-55-viviendas-inundadas-en-santiago-reportan-una-mujer-desaparecida-y-continuan-las-emergencias/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-abinader-entrega-viviendas-crece-el-movimiento-politico-y-la-seguridad-ocupa-la-atencion-nacional/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/salud-y-belleza/alerta-por-dengue-y-leptospirosis-especialistas-advierten-sobre-nuevos-casos-en-republica-dominicana/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/11/16/mujer-arrastrada-por-canada-de-vuelta-larga-hallada-muerta-en-santiago/3721890"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/15/inundaciones-en-santiago-afectan-55-viviendas-y-mujer-esta-desaparecida/3721593"
+        },
+        {
+          "nombre": "La República",
+          "url": "https://larepublicaonline.com/lluvias-dejan-una-mujer-muerta-en-santiago-y-una-persona-desaparecida-en-puerto-plata/"
+        },
+        {
+          "nombre": "Canal 6",
+          "url": "https://elseis.do/noticias/abinader-entrega-40-apartamentos-del-residencial-villa-esperanza-en-yaguate"
+        },
+        {
+          "nombre": "Proceso",
+          "url": "https://proceso.com.do/2026/11/15/el-gobierno-inaugura-la-primera-etapa-del-residencial-villa-esperanza-en-yaguate/"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/operaciones-aereas-en-el-pais-comienzan-a-normalizarse-tras-alteraciones-en-estados-unidos"
+        }
+      ]
+    },
     {
       "id": "2026-11-15-dominicana-75-anos-muere-hunts-point-sobrino-bajo-custodia",
       "fecha": "2026-11-15",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · El Bronx",
       "titulo": "Muere una dominicana de 75 años en Hunts Point tras una agresión en su apartamento; su sobrino quedó bajo custodia",
       "bajada": "Carmen Núñez fue llevada al Hospital Lincoln la madrugada del sábado y no sobrevivió. La policía detuvo en el lugar a un sobrino de 35 años, pero hasta ahora no se han anunciado cargos.",
@@ -944,97 +1069,6 @@
         {
           "nombre": "NBC News",
           "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-fitch-sube-calificacion-rd",
-      "fecha": "2026-11-04",
-      "seccion": "economia",
-      "destacada": false,
-      "kicker": "Economía · República Dominicana",
-      "titulo": "Fitch sube la nota de República Dominicana a BB por su crecimiento y sus cuentas",
-      "bajada": "La calificadora mejoró un escalón la calificación del país y ahora prevé que la economía crezca 4.5% este año.",
-      "cuerpo": [
-        "La agencia Fitch Ratings elevó la calificación crediticia de largo plazo de República Dominicana de BB- a BB, con perspectiva estable. El anuncio se dio a conocer el martes 3 de noviembre.",
-        "Fitch citó la solidez de la economía, la resistencia de las cuentas fiscales y externas, la flexibilidad del tipo de cambio y el Plan Anticrisis lanzado por el Gobierno en junio, que busca reforzar los ingresos públicos.",
-        "La agencia subió su previsión de crecimiento para 2026 de 3.5% a 4.5%, por encima de la mediana de los países con su misma nota, y espera un ritmo parecido en 2027 y 2028. Calcula que la deuda del Gobierno central cerrará el año en 47.9% del PIB.",
-        "Una mejor calificación suele abaratar el dinero que el país pide prestado en el exterior y da más confianza a los inversionistas, algo que a la larga puede reflejarse en empleo y en las remesas que la diáspora envía a casa."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/economia/fitch-eleva-la-calificacion-crediticia-de-republica-dominicana-a-bb-con-perspectiva-estable/"
-        },
-        {
-          "nombre": "Dominican Today",
-          "url": "https://dominicantoday.com/fitch-raises-dominican-republics-sovereign-credit-rating-to-bb/"
-        },
-        {
-          "nombre": "Acento",
-          "url": "https://acento.com.do/economia/fitch-ratings-eleva-calificacion-de-republica-dominicana-a-bb-9783191.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-rd-al-dia-medicos-ia-amenazas",
-      "fecha": "2026-11-04",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "Médicos suspenden el paro, el Gobierno aprueba un código de ética para la inteligencia artificial y detienen a un joven por presuntas amenazas a Abinader",
-      "bajada": "Lo más importante de la isla este miércoles, mientras el presidente participa en la Cumbre Iberoamericana en Madrid.",
-      "cuerpo": [
-        "El Colegio Médico Dominicano suspendió el paro nacional de 24 horas previsto para este miércoles 4 de noviembre y la marcha al Palacio Nacional anunciada para el día 11, luego de acordar una reunión con el presidente Luis Abinader el jueves 12 de noviembre. El gremio reclama mejoras laborales, mejores condiciones en los hospitales y cambios en las normas del ejercicio médico.",
-        "El Gobierno aprobó un Código de Ética de la Inteligencia Artificial que servirá de guía para el uso responsable de esta tecnología en las instituciones públicas.",
-        "El Ministerio Público investiga presuntas amenazas contra la seguridad del presidente. El martes fue detenido en San Francisco de Macorís Delvinson De la Cruz Sosa, de 29 años, y se hicieron dos allanamientos. Las autoridades no han demostrado ante un tribunal la existencia de un plan, y el detenido se presume inocente.",
-        "Abinader llegó el martes a Madrid para la XXX Cumbre Iberoamericana, donde tendrá agenda oficial hasta el viernes 6. Allí reconoció a doce dominicanos residentes en Europa y se reunirá con el presidente del Banco de Desarrollo de América Latina y el Caribe, Sergio Díaz-Granados.",
-        "Además, una investigación de Diario Libre con datos de la Fundación Vida Sin Violencia contabiliza 77 mujeres asesinadas por sus parejas o exparejas en lo que va de 2026, con al menos 110 menores que quedaron sin su madre. Son cifras de la fundación, no estadísticas oficiales."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/politica/dominicana-abinader-participa-en-cumbre-en-madrid-medicos-suspenden-paro-y-gobierno-anuncia-medidas-de-inteligencia-artificial/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-investigan-presuntas-amenazas-contra-abinader-suspenden-paro-medico-y-crece-la-preocupacion-por-los-feminicidios/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/tecnologia/republica-dominicana-aprueba-un-codigo-de-etica-para-la-inteligencia-artificial-en-las-instituciones-publicas/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-onu-turismo-2027-rd",
-      "fecha": "2026-11-04",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "Turismo · República Dominicana",
-      "titulo": "República Dominicana será sede de la Asamblea General de ONU Turismo en 2027",
-      "bajada": "Abinader la presentó en Madrid como una vitrina para atraer inversión en un año en que el país espera más de 12 millones de visitantes.",
-      "cuerpo": [
-        "La 27.ª Asamblea General de ONU Turismo se celebrará en República Dominicana en 2027. El presidente Luis Abinader lo destacó en Madrid durante una reunión con la secretaria general del organismo, Shaikha Alnuwais, a la que asistió también el viceministro de Turismo Carlos Peguero.",
-        "Según el mandatario, el encuentro servirá para mostrar los destinos del país, atraer inversión y presentar a la isla como referente regional en turismo sostenible. República Dominicana, segundo destino turístico de América Latina después de México, preside por segundo periodo consecutivo la Comisión Regional para las Américas del organismo.",
-        "Abinader proyectó más de 12 millones de visitantes este año, más que la población del país, y vinculó el turismo a la meta de duplicar el tamaño de la economía para 2036."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Madrid",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/turismo/el-presidente-luis-abinader-destaca-celebracion-de-asamblea-general-de-onu-turismo-en-el-pais-en-2027-como-oportunidad-para-atraer-nuevas-inversiones/"
         }
       ]
     }
