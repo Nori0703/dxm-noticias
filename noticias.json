@@ -1,11 +1,120 @@
 {
-  "actualizado": "2026-11-16T19:51:44-04:00",
+  "actualizado": "2026-11-17T13:53:54-04:00",
   "notas": [
+    {
+      "id": "2026-11-17-trabajar-no-basta-1-3-millones-neoyorquinos-despensas",
+      "fecha": "2026-11-17",
+      "seccion": "economia",
+      "destacada": true,
+      "kicker": "Economía · Nueva York",
+      "titulo": "Tener empleo ya no basta: casi 1.3 millones de neoyorquinos acudieron a despensas de comida en 2025",
+      "bajada": "Un informe de Robin Hood y la Universidad de Columbia revela que más de la mitad de quienes buscan comida gratis en la ciudad trabajan o viven con alguien que trabaja.",
+      "cuerpo": [
+        "Cerca de 1.3 millones de residentes de la ciudad de Nueva York recurrieron en 2025 a despensas y otros servicios de comida gratuita, según un informe de la organización Robin Hood y la Universidad de Columbia presentado el lunes 16 de noviembre en el Banco de Alimentos de Nueva York.",
+        "El dato que más llama la atención es que el 55 % de esas personas tenía trabajo o vivía con una pareja que trabaja. Además, unos 2.6 millones de neoyorquinos, alrededor del 31 % de la población, dijeron que a veces o con frecuencia se quedaron sin comida o temieron quedarse sin ella.",
+        "“El trabajo debería alcanzar para poner comida en la mesa”, afirmó Richard Buery Jr., director ejecutivo de Robin Hood. Christopher Wimer, investigador de Columbia y coautor del estudio, advirtió que las despensas no pueden sustituir los programas públicos de asistencia.",
+        "El informe llega mientras miles de hogares pierden ayuda alimentaria: unos 26,500 residentes de la ciudad quedaron fuera del programa SNAP el 1 de octubre, según amNY. Esa reducción no aparece todavía en las cifras del estudio, que solo cubren 2025.",
+        "Para muchas familias dominicanas de Washington Heights y el Bronx, el golpe se siente en la compra diaria, que compite con el alquiler, la luz, el transporte y las medicinas, según testimonios recogidos por Zabala al Día."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/antes-con-100-dolares-llenabas-un-carrito-hoy-apenas-llevas-dos-funditas-el-alto-costo-de-la-comida-golpea-a-familias-dominicanas-de-nueva-york/"
+        },
+        {
+          "nombre": "amNY",
+          "url": "https://www.amny.com/news/new-yorkers-rely-food-pantries-as-snap-shrinks/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-fallas-bancos-united-airlines-lunes",
+      "fecha": "2026-11-17",
+      "seccion": "economia",
+      "destacada": false,
+      "kicker": "Economía · Estados Unidos",
+      "titulo": "Fallas en Chase, Wells Fargo y otros bancos dejan a miles de clientes sin acceso a sus cuentas en línea",
+      "bajada": "El lunes también hubo una interrupción en los sistemas de United Airlines. Chase atribuyó su problema a una falla interna y dijo que no fue un hackeo.",
+      "cuerpo": [
+        "Miles de clientes de grandes bancos de Estados Unidos reportaron el lunes 16 de noviembre problemas para entrar a sus cuentas, ver sus balances o hacer transferencias por internet y por aplicaciones, según datos del sitio Downdetector recogidos por Al Jazeera y AP.",
+        "Las quejas se concentraron en JPMorgan Chase, con cerca de 5,000 reportes, y en Wells Fargo, con más de 800. También hubo reportes sobre Bank of America, U.S. Bank, Capital One y la plataforma de pagos Zelle.",
+        "Chase explicó que se trató de una falla técnica interna y no de un ataque informático. El banco dijo que algunas transacciones tardaban más de lo normal, pero que sus clientes seguían teniendo acceso a sus cuentas y a su dinero, y que esperaba resolverlo ese mismo día.",
+        "Ese mismo lunes, United Airlines reconoció una interrupción generalizada de sus sistemas que afectó sus vuelos. Según Zabala al Día, que cita a Diario Libre, la aerolínea informó luego que el fallo quedó solucionado.",
+        "Para quienes envían remesas o pagan cuentas en línea, la recomendación es revisar que las transacciones del lunes se hayan completado y comunicarse con su banco si ven cargos duplicados o pagos pendientes."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/united-airlines-afirma-haber-solucionado-el-fallo-tecnologico-que-ha-afectado-a-sus-vuelos-sitios-de-bancos-en-ee-uu-presentan-fallos-pero-no-hay-ciberataque-segun-jpmorgan-chase/"
+        },
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks"
+        },
+        {
+          "nombre": "The National",
+          "url": "https://www.thenationalnews.com/future/2026/11/16/banking-outages-today-united-airlines/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-rd-al-dia-electricidad-policias-vuelos",
+      "fecha": "2026-11-17",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: plan de US$700 millones para la red eléctrica, 2,376 nuevos policías y vuelos que se normalizan",
+      "bajada": "El Gobierno anuncia inversión en redes y subestaciones, gradúa una nueva promoción de agentes y Aerodom reporta recuperación de las operaciones aéreas.",
+      "cuerpo": [
+        "El ministro de Energía y Minas, Joel Santos, informó que el Gobierno proyecta invertir más de US$700 millones en el sistema de distribución eléctrica en los próximos dos años, con unos 1,800 kilómetros de redes y 18 subestaciones. Unos US$400 millones corresponderían a 2027.",
+        "La meta es bajar las pérdidas de las distribuidoras, que promedian 39.2 %, en unos 2 a 2.5 puntos porcentuales por año en 2027 y 2028. El ministerio también prepara una reforma a la Ley General de Electricidad 125-01 para endurecer las sanciones por robo de energía, que se espera en los primeros meses de 2027.",
+        "El presidente Luis Abinader encabezó el domingo 15 de noviembre la graduación de 2,376 nuevos agentes de la Policía Nacional, 1,256 hombres y 1,120 mujeres, que pasarán al patrullaje preventivo y a la Digesett tras diez meses de formación.",
+        "En los aeropuertos, la concesionaria Aerodom reportó que las operaciones comenzaron a normalizarse desde el lunes 16, tras varios días de cancelaciones por la suspensión de vuelos en Estados Unidos, según Zabala al Día. Se recomienda a los viajeros confirmar el estado de su vuelo directamente con la aerolínea."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/gobierno-dominicano-proyecta-invertir-mas-de-us700-millones-en-electricidad-el-plan-busca-reducir-perdidas-y-mejorar-las-redes-nacionales/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/turismo/los-vuelos-en-republica-dominicana-comienzan-a-normalizarse-aerodom-reporta-recuperacion-tras-las-alteraciones-aereas-en-estados-unidos/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-martes-17-de-noviembre-de-2026-abinader-refuerza-la-policia-llega-nueva-telefonica-y-el-pais-mira-hacia-haiti-para-los-dominicanos-en-el-exterior-la-conectivid/"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/gobierno-proyecta-invertir-us700-millones-en-redes-electricas-para-reducir-perdidas-y-mejorar-el-servicio/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/economia/energia/2026/11/16/santos-gobierno-quiere-dejar-un-sistema-electrico-muy-fortalecido/3722386"
+        },
+        {
+          "nombre": "CDN",
+          "url": "https://cdn.com.do/nacionales/abinader-encabeza-graduacion-de-2376-nuevos-policias/"
+        }
+      ]
+    },
     {
       "id": "2026-11-16-abinader-convoca-prm-frenar-choques-internos-2028",
       "fecha": "2026-11-16",
       "seccion": "rd",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · República Dominicana",
       "titulo": "Abinader reúne a la cúpula del PRM para frenar las peleas públicas por la candidatura de 2028",
       "bajada": "El presidente convocó este lunes a la alta dirigencia de su partido tras varios días de choques entre figuras oficialistas, incluido el cónsul dominicano en Nueva York.",
@@ -963,109 +1072,6 @@
         {
           "nombre": "amNY",
           "url": "https://www.amny.com/news/winter-mamdani-25m-cold-weather-response/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-alto-manhattan-incendio-arresto-inwood",
-      "fecha": "2026-11-09",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Alto Manhattan",
-      "titulo": "Muere un hombre en un incendio en Hamilton Heights y arrestan a un sospechoso del ataque a una mujer de 83 años en Inwood",
-      "bajada": "Dos hechos que tocan de cerca a los barrios dominicanos del norte de Manhattan.",
-      "cuerpo": [
-        "Un hombre murió y cuatro personas resultaron heridas, entre ellas dos bomberos con lesiones leves, en un incendio en el 660 de Riverside Drive, entre las calles 143 y 144, en Hamilton Heights. El fuego empezó cerca de la 1:30 de la madrugada del lunes 9 de noviembre en un apartamento del tercer piso.",
-        "Los bomberos declararon una segunda alarma. La acumulación de objetos dentro del apartamento dificultó el rescate y el combate de las llamas. Unas 16 personas quedaron desplazadas. La causa del incendio está bajo investigación y la identidad de la víctima no se ha dado a conocer.",
-        "En otro caso, la policía arrestó el sábado 7 de noviembre, en un tren de la línea E cerca de Kew Gardens, en Queens, a Yahiness Holden, de 33 años. Se le acusa de seguir el 26 de octubre a una mujer de 83 años hasta su edificio, cerca de Vermilyea Avenue y la calle 204, en Inwood, e intentar violarla. La mujer se defendió y sufrió heridas leves.",
-        "Holden enfrenta cargos de intento de violación, agresión y otros delitos. No ha sido condenado y se presume inocente."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-despierta-con-otra-tragedia-en-alto-manhattan-un-muerto-en-incendio-arrestan-a-sospechoso-de-atacar-a-una-envejeciente-y-mamdani-anuncia-us25-millones-contra-el-frio/"
-        },
-        {
-          "nombre": "ABC7 New York",
-          "url": "https://abc7ny.com/post/man-dead-16-displaced-early-morning-fire-hamilton-heights-apartment/20025940/"
-        },
-        {
-          "nombre": "Gothamist",
-          "url": "https://gothamist.com/news/1-dead-after-early-morning-fire-rips-through-hamilton-heights-apartment-building-fdny-says"
-        },
-        {
-          "nombre": "NBC New York",
-          "url": "https://www.nbcnewyork.com/news/local/man-arrested-in-attempted-rape-of-83-year-old-woman-in-inwood/6569342/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-rd-al-dia-feminicidios-titulos-bonao",
-      "fecha": "2026-11-09",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "Los feminicidios llegan a 81 en el año, Abinader entrega 2,500 títulos y un edificio de servicios en Bonao",
-      "bajada": "Lo más importante de la isla en este lunes feriado por el Día de la Constitución.",
-      "cuerpo": [
-        "Dos mujeres fueron asesinadas el fin de semana, una en San Juan de la Maguana y otra en Esperanza, Valverde. Con ellas son 81 las víctimas de feminicidio en lo que va de 2026, según el conteo de Diario Libre. En ambos casos las parejas o exparejas fueron señaladas como presuntos responsables; las personas detenidas o investigadas se presumen inocentes.",
-        "El presidente Luis Abinader entregó el domingo 8 de noviembre 2,500 títulos de propiedad en El Almirante II, Santo Domingo Este, que benefician a unas 13,000 personas. En Bonao inauguró el edificio Juan Pablo Duarte, rehabilitado con una inversión de más de RD$240 millones, donde funcionarán 33 instituciones públicas, entre ellas Pasaportes, SeNaSa y Supérate. Los servicios empiezan este martes 10.",
-        "El mandatario también inauguró dos escuelas, en Bonao y Villa Altagracia, con 50 aulas y capacidad para más de 1,500 estudiantes.",
-        "Este lunes 9 es feriado por el traslado del Día de la Constitución, que se celebró el viernes 6. Las labores se retoman el martes. Esta semana, el galón de gasolina premium cuesta RD$362.10 y el de regular RD$317.50."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-81-feminicidios-estremecen-al-pais-abinader-entrega-nuevas-obras-y-el-feriado-mueve-la-economia/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/09/feminicidios-en-rd-se-elevan-a-81-las-victimas-en-el-2026/3715137"
-        },
-        {
-          "nombre": "Canal 6",
-          "url": "https://elseis.do/noticias/dos-nuevos-feminicidios-en-san-juan-y-valverde-elevan-a-81-las-victimas-en-el-2026"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-james-tercer-mandato-hochul-reelecta",
-      "fecha": "2026-11-04",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Resultados · Nueva York",
-      "titulo": "Letitia James gana un tercer mandato y Hochul sigue al frente de Nueva York",
-      "bajada": "La fiscal general derrotó a la republicana Saritha Komatireddy y la gobernadora se impuso a Bruce Blakeman. En el valle del Hudson, el republicano Mike Lawler reconoció su derrota.",
-      "cuerpo": [
-        "Los demócratas retuvieron los tres cargos estatales más importantes de Nueva York en las elecciones del martes 3 de noviembre. La gobernadora Kathy Hochul ganó un segundo mandato completo frente al ejecutivo del condado de Nassau, Bruce Blakeman, en una carrera que la agencia AP proyectó a su favor minutos después del cierre de las urnas.",
-        "La fiscal general Letitia James, que llegó a la elección con una ventaja de 13 puntos en la última encuesta del Siena College, se impuso a la exfiscal federal Saritha Komatireddy y cumplirá su tercer periodo al frente de la Fiscalía. El contralor Thomas DiNapoli también fue reelecto.",
-        "En el distrito 17, al norte de la ciudad, el congresista republicano Mike Lawler reconoció su derrota ante la demócrata Cait Conley, aunque al cierre de esta nota la AP aún no había proyectado oficialmente a la ganadora.",
-        "Para la comunidad dominicana, el resultado significa continuidad en la oficina que lleva casos de vivienda, fraude al consumidor y derechos laborales, temas que tocan de cerca a los barrios del Alto Manhattan y el Bronx. Los conteos finales y la certificación de los resultados pueden tomar varios días."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/letitia-james.jpg",
-      "imagen_alt": "Letitia James, fiscal general de Nueva York",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-kathy-hochul-gana-la-gobernacion-los-democratas-avanzan-y-tres-dominicanos-llegan-al-congreso/"
-        },
-        {
-          "nombre": "FOX 5 NY",
-          "url": "https://www.fox5ny.com/news/ny-election-results-2026-new-york"
-        },
-        {
-          "nombre": "Yahoo News",
-          "url": "https://www.yahoo.com/news/politics/articles/live-ny-election-results-2026-114907883.html"
         }
       ]
     }
