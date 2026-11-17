@@ -1,11 +1,115 @@
 {
-  "actualizado": "2026-11-17T13:53:54-04:00",
+  "actualizado": "2026-11-17T19:50:18-04:00",
   "notas": [
+    {
+      "id": "2026-11-17-mamdani-nombra-16-jueces-cortes-penal-familia",
+      "fecha": "2026-11-17",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política · Nueva York",
+      "titulo": "Mamdani hace sus primeros nombramientos judiciales: 10 jueces nuevos y 6 renovados en las cortes penal y de familia",
+      "bajada": "Es la primera tanda de jueces que designa el alcalde. Los diez candidatos nuevos pasaron este martes por audiencias públicas antes de asumir sus cargos.",
+      "cuerpo": [
+        "El alcalde de Nueva York, Zohran Mamdani, anunció el lunes 16 de noviembre 16 nombramientos para la Corte Penal y la Corte de Familia de la ciudad: diez jueces nuevos y seis que ya estaban en funciones y fueron reconfirmados. Son los primeros nombramientos judiciales de su gestión.",
+        "Los diez nuevos se reparten en partes iguales: cinco van a la Corte Penal y cinco a la Corte de Familia. Entre ellos hay abogados que han trabajado como defensores públicos en organizaciones como Legal Aid Society, Brooklyn Defender Services y Neighborhood Defender Service of Harlem, además de exfiscales de Queens y abogados del Centro Legal de la Niñez. De las seis renovaciones, cinco son en la Corte Penal y una en la Corte de Familia del Bronx.",
+        "Los candidatos fueron entrevistados y evaluados por el Comité Asesor del Alcalde sobre el Poder Judicial, que preside el abogado Ali Najmi. Según la Alcaldía y el diario amNY, los nombramientos estaban sujetos a audiencias públicas este martes 17 de noviembre en la sede de la Oficina de Juicios y Audiencias Administrativas, en el 100 de Church Street, en Manhattan.",
+        "\"Las decisiones que se toman en nuestras cortes pueden cambiar el rumbo de la vida de un neoyorquino\", dijo Mamdani en el comunicado oficial.",
+        "Para muchas familias hispanas y dominicanas de la ciudad, estas dos cortes son las más cercanas: la Corte de Familia ve casos de custodia, manutención y protección de menores, y la Corte Penal atiende la mayoría de los casos de delitos menores en los cinco condados."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/mamdani-anuncia-16-nombramientos-judiciales-en-nueva-york-diez-nuevos-jueces-seran-evaluados-en-audiencia-publica/"
+        },
+        {
+          "nombre": "Alcaldía de Nueva York",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-names-16-judges-to-strengthen-new-york-city-s-crim"
+        },
+        {
+          "nombre": "amNY",
+          "url": "https://www.amny.com/law/mayor-mamdani-judge-appointment-reappointments/"
+        },
+        {
+          "nombre": "Queens Daily Eagle",
+          "url": "https://queenseagle.com/all/2026/11/17/mamdani-makes-his-first-judicial-appointments"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-gobierno-dominicano-reformas-leyes-anticorrupcion",
+      "fecha": "2026-11-17",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana · Transparencia",
+      "titulo": "Gobierno dominicano impulsa cambios a leyes de Senasa, acceso a la información y conflicto de intereses para frenar la corrupción",
+      "bajada": "Abinader y Milagros Ortiz Bosch presentaron el paquete en LA Semanal. Algunas propuestas ya están en el Congreso y otras todavía se preparan.",
+      "cuerpo": [
+        "El presidente Luis Abinader y la directora de Ética e Integridad Gubernamental, Milagros Ortiz Bosch, presentaron el lunes 16 de noviembre, en el Palacio Nacional, una serie de reformas legales para reforzar los controles contra la corrupción en el Estado dominicano.",
+        "Según Diario Libre, el paquete incluye cambiar la ley que rige el Seguro Nacional de Salud (Senasa) para añadir auditorías y controles sobre sus contratos; actualizar las leyes de libre acceso a la información pública y de protección de datos personales; una nueva ley de conflicto de intereses para servidores públicos, que estudia la Comisión de Justicia del Senado; un proyecto para proteger a denunciantes, testigos y víctimas de represalias; y dar rango de ley a la Unidad Antifraude de la Contraloría.",
+        "Abinader reconoció que ningún gobierno puede asegurar que no habrá corrupción, pero afirmó que \"no habrá impunidad cuando se conozca un caso\", según Listín Diario. También pidió a los suplidores del Estado denunciar a cualquier funcionario que les pida comisiones para acelerar pagos.",
+        "Las propuestas todavía deben pasar por el Congreso Nacional, por lo que ninguna de ellas está vigente. Para los dominicanos en el exterior, que envían cada año miles de millones de dólares en remesas al país, la transparencia en el uso de los fondos públicos es un tema que se sigue de cerca."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-impulsa-nuevas-medidas-contra-la-corrupcion-gobierno-plantea-reforzar-las-leyes-de-transparencia-y-proteccion-de-denunciantes/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/gobierno/2026/11/17/gobierno-impulsa-reformas-legales-contra-la-corrupcion/3722608"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/gobierno/20261117/abinader-garantizar-haya-corrupcion_930392.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-levantan-paro-licey-al-medio-compromisos-gobierno",
+      "fecha": "2026-11-17",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana · Santiago",
+      "titulo": "Levantan el paro en Licey al Medio tras promesas de terminar el hospital y remodelar el polideportivo",
+      "bajada": "Las organizaciones populares suspendieron la huelga de 48 horas después de reunirse con la gobernadora de Santiago, Rosa Santos, pero advierten que seguirán vigilantes.",
+      "cuerpo": [
+        "Las organizaciones populares y comunitarias de Licey al Medio y de la parte baja de Moca levantaron el lunes 16 de noviembre el paro de 48 horas que habían convocado, luego de llegar a acuerdos con una comisión del Gobierno encabezada por la gobernadora de Santiago, Rosa Santos.",
+        "Según el periódico Hoy, la gobernadora informó que el hospital de Licey se entregará a la comunidad en la segunda semana de diciembre, que el primer picazo para remodelar el polideportivo municipal será el 29 de noviembre y que la carretera de Uveral ya está en proceso de licitación.",
+        "Los grupos reclamaban además reparación de calles, mejoras en escuelas, agua potable y soluciones a los apagones y a la contaminación del río Licey. Antes del acuerdo hubo enfrentamientos con la Policía, aunque los reporteros no informaron heridos ni detenidos.",
+        "El vocero de las organizaciones, Roberto Núñez, advirtió que el movimiento seguirá si los compromisos no se cumplen. Según Zabala al Día, los comunitarios dieron tres semanas a las autoridades para mostrar avances."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Licey al Medio, Santiago",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/rd-levantan-el-paro-en-licey-al-medio-comunitarios-dan-tres-semanas-a-las-autoridades-para-responder-a-sus-reclamos/"
+        },
+        {
+          "nombre": "Hoy",
+          "url": "https://hoy.com.do/el-pais/organizaciones-populares-levantan-huelga-licey-medio-luego-compromisos-gobierno_1108883.html"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/provincias/20261117/levantan-paro-licey-medio-dialogo-autoridades_930365.html"
+        }
+      ]
+    },
     {
       "id": "2026-11-17-trabajar-no-basta-1-3-millones-neoyorquinos-despensas",
       "fecha": "2026-11-17",
       "seccion": "economia",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Economía · Nueva York",
       "titulo": "Tener empleo ya no basta: casi 1.3 millones de neoyorquinos acudieron a despensas de comida en 2025",
       "bajada": "Un informe de Robin Hood y la Universidad de Columbia revela que más de la mitad de quienes buscan comida gratis en la ciudad trabajan o viven con alguien que trabaja.",
@@ -962,116 +1066,6 @@
         {
           "nombre": "The Real Deal",
           "url": "https://therealdeal.com/new-york/2026/11/10/mamdani-gives-copa-signature/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-arrestan-miami-sospechoso-violaciones-central-park",
-      "fecha": "2026-11-11",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Seguridad · Nueva York",
-      "titulo": "Arrestan en Miami a sospechoso de una violación en Central Park; la policía lo vincula a otros dos ataques",
-      "bajada": "Dereck Rivera-Deleon fue detenido el martes por un equipo del NYPD y los US Marshals. Se presume inocente mientras no sea declarado culpable.",
-      "cuerpo": [
-        "Detectives del NYPD, junto a los US Marshals, arrestaron el martes 10 de noviembre en Miami a Dereck Rivera-Deleon, buscado por una agresión sexual en Central Park. Según la policía, fue detenido en el negocio donde trabajaba, con apoyo de la policía de Miami Beach.",
-        "El ataque ocurrió el 24 de octubre, cerca de las 8:30 de la noche, en el parque cerca de la calle 67 Este y East Drive. Según el NYPD, un hombre amenazó con un cuchillo a una mujer de 39 años, la arrastró a una zona boscosa y la agredió sexualmente. La víctima fue llevada al hospital en condición estable.",
-        "Las autoridades dicen que Rivera-Deleon también será acusado por otras dos violaciones en Central Park, una en 2021 y otra en 2023. Hasta ahora no se han detallado formalmente esos cargos. Como toda persona arrestada, se presume inocente hasta que un tribunal decida lo contrario.",
-        "Quien tenga información puede llamar de forma confidencial a la línea del NYPD en español, 1-888-57-PISTA."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
-        },
-        {
-          "nombre": "ABC7 New York",
-          "url": "https://abc7ny.com/post/dereck-rivera-deleon-arrested-central-park-rape-case-linked-2-others/20030520/"
-        },
-        {
-          "nombre": "US Marshals Service",
-          "url": "https://www.usmarshals.gov/news/press-release/joint-law-enforcement-operation-apprehends-fugitive-wanted-central-park-sexual"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-rd-al-dia-suprema-corte-montero-haiti",
-      "fecha": "2026-11-11",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: Justiniano Montero asume la Suprema Corte y el país apoya con logística la misión salvadoreña en Haití",
-      "bajada": "Montero sustituye a Luis Henry Molina al frente del máximo tribunal, con seis jueces nuevos. Abinader reiteró que el país ayuda con logística, pero no enviará tropas a Haití.",
-      "cuerpo": [
-        "El Consejo Nacional de la Magistratura, que encabeza el presidente Luis Abinader, juramentó el martes 10 de noviembre al juez de carrera Justiniano Montero Montero como presidente de la Suprema Corte de Justicia. Sustituye a Luis Henry Molina, que ocupó el cargo desde 2019.",
-        "En el mismo acto se juramentaron seis jueces nuevos: Julio César Emilio Canó Alfau, Antonia Josefina Grullón Blandino, Amauri Antonio Pimentel Fabián, Arelis Socorro Ricourt Gómez, Diomede Ydelfo Villalona Guerrero e Ylona María de la Rocha Camilo. Otros cuatro magistrados fueron ratificados en sus puestos.",
-        "Por otro lado, el Gobierno dominicano mantiene el apoyo logístico a los militares salvadoreños que el presidente Nayib Bukele envió a Haití para combatir a las bandas armadas. Abinader ha dicho que la República Dominicana no enviará tropas al país vecino y que mantiene reforzada la vigilancia en la frontera."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-la-republica-dominicana-abinader-respalda-a-bukele-cambia-la-suprema-corte-y-nuevos-crimenes-preocupan-al-pais-miercoles-11-de-noviembre-de-2026/"
-        },
-        {
-          "nombre": "Listín Diario",
-          "url": "https://listindiario.com/la-republica/gobierno/20261110/montero-otros-seis-jueces-son-juramentados-consejo-magistratura_929545.html"
-        },
-        {
-          "nombre": "Revista Mercado",
-          "url": "https://revistamercado.do/internacional/rd-sirve-de-apoyo-logistico-a-los-militares-de-bukele-en-haiti-que-aporta-el-pais-y-que-no-hara/"
-        },
-        {
-          "nombre": "Diario El Mundo (El Salvador)",
-          "url": "https://diario.elmundo.sv/nacionales/republica-dominicana-facilita-despliegue-militar-salvadoreno-hacia-haiti"
-        },
-        {
-          "nombre": "El Nuevo Diario",
-          "url": "https://elnuevodiario.com.do/abinader-dispone-reforzar-vigilancia-en-la-frontera-ante-llegada-de-tropas-internacionales-a-haiti/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-09-mamdani-25-millones-code-blue",
-      "fecha": "2026-11-09",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Política · Ciudad de Nueva York",
-      "titulo": "Mamdani invierte $25 millones para proteger del frío a quienes viven en la calle",
-      "bajada": "El plan amplía el programa Code Blue con 800 camas más, autobuses con calefacción y más personal en la calle, y refuerza la limpieza de nieve en las zonas que usan los mayores.",
-      "cuerpo": [
-        "El alcalde Zohran Mamdani anunció una inversión municipal de $25 millones para ampliar Code Blue, el programa que protege a las personas sin hogar cuando el frío se vuelve peligroso. El anuncio llegó el lunes 9 de noviembre, antes de que empiece el invierno.",
-        "El plan suma 800 camas, 300 trabajadores de alcance comunitario que recorren las calles, 20 autobuses con calefacción, cuatro centros temporales más y equipos de enfermería y atención médica móvil.",
-        "Una parte del dinero va a mejorar la limpieza de nieve y hielo, sobre todo en aceras, paradas y cruces que usan las personas mayores y con discapacidad.",
-        "Para recibir avisos de emergencia de la ciudad, como alertas de frío extremo o de nieve, se puede enviar la palabra NOTIFYNYC por mensaje de texto al 692-692. Si ves a alguien en la calle que necesita ayuda cuando hace frío, puedes llamar al 311."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/nueva-york-despierta-con-otra-tragedia-en-alto-manhattan-un-muerto-en-incendio-arrestan-a-sospechoso-de-atacar-a-una-envejeciente-y-mamdani-anuncia-us25-millones-contra-el-frio/"
-        },
-        {
-          "nombre": "Gothamist",
-          "url": "https://gothamist.com/news/mamdani-says-more-help-is-coming-to-homeless-new-yorkers-living-outside-this-winter"
-        },
-        {
-          "nombre": "ABC7 New York",
-          "url": "https://abc7ny.com/post/mamdani-announces-25m-investment-code-blue-snow-removal-operations/20026081/"
-        },
-        {
-          "nombre": "amNY",
-          "url": "https://www.amny.com/news/winter-mamdani-25m-cold-weather-response/"
         }
       ]
     }
