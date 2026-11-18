@@ -1,11 +1,53 @@
 {
-  "actualizado": "2026-11-18T13:51:13-04:00",
+  "actualizado": "2026-11-18T19:49:48-04:00",
   "notas": [
+    {
+      "id": "2026-11-18-gobierno-pide-ampliar-deficit-suspender-regla-fiscal",
+      "fecha": "2026-11-18",
+      "seccion": "rd",
+      "destacada": true,
+      "kicker": "Economía · República Dominicana",
+      "titulo": "Gobierno dominicano pide al Congreso subir el déficit de 2026 y suspender por este año el tope al crecimiento del gasto",
+      "bajada": "La segunda reformulación del presupuesto llevaría el déficit a RD$365,968 millones, cerca del 4.2 % del PIB. El Ejecutivo la justifica por el alza de los combustibles y la situación internacional.",
+      "cuerpo": [
+        "El presidente Luis Abinader envió el lunes 16 de noviembre a la Cámara de Diputados un proyecto de ley para modificar por segunda vez el Presupuesto General del Estado de 2026. La propuesta eleva el déficit fiscal de RD$280,575 millones a RD$365,968 millones, un aumento de unos RD$85,393 millones, y suspende hasta el 31 de diciembre el artículo 5 de la Ley 35-24 de Responsabilidad Fiscal, que limita cuánto puede crecer cada año el gasto primario del Estado, incluidas las compras de bienes y servicios.",
+        "Según Acento y Diario Libre, el déficit pasaría de 3.24 % a 4.2 % del producto interno bruto. El gasto total subiría RD$54,100 millones, hasta RD$1,717,911.7 millones, y la mayor parte de ese aumento, RD$44,000 millones, iría a las obligaciones del Tesoro Nacional. También se asignan fondos adicionales a Obras Públicas, Educación, Industria y Comercio e Interior y Policía. Los ingresos estimados bajan a unos RD$1,351,943 millones, por debajo de lo previsto en la primera reformulación aprobada en julio.",
+        "El Gobierno atribuye el cambio a los efectos fiscales extraordinarios de la situación internacional y a los altos precios del petróleo y los combustibles. El presidente de la Cámara de Diputados, Alfredo Pacheco, calificó la solicitud de atendible y explicó, según Listín Diario, que \"las medidas anticrisis no dieron los recursos que estaban proyectados\". El proyecto también obliga al Ministerio de Hacienda y Economía a presentar un plan para corregir el desvío de la regla fiscal.",
+        "Los diputados enviaron la pieza a una comisión especial, y estaba previsto que se conociera en la sesión del jueves 19 de noviembre. Para convertirse en ley debe ser aprobada por ambas cámaras del Congreso y promulgada.",
+        "Para los dominicanos en el exterior, que envían remesas y siguen de cerca la economía de sus familias en la isla, el debate importa porque define cuánto se endeudará el país este año y cuánto podrá seguir gastando el Estado en subsidios a combustibles y electricidad."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/debate-por-el-dinero-publico-gobierno-dominicano-plantea-modificar-la-regla-que-limita-determinados-gastos-del-estado/"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/20261118/gobierno-le-pide-congreso-nacional-pausar-regla-controla-gastos-servicios-bienes_930500.html"
+        },
+        {
+          "nombre": "Listín Diario",
+          "url": "https://listindiario.com/la-republica/20261118/pacheco-justifica-reformulacion-presupuesto-2026-crisis-combustibles_930624.html"
+        },
+        {
+          "nombre": "Acento",
+          "url": "https://acento.com.do/economia/gobierno-pide-elevar-deficit-fiscal-a-rd-365968-millones-y-suspender-regla-de-responsabilidad-fiscal-9792284.html"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/gobierno/2026/11/17/nuevo-presupuesto-general-del-estado-elimina-limites-al-gasto-publico/3723400"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-noche-cultura-dominicana-alto-manhattan-salcedo",
       "fecha": "2026-11-18",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · Nueva York",
       "titulo": "El ministro Roberto Ángel Salcedo encabezará una Noche de Cultura Dominicana en el Alto Manhattan",
       "bajada": "El encuentro, este viernes 20 de noviembre a las 7:00 p.m., reunirá a artistas y líderes comunitarios de la diáspora y rendirá homenaje a cuatro figuras de la cultura dominicana en el exterior.",
@@ -1021,60 +1063,6 @@
         {
           "nombre": "KQED",
           "url": "https://www.kqed.org/news/12109044/california-lawmaker-calls-for-release-of-usf-nursing-professor-detained-by-ice"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-hodelpa-certificacion-bioscore",
-      "fecha": "2026-11-12",
-      "seccion": "rd",
-      "destacada": false,
-      "destacada_hasta": "2026-11-12",
-      "kicker": "Turismo · Sostenibilidad",
-      "titulo": "Los nueve hoteles de Hodelpa obtienen la certificación de sostenibilidad Bioscore",
-      "bajada": "La cadena dominicana fue evaluada en consumo de agua y energía, emisiones, manejo de residuos y condiciones de trabajo, con verificación independiente de OCA Global.",
-      "cuerpo": [
-        "La cadena hotelera dominicana Hodelpa Hospitality recibió la certificación internacional de sostenibilidad Bioscore para sus nueve hoteles, ubicados en Santo Domingo, Santiago, Juan Dolio y Puerto Plata.",
-        "El sello mide indicadores ambientales, sociales y de gobernanza, conocidos como criterios ASG: cuánta energía y agua consume cada hotel, sus emisiones de carbono, cómo maneja la basura, cómo trata a su personal y qué tan responsable es su gestión. Según la empresa, la firma OCA Global verificó los resultados de forma independiente.",
-        "En el proceso participó la consultora The Good Concierge, especializada en sostenibilidad para hoteles, que ayudó a medir los indicadores, reunir las pruebas y planear mejoras en cada establecimiento.",
-        "El presidente y CEO de la cadena, Ángel Hernández, describió la certificación como “un logro de todo el equipo” y dijo que los motiva a seguir construyendo una operación más responsable con sus empleados, sus huéspedes y los lugares donde operan.",
-        "El turismo es uno de los motores de la economía dominicana, y cada vez más viajeros y agencias internacionales piden pruebas de que los hoteles cuidan el entorno. Hodelpa, con más de 35 años en el mercado, acompaña estas certificaciones con jornadas de limpieza de ríos y siembra de árboles de su programa ambiental Ecogreen."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-paneles-solares.jpg",
-      "imagen_alt": "Paneles solares en el techo de uno de los hoteles de Hodelpa",
-      "credito_foto": "Fotos: Hodelpa Hospitality",
-      "galeria": [
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-limpieza-rio-grupo.jpg",
-          "alt": "Voluntarios de Hodelpa tras una jornada de limpieza de un río"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-siembra-arboles.jpg",
-          "alt": "Siembra de árboles del programa Ecogreen"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-limpieza-rio.jpg",
-          "alt": "Recogida de basura a la orilla del río"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-siembra-arbol.jpg",
-          "alt": "Un colaborador de Hodelpa siembra un árbol"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-playa-aerea.jpg",
-          "alt": "Vista aérea de la playa de uno de los hoteles"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/hodelpa-resort-aereo.jpg",
-          "alt": "Vista aérea de uno de los hoteles de la cadena"
-        }
-      ],
-      "fuentes": [
-        {
-          "nombre": "comunicado de Hodelpa Hospitality",
-          "url": ""
         }
       ]
     }
