@@ -1,11 +1,82 @@
 {
-  "actualizado": "2026-11-17T19:50:18-04:00",
+  "actualizado": "2026-11-18T13:51:13-04:00",
   "notas": [
+    {
+      "id": "2026-11-18-noche-cultura-dominicana-alto-manhattan-salcedo",
+      "fecha": "2026-11-18",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · Nueva York",
+      "titulo": "El ministro Roberto Ángel Salcedo encabezará una Noche de Cultura Dominicana en el Alto Manhattan",
+      "bajada": "El encuentro, este viernes 20 de noviembre a las 7:00 p.m., reunirá a artistas y líderes comunitarios de la diáspora y rendirá homenaje a cuatro figuras de la cultura dominicana en el exterior.",
+      "cuerpo": [
+        "El Ministerio de Cultura de República Dominicana celebrará este viernes 20 de noviembre, a las 7:00 de la noche, la «Noche de Cultura Dominicana: Cultura, Comunidad y Futuro» en Nueva York. La actividad será en la sede de la Dirección de Cultura Dominicana en el Exterior, en el 2406 de la avenida Amsterdam, cuarto piso, en el Alto Manhattan, y estará encabezada por el ministro Roberto Ángel Salcedo.",
+        "Según los organizadores, asistirán artistas, escritores, educadores, gestores culturales y representantes de organizaciones comunitarias de Nueva York, Nueva Jersey, Connecticut y Nueva Inglaterra. El objetivo es mostrar los aportes de la diáspora y los resultados de los programas culturales que el ministerio ha desarrollado en Estados Unidos.",
+        "El programa incluye una muestra de cultura taína, presentaciones vinculadas al Festival Itinerante del Teatro en el Exterior (FITEX), música, teatro y exposiciones de pintura y acuarela.",
+        "Durante la velada serán reconocidos Bienvenido Lara Flores, por su trayectoria comunitaria y patriótica; Inés María Tejada, por su labor de preservar la memoria de la diáspora; Elvys Ruiz, por la promoción internacional del teatro dominicano, y Angela «Angy» Abreu, por abrir espacios a la literatura dominicana y dominicoamericana.",
+        "Salcedo presentará además la visión del ministerio para ampliar la presencia cultural dominicana en el exterior y estrechar los lazos con las comunidades de la diáspora, una de las más numerosas de Nueva York."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/ministro-roberto-angel-salcedo-encabezara-en-nueva-york-la-noche-de-cultura-dominicana-2/"
+        },
+        {
+          "nombre": "Teleradio América",
+          "url": "https://teleradioamerica.com/2026/11/roberto-angel-salcedo-liderara-la-noche-de-cultura-en-nueva-york/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-rd-al-dia-donacion-padre-billini-emprendimiento",
+      "fecha": "2026-11-18",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: donan US$1 millón para renovar el Centro Padre Billini y arranca la Semana Global de Emprendimiento",
+      "bajada": "La Iglesia de Jesucristo de los Santos de los Últimos Días financiará la remodelación del antiguo «El 28», y Banreservas y aliados abren una semana de actividades para las mipymes.",
+      "cuerpo": [
+        "La Iglesia de Jesucristo de los Santos de los Últimos Días donó un millón de dólares al Gobierno dominicano para la renovación integral del Centro de Rehabilitación Psicosocial Padre Billini. El anuncio lo hizo el élder Ronald A. Rasband, miembro del Cuórum de los Doce Apóstoles, en una reunión con el presidente Luis Abinader en el Palacio Nacional este martes 17 de noviembre.",
+        "El centro está en el kilómetro 28 de la autopista Duarte, en Pedro Brand, y funciona con un modelo de rehabilitación psicosocial desde el 11 de agosto de 2016, cuando sustituyó al antiguo hospital psiquiátrico conocido como «El 28». Tiene capacidad para más de un centenar de usuarios, según El Nuevo Diario. Las obras, que incluirán consultorios, áreas recreativas y pabellones clínicos, se coordinarán con la Oficina de la Primera Dama y el Servicio Nacional de Salud (SNS).",
+        "En Santo Domingo comenzó el lunes 16 la Semana Global de Emprendimiento 2026, que se celebra en todo el país hasta el 22 de noviembre, con actividades durante el resto del mes. La organizan Banreservas, la Red Global de Emprendimiento (GEN), la Fundación EMDES y la plataforma En Lata, con el lema «Los emprendedores de aquí prosperan». La representante de GEN en el país, Patricia Acosta, dijo que esperan más de 10,000 participantes.",
+        "En la apertura, el vicepresidente de Comunicación y Responsabilidad Social de Banreservas, Franklin Soriano, habló en nombre del presidente ejecutivo, Leonardo Aguilera. Se recordó que, según la Encuesta Nacional de las Mipymes del Banco Central y el Ministerio de Industria y Comercio, las micro, pequeñas y medianas empresas aportan el 32 % del PIB y generan más de tres millones de empleos, el 61.6 % de la ocupación nacional. Para dominicanos en el exterior que piensan emprender en la isla, el banco mantiene su programa Cree Banreservas, con capital semilla y acompañamiento."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/gobierno-recibe-donacion-de-un-millon-de-dolares-de-la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-para-el-centro-padre-billini/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/banreservas-inaugura-la-semana-global-de-emprendimiento-2026-para-impulsar-la-innovacion-y-el-desarrollo-de-las-mipymes/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/gobierno-recibe-donacion-de-un-millon-de-dolares-de-la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias/"
+        },
+        {
+          "nombre": "El Seis (Canal 6)",
+          "url": "https://elseis.do/noticias/donan-un-millon-de-dolares-para-remodelar-el-centro-padre-billini"
+        },
+        {
+          "nombre": "De Último Minuto",
+          "url": "https://deultimominuto.com/economia/banreservas-semana-global-2026/"
+        }
+      ]
+    },
     {
       "id": "2026-11-17-mamdani-nombra-16-jueces-cortes-penal-familia",
       "fecha": "2026-11-17",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · Nueva York",
       "titulo": "Mamdani hace sus primeros nombramientos judiciales: 10 jueces nuevos y 6 renovados en las cortes penal y de familia",
       "bajada": "Es la primera tanda de jueces que designa el alcalde. Los diez candidatos nuevos pasaron este martes por audiencias públicas antes de asumir sus cargos.",
@@ -1004,68 +1075,6 @@
         {
           "nombre": "comunicado de Hodelpa Hospitality",
           "url": ""
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-juez-ordena-ciudad-entregar-ice-datos-albergue-bronx",
-      "fecha": "2026-11-11",
-      "seccion": "inmigracion",
-      "destacada": false,
-      "kicker": "Inmigración · El Bronx",
-      "titulo": "Juez federal ordena a la ciudad entregar a ICE datos de residentes de un albergue del Bronx con antecedentes graves",
-      "bajada": "La orden se limita a personas acusadas de delitos violentos y pasará por un supervisor nombrado por el tribunal. La administración de Mamdani estudia sus opciones legales.",
-      "cuerpo": [
-        "El juez federal Lewis A. Kaplan ordenó a la Ciudad de Nueva York cumplir una citación administrativa de ICE y entregar nombres y fechas de nacimiento de algunos residentes del albergue para hombres migrantes ubicado en el 825 de la calle 141 Este, en Mott Haven, en el Bronx. El fallo se emitió el viernes 6 de noviembre.",
-        "ICE había pedido datos de todos los hombres del albergue, pero el juez redujo la orden a residentes con historiales criminales graves, acusados de delitos como asesinato, homicidio, violación, robo, agresión, hurto mayor o ataque a un agente. Un supervisor especial nombrado por el tribunal revisará los expedientes y vigilará la entrega. La ciudad y ICE tienen dos semanas para presentarle un plan.",
-        "La ciudad había argumentado que la citación buscaba saltarse las leyes de ciudad santuario. Kaplan rechazó ese argumento. \"Estamos revisando esa decisión y evaluando todas nuestras opciones legales\", dijo el alcalde Zohran Mamdani. La fiscal general del estado, Letitia James, también evalúa el caso, y grupos de defensa de los inmigrantes piden apelar.",
-        "La orden no autoriza deportaciones generales ni afecta a quienes no tienen ese tipo de antecedentes. Aun así, organizaciones comunitarias temen que el caso haga dudar a muchos inmigrantes a la hora de usar servicios de la ciudad. El albergue, el último de emergencia para hombres adultos, tiene hoy cerca de 1,000 residentes y la ciudad planea cerrarlo a fin de año."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
-        },
-        {
-          "nombre": "Bronx Times",
-          "url": "https://www.bxtimes.com/ice-federal-judge-order-mamdani-bronx-shelter/"
-        },
-        {
-          "nombre": "WPTV / Scripps",
-          "url": "https://www.wptv.com/politics/immigration/judge-orders-mamdani-to-comply-with-ice-records-request-in-nyc"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-11-edificios-renta-estabilizada-east-harlem-subasta",
-      "fecha": "2026-11-11",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Vivienda · East Harlem",
-      "titulo": "Unos 850 apartamentos de renta estabilizada en East Harlem van a subasta tras caerse la compra que apoyaba la ciudad",
-      "bajada": "Los 38 edificios pertenecían a Emerald Equities. El mismo día, Mamdani firmó COPA, una ley que da a las organizaciones sin fines de lucro la primera oportunidad de comprar edificios en problemas.",
-      "cuerpo": [
-        "La compra de 38 edificios de East Harlem por parte de Spatial Equity, una oferta que contaba con el respaldo de la administración del alcalde Zohran Mamdani, se cayó el martes 10 de noviembre. Los inmuebles, que estuvieron en manos de Emerald Equities, irán ahora a subasta por ejecución hipotecaria, uno por uno.",
-        "Según la Asociación de Apartamentos de Nueva York, son unos 850 apartamentos de renta estabilizada. Los inquilinos siguen protegidos por las reglas de renta estabilizada, pero la venta definirá quién será su nuevo dueño y cómo se mantendrán los edificios.",
-        "Ese mismo martes, Mamdani firmó la Ley de Oportunidad de Compra Comunitaria (COPA). La norma da a ciertas organizaciones sin fines de lucro la primera oportunidad de hacer una oferta cuando salen a la venta algunos edificios multifamiliares en problemas o con acuerdos de vivienda asequible. El Departamento de Vivienda (HPD) calcula que aplica a unos 3,400 edificios.",
-        "East Harlem es uno de los barrios con más familias latinas de Manhattan. Los inquilinos de los edificios afectados pueden informarse sobre sus derechos llamando al 311."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-nueva-york-miercoles-11-de-noviembre-de-2026-nueva-york-despierta-entre-arrestos-homicidios-y-preocupacion-economica-capturan-en-miami-a-sospechoso-de-violaciones-en-central-par/"
-        },
-        {
-          "nombre": "The Real Deal",
-          "url": "https://therealdeal.com/new-york/2026/11/10/mamdani-gives-copa-signature/"
         }
       ]
     }
