@@ -1,11 +1,139 @@
 {
-  "actualizado": "2026-11-18T19:49:48-04:00",
+  "actualizado": "2026-11-19T13:53:16-04:00",
   "notas": [
+    {
+      "id": "2026-11-19-hochul-exige-respuestas-ice-carpa-mujeres-batavia",
+      "fecha": "2026-11-19",
+      "seccion": "inmigracion",
+      "destacada": true,
+      "kicker": "Inmigración · Nueva York",
+      "titulo": "Hochul exige a ICE explicaciones por una carpa de detención para hasta 100 mujeres inmigrantes en Batavia",
+      "bajada": "El estado dice que no fue consultado sobre la nueva instalación, que costaría unos US$8.7 millones, y le dio a la agencia federal hasta el 25 de noviembre para responder.",
+      "cuerpo": [
+        "La gobernadora de Nueva York, Kathy Hochul, divulgó el miércoles 18 de noviembre cartas en las que el estado le pide información al Servicio de Inmigración y Control de Aduanas (ICE) sobre una carpa de detención que se levanta en Batavia, en el oeste del estado. La estructura, de paredes blandas, se añade al Centro de Procesamiento de Servicios de Buffalo y tendría capacidad para hasta 100 mujeres.",
+        "Las cartas, firmadas por los comisionados de los departamentos estatales de Conservación Ambiental y de Salud, sostienen que ICE no coordinó las consultas ambientales ni los avisos públicos que exige la ley federal. El estado pide detalles sobre las condiciones de detención, la atención médica, la comida y la construcción, sobre todo con la llegada del invierno. La obra está a cargo de la empresa Akima Infrastructure Protection, y el plazo para responder vence el miércoles 25 de noviembre.",
+        "El centro de Buffalo es el mayor de detención migratoria del estado y hasta ahora solo recibe hombres. Según ABC News, el secretario de Seguridad Nacional, Markwayne Mullin, estimó el costo de la carpa en unos US$8.7 millones. Un portavoz del Departamento de Seguridad Nacional respondió que \"no debería ser noticia\" que ICE haga arrestos en todos los estados y dijo que la agencia busca a extranjeros con antecedentes criminales y cuenta con nuevos fondos para ampliar sus centros.",
+        "El congresista demócrata Timothy Kennedy afirmó que más del 70 % de los detenidos en Batavia nunca han sido condenados por un delito. Para las familias inmigrantes de Nueva York, incluidas muchas dominicanas, la instalación significaría que por primera vez mujeres detenidas por ICE podrían quedar retenidas en ese centro del estado."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Batavia, Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-jueves-19-de-noviembre-de-2026-nueva-york-amanece-entre-investigaciones-policiales-presion-sobre-las-tarifas-de-la-mta-y-nuevas-medidas-de-vivienda/"
+        },
+        {
+          "nombre": "ABC News",
+          "url": "https://abcnews.com/US/hochul-demands-information-ice-new-immigration-tent-facility/story?id=138229801"
+        },
+        {
+          "nombre": "Spectrum News",
+          "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/18/hochul-demands-answers-from-ice-about-tent-detention-facility-in-batavia"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-mta-propone-subir-pasajes-peajes-2027",
+      "fecha": "2026-11-19",
+      "seccion": "economia",
+      "destacada": false,
+      "kicker": "Economía · Nueva York",
+      "titulo": "La MTA propone subir pasajes y peajes en 2027 pese a anunciar US$676 millones en ahorros",
+      "bajada": "El presupuesto de US$22,900 millones para 2027 contempla aumentos que sumarían cerca de un 4 % más de ingresos; las tarifas exactas aún no están definidas.",
+      "cuerpo": [
+        "La Autoridad Metropolitana de Transporte (MTA) presentó esta semana su propuesta de presupuesto operativo para 2027, de unos US$22,900 millones, que incluye aumentos de pasajes y peajes a partir de marzo de 2027 y otra ronda en marzo de 2029. Los ajustes alcanzarían al metro, los autobuses locales, el LIRR, Metro-North y los puentes y túneles de la agencia.",
+        "La meta es elevar en cerca de un 4 % el total de lo que la MTA recauda por pasajes y peajes en cada ciclo. Todavía no se ha fijado cuánto costará cada viaje; hoy el pasaje básico de metro y autobús local es de US$3. La junta de la MTA empezaría a revisar el plan en diciembre, y antes de que cambie cualquier tarifa debe haber audiencias públicas.",
+        "La agencia proyecta ahorros operativos de US$676 millones en 2027, pero aun así prevé un déficit de US$58 millones ese año, que crecería a US$585 millones en 2028 y a cerca de US$1,000 millones en 2030, por el alza de los costos de salud, energía y operación.",
+        "Para miles de familias hispanas y dominicanas que dependen del metro y los autobuses para ir al trabajo, cualquier aumento se sumará al alto costo de vida en la ciudad. Grupos de usuarios piden ampliar los topes semanales y mensuales de pago con OMNY para amortiguar el impacto."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-jueves-19-de-noviembre-de-2026-nueva-york-amanece-entre-investigaciones-policiales-presion-sobre-las-tarifas-de-la-mta-y-nuevas-medidas-de-vivienda/"
+        },
+        {
+          "nombre": "5 Towns Central",
+          "url": "https://5townscentral.com/2026/11/19/commuters-face-potential-mta-fare-toll-hikes-in-2027-and-2029-amid-widening-budget-gaps/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-oposicion-pide-auditar-superate-gobierno-defiende",
+      "fecha": "2026-11-19",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "Política · República Dominicana",
+      "titulo": "La oposición pide auditar Supérate por la inclusión de 700,000 beneficiarios; el programa defiende su proceso",
+      "bajada": "La Fuerza del Pueblo y el PLD acudieron a la Cámara de Cuentas y a la Pepca; la directora de Supérate, Mayra Jiménez, asegura que la selección se hizo con transparencia.",
+      "cuerpo": [
+        "Los partidos opositores Fuerza del Pueblo (FP) y de la Liberación Dominicana (PLD) piden que se investigue el programa social Supérate. La FP solicitó el martes 17 de noviembre a la Cámara de Cuentas una auditoría especial de las inclusiones de beneficiarios, los pagos y los controles del programa, y a la Procuraduría Especializada de Persecución de la Corrupción Administrativa (Pepca) que examine posibles hechos de relevancia penal.",
+        "El planteamiento lo presentó el exvicepresidente Rafael Alburquerque. Según la FP, una resolución administrativa de abril de 2022 permitió sumar 700,000 beneficiarios a Aliméntate y Bonogás antes de que el Sistema Único de Beneficiarios (Siuben) evaluara a esos hogares, con un costo anual que el partido calcula en RD$8,196 millones. El vicepresidente del PLD, Yván Lorenzo, respaldó el pedido de auditoría.",
+        "La directora de Supérate, Mayra Jiménez, rechazó la denuncia y explicó que es el Siuben el que depura los registros y determina quién califica para las ayudas. Defendió que se trata de un proceso hecho de manera transparente.",
+        "Hasta ahora ningún organismo ha anunciado una auditoría. Las denuncias políticas no prueban por sí solas irregularidades ni responsabilidad penal; eso corresponde determinarlo a las instituciones competentes. Supérate administra ayudas de las que dependen cientos de miles de familias en el país."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/choque-politico-por-superate-oposicion-exige-auditoria-y-el-gobierno-rechaza-irregularidades-en-las-ayudas-sociales/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/partidos/2026/11/19/auditoria-al-programa-superate-por-denuncias-de-oposicion/3724761"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/partidos/2026/11/17/fuerza-del-pueblo-solicita-investigacion-sobre-superate/3723561"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-rd-al-dia-doble-sueldo-3-diciembre-dolar-60",
+      "fecha": "2026-11-19",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: el doble sueldo público se pagará desde el 3 de diciembre y el dólar pasa de RD$60",
+      "bajada": "El Gobierno distribuirá más de RD$35,619 millones por la regalía pascual, empezando por los pensionados; la tasa de referencia del dólar supera los 60 pesos.",
+      "cuerpo": [
+        "Regalía pascual. El tesorero nacional, Luis Rafael Delgado Sánchez, anunció el miércoles 18 de noviembre que el Gobierno empezará a pagar el doble sueldo el jueves 3 de diciembre. El monto total es de RD$35,619 millones, un 3.5 % más que en 2025, e incluye a empleados del Gobierno central y de instituciones descentralizadas y autónomas.",
+        "El pago irá primero a los pensionados, luego a las Fuerzas Armadas y la Policía Nacional y después al resto de las instituciones públicas, con depósitos escalonados en las cuentas bancarias según el calendario de la Tesorería. Los ayuntamientos quedan fuera porque pagan con sus propios fondos.",
+        "Dólar. Según Zabala al Día, la tasa de referencia del Banco Central de la República Dominicana amaneció este jueves 19 de noviembre por encima de los RD$60: unos RD$60.01 para la compra y RD$60.34 para la venta. Las tasas en bancos y casas de cambio varían, por lo que conviene comparar antes de cambiar.",
+        "Para las familias que envían remesas desde Estados Unidos, un dólar más caro significa que cada envío rinde más pesos en la isla, justo cuando se acercan los gastos de fin de año."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "",
+      "imagen_alt": "",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-abinader-anuncia-mas-inversion-llega-el-doble-sueldo-y-la-policia-reporta-1675-armas-incautadas/"
+        },
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/economia/el-dolar-amanece-por-encima-de-los-rd-60-en-republica-dominicana-este-jueves-19-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/economia/consumo/2026/11/18/gobierno-anuncia-el-pago-del-doble-sueldo-arranca-el-3-de-diciembre/3724317"
+        }
+      ]
+    },
     {
       "id": "2026-11-18-gobierno-pide-ampliar-deficit-suspender-regla-fiscal",
       "fecha": "2026-11-18",
       "seccion": "rd",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Economía · República Dominicana",
       "titulo": "Gobierno dominicano pide al Congreso subir el déficit de 2026 y suspender por este año el tope al crecimiento del gasto",
       "bajada": "La segunda reformulación del presupuesto llevaría el déficit a RD$365,968 millones, cerca del 4.2 % del PIB. El Ejecutivo la justifica por el alza de los combustibles y la situación internacional.",
@@ -933,136 +1061,6 @@
         {
           "nombre": "Diario Libre",
           "url": "https://www.diariolibre.com/economia/energia/2026/11/12/abinader-anuncia-estabilidad-en-precios-combustibles-hasta-2027/3718754"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-rd-al-dia-reunion-electoral-oea-itla-spacex",
-      "fecha": "2026-11-13",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: autoridades electorales de 25 países se reúnen en Santo Domingo y el Gobierno conversa con SpaceX",
-      "bajada": "La JCE y la OEA organizan un foro sobre inteligencia artificial, ciberseguridad y desinformación en las elecciones. Abinader recibió a ejecutivos de SpaceX para hablar de conectividad y educación.",
-      "cuerpo": [
-        "La Junta Central Electoral (JCE) y la Organización de los Estados Americanos (OEA) inauguraron el miércoles 11 de noviembre en Santo Domingo la XIX Reunión Interamericana de Autoridades Electorales, con 35 organismos electorales de 25 países. El encuentro, en el hotel El Embajador, concluye este viernes 13.",
-        "Entre los temas figuran el financiamiento político, la tecnología electoral, la ciberseguridad y la desinformación impulsada por inteligencia artificial. Participan el presidente de la JCE, Román Jáquez Liranzo, y el secretario general de la OEA, Albert R. Ramdin, con apoyo de los gobiernos de Canadá y Suiza.",
-        "Por otro lado, el presidente Luis Abinader se reunió el jueves 12 en el Palacio Nacional con ejecutivos de SpaceX y autoridades del Instituto Tecnológico de las Américas (ITLA) para tratar sobre conectividad a internet e inteligencia artificial en la educación, según Zabala al Día. El rector del ITLA, Jimmy Rosario, dijo que el país ya cuenta con más de 50,000 antenas Starlink y que la institución hizo un piloto con tecnologías de la empresa."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/republica-dominicana-bajo-la-lupa-lluvias-subsidios-millonarios-y-reunion-electoral-de-25-paises-marcan-la-actualidad/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-se-reune-con-ejecutivos-de-spacex-republica-dominicana-ya-cuenta-con-50000-antenas-starlink/"
-        },
-        {
-          "nombre": "El Seis (Canal 6)",
-          "url": "https://elseis.do/noticias/jce-y-oea-inauguran-la-xix-reunion-interamericana-de-autoridades-electorales"
-        },
-        {
-          "nombre": "Infobae",
-          "url": "https://www.infobae.com/republica-dominicana/2026/11/10/republica-dominicana-reunira-a-lideres-electorales-de-25-paises-para-hablar-del-futuro-del-voto-ante-los-ciberataques-y-la-ia/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-derrumbe-edificio-flatbush-ocho-muertos",
-      "fecha": "2026-11-12",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Nueva York · Brooklyn",
-      "titulo": "Derrumbe de un edificio en Flatbush deja ocho muertos y 18 heridos; entre las víctimas hay inmigrantes",
-      "bajada": "El inmueble de tres pisos se vino abajo sobre una excavación vecina. La ciudad investiga si la obra de al lado tuvo que ver y ordenó revisar unas 100 construcciones.",
-      "cuerpo": [
-        "Ocho personas murieron y al menos 18 resultaron heridas cuando un edificio residencial de tres pisos en el 1321 de Flatbush Avenue, en Brooklyn, colapsó la tarde del miércoles 11 de noviembre, alrededor de las 4:00 p. m., y cayó sobre una excavación en el terreno contiguo, donde se levantaba una nueva construcción.",
-        "Entre los fallecidos hay dos niños y dos trabajadores de la obra. El alcalde Zohran Mamdani dijo que las víctimas incluyen inmigrantes de Colombia, México y Ecuador. El consulado de Colombia en Nueva York informó que tres de los muertos son colombianos, dos de ellos menores de edad, y que una colombiana está herida. Entre las víctimas identificadas por su familia está José Luis Caguana, ecuatoriano de 26 años que trabajaba en la obra.",
-        "Más de 250 bomberos y rescatistas trabajaron entre los escombros con perros, drones y maquinaria. La comisionada de Bomberos, Lillian Bonsignore, explicó que la operación seguiría siendo de rescate hasta poder revisar debajo de los escombros más grandes.",
-        "La causa no se ha determinado. Las autoridades investigan si la excavación en el terreno vecino contribuyó al colapso; la Oficina del Fiscal de Brooklyn participa en la investigación y Mamdani ordenó inspeccionar unas 100 obras vinculadas a las empresas del proyecto. Registros del Departamento de Edificios muestran que esa obra recibió una orden de paralización en marzo por fallas en la protección durante la demolición, aunque los funcionarios no la han relacionado con el derrumbe.",
-        "Flatbush, conocido como el “pequeño Caribe”, es hogar de miles de familias inmigrantes. Quienes vivan junto a una obra y noten grietas o movimientos en su edificio pueden reportarlo llamando al 311."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "El Nuevo Diario (EFE)",
-          "url": "https://elnuevodiario.com.do/tres-colombianos-entre-ellos-dos-menores-mueren-en-derrumbe-de-edificio-en-nueva-york/"
-        },
-        {
-          "nombre": "El Nuevo Diario (AFP)",
-          "url": "https://elnuevodiario.com.do/suben-a-ocho-los-muertos-por-derrumbe-de-edificio-en-brooklyn-nueva-york/"
-        },
-        {
-          "nombre": "Engineering News-Record",
-          "url": "https://www.enr.com/articles/64269-eight-dead-18-injured-in-brooklyn-building-collapse-next-to-construction-site"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-vuelo-587-25-anos-belle-harbor",
-      "fecha": "2026-11-12",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Comunidad · Queens",
-      "titulo": "A 25 años del vuelo 587, Nueva York recuerda a sus 265 víctimas, casi todas dominicanas",
-      "bajada": "Familiares, vecinos y el alcalde Zohran Mamdani se reunieron este jueves en el memorial de Belle Harbor, en Queens, con un minuto de silencio y el toque de campana.",
-      "cuerpo": [
-        "La comunidad dominicana de Nueva York conmemoró este jueves 12 de noviembre los 25 años del accidente del vuelo 587 de American Airlines, que cayó sobre Belle Harbor, en Queens, minutos después de despegar del aeropuerto JFK rumbo a Santo Domingo en 2001.",
-        "En el memorial de la calle Beach 116 se guardó un minuto de silencio y sonó una campana a la hora del accidente. El alcalde Zohran Mamdani encabezó el homenaje junto a familiares de las víctimas y vecinos del área.",
-        "Murieron 265 personas: 251 pasajeros, nueve tripulantes y cinco residentes de Belle Harbor. Alrededor del 90 % de los pasajeros eran de origen dominicano, y muchos vivían en Washington Heights. Es el segundo accidente aéreo más mortífero en la historia de Estados Unidos.",
-        "La Junta Nacional de Seguridad en el Transporte (NTSB) atribuyó la caída al uso excesivo del timón por parte del copiloto ante la turbulencia que dejó otro avión, lo que hizo que el estabilizador vertical se desprendiera en pleno vuelo.",
-        "El memorial, un muro curvo de granito diseñado por el artista dominicano Freddy Rodríguez, lleva grabado un verso del poeta Pedro Mir: “Después no quiero más que paz”."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/dominicanos-en-nyc-recordaran-las-265-victimas-del-vuelo-587-de-american-airlines-en-queens-en-2001/"
-        },
-        {
-          "nombre": "QNS",
-          "url": "https://qns.com/2026/11/flight-587-25th-anniversary/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-12-congresista-pide-liberar-profesora-enfermeria-ice",
-      "fecha": "2026-11-12",
-      "seccion": "inmigracion",
-      "destacada": false,
-      "kicker": "Inmigración · EE. UU.",
-      "titulo": "Congresista pide liberar a una profesora de enfermería detenida por ICE y trasladada a Luisiana",
-      "bajada": "El representante Josh Harder reclama que Ann Lawani, docente de la Universidad de San Francisco sin antecedentes penales, sea devuelta a California mientras sigue su caso.",
-      "cuerpo": [
-        "El congresista demócrata Josh Harder, de Stockton, California, exigió al Departamento de Seguridad Nacional (DHS) la liberación de Ann Lawani, profesora de enfermería de la Universidad de San Francisco (USF), detenida por agentes de Inmigración y Control de Aduanas (ICE) en su casa de Lodi, California, en septiembre.",
-        "Lawani, de 39 años, fue trasladada de un centro de detención en Stockton a El Paso, Texas, y luego a un centro de ICE en el sur de Luisiana, donde sigue detenida, según EFE. Su paradero no aparece en el localizador de detenidos de ICE, bajo una política nueva para personas con órdenes finales de deportación, informó KQED.",
-        "En una carta al secretario de Seguridad Nacional, Markwayne Mullin, Harder pidió que la liberen bajo supervisión, que la regresen a California y que se les informe a ella y a su abogado a qué país la quieren deportar. Según el congresista, el caso plantea “serias preocupaciones sobre el debido proceso”.",
-        "Lawani no tiene antecedentes penales, supervisa a 230 estudiantes de enfermería en la USF, trabaja como enfermera en John Muir Health y cuida a su padre de 83 años. La universidad y su familia han pedido públicamente su regreso.",
-        "El caso refleja una preocupación extendida en las comunidades inmigrantes: los traslados de detenidos a centros lejanos dificultan que sus familias y abogados los ubiquen y los defiendan."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "California",
-      "imagen": "",
-      "imagen_alt": "",
-      "fuentes": [
-        {
-          "nombre": "El Nuevo Diario (EFE)",
-          "url": "https://elnuevodiario.com.do/congresista-de-ee-uu-exige-la-liberacion-de-una-profesora-de-enfermeria-detenida-por-ice/"
-        },
-        {
-          "nombre": "KQED",
-          "url": "https://www.kqed.org/news/12109044/california-lawmaker-calls-for-release-of-usf-nursing-professor-detained-by-ice"
         }
       ]
     }
