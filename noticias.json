@@ -1,11 +1,82 @@
 {
-  "actualizado": "2026-11-20T13:52:42-04:00",
+  "actualizado": "2026-11-20T19:49:13-04:00",
   "notas": [
+    {
+      "id": "2026-11-20-marcos-cross-pide-jce-cedular-millon-dominicanos-exterior",
+      "fecha": "2026-11-20",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Diáspora · Voto en el exterior",
+      "titulo": "Marcos Cross pide a la JCE llegar a un millón de dominicanos cedulados en el exterior antes de las elecciones de 2028",
+      "bajada": "El exdiputado de ultramar, hoy dirigente de la Fuerza del Pueblo, advierte que la participación de la diáspora en las urnas ha caído elección tras elección.",
+      "cuerpo": [
+        "El exdiputado por la circunscripción del exterior Marcos Cross propuso que la Junta Central Electoral (JCE) se fije como meta cedular al menos a un millón de dominicanos que viven fuera del país antes de las elecciones generales de 2028. Lo dijo el viernes 20 de noviembre en una entrevista con el programa Gente RD TV, de El Nuevo Diario.",
+        "Cross, miembro de la Dirección Política de la Fuerza del Pueblo, recordó que hoy hay unos 863,000 dominicanos inscritos para votar en el exterior. Esa cifra coincide con el padrón de la JCE para los comicios de mayo de 2024, que registró 863,785 electores fuera del país, de ellos más de 613,000 en Estados Unidos, según datos de la Junta publicados entonces.",
+        "Según el dirigente, la participación de la diáspora ha bajado desde que se estrenó el voto en el exterior en 2004: de cerca de un 55 % aquel año a alrededor de un 21 % en 2024. Calcula que más de tres millones de dominicanos viven en 126 países.",
+        "Cross también planteó crear un ministerio dedicado a los dominicanos en el exterior y dijo que esa propuesta formaría parte del programa de gobierno de la Fuerza del Pueblo para 2028. Sobre la relación entre la diáspora y el país, afirmó: «El Estado no devuelve esos servicios en la misma dimensión que nosotros le aportamos».",
+        "Para los dominicanos en Nueva York, Nueva Jersey y el resto de Estados Unidos, el tema es práctico: sin cédula vigente no se puede votar desde el exterior. La JCE mantiene oficinas y citas para el documento en el extranjero; conviene revisar los requisitos con tiempo, antes del cierre del padrón."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/marcos-cross-pide-a-la-jce-cedular-a-un-millon-de-dominicanos-en-el-exterior-antes-de-2028/"
+        },
+        {
+          "nombre": "Acento",
+          "url": "https://acento.com.do/politica/jce-detalla-impacto-del-voto-en-el-exterior-para-las-elecciones-del-19-de-mayo-en-rd-votaran-7281763-y-en-el-extranjero-863785-9314105.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-rd-al-dia-fmi-crecimiento-autopista-ambar",
+      "fecha": "2026-11-20",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: el FMI ve la economía creciendo 4.6 % y la Autopista del Ámbar tendría arranque formal el 27 de noviembre",
+      "bajada": "El Fondo Monetario cerró su visita al país con una proyección favorable, mientras el Gobierno anuncia el inicio oficial de la vía entre Santiago y Puerto Plata.",
+      "cuerpo": [
+        "Una misión del Fondo Monetario Internacional (FMI) que estuvo en el país del 11 al 20 de noviembre proyectó que la economía dominicana crecerá alrededor de un 4.6 % al cierre de 2026, según El Nuevo Diario. El jefe de la misión, Michael Perks, lo informó en una reunión de cierre con el gobernador del Banco Central, Héctor Valdez Albizu. La misma cifra de 4.6 % aparece en las Perspectivas de la Economía Mundial del FMI publicadas en octubre, de acuerdo con Revista Mercado.",
+        "Según el reporte, el FMI espera que la inflación vuelva a la meta del Banco Central (4 % ± 1 %) a fin de año, aunque eso depende de los precios de los combustibles. La misión también consideró apropiada el alza de 25 puntos básicos en la tasa de política monetaria que el Banco Central aplicó en septiembre.",
+        "En el Norte, el ministro de la Presidencia, José Ignacio Paliza, anunció en Puerto Plata que el presidente Luis Abinader dará el viernes 27 de noviembre el inicio formal de la construcción de la Autopista del Ámbar, que unirá Santiago con Puerto Plata. La obra fue adjudicada por unos RD$28,800 millones al Consorcio Autopista del Ámbar, con un plazo de 36 meses, y promete reducir el viaje de más de una hora a unos 35 minutos, según datos oficiales recogidos por Revista Mercado.",
+        "Para la diáspora, ambas noticias tocan de cerca: el crecimiento y la inflación influyen en lo que rinden las remesas que se envían a las familias, y la autopista afecta a quienes viajan entre el Cibao y la costa norte, una de las zonas con más dominicanos en el exterior."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
+      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/fmi-proyecta-que-economia-dominicana-crecera-4-6-al-cierre-de-2026/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/gobierno-iniciara-construccion-de-la-autopista-del-ambar-el-proximo-viernes-segun-paliza/"
+        },
+        {
+          "nombre": "Revista Mercado",
+          "url": "https://revistamercado.do/money-invest/daily-news/fmi-crecimiento-republica-dominicana-2026/"
+        },
+        {
+          "nombre": "Revista Mercado",
+          "url": "https://revistamercado.do/market-brief/finanzas/autopista-del-ambar-primer-picazo-quien-paga/"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-mamdani-firma-ley-fin-coches-caballos-2028",
       "fecha": "2026-11-20",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · Nueva York",
       "titulo": "Mamdani firma la ley que saca de las calles los coches de caballos de Nueva York a partir de junio de 2028",
       "bajada": "La llamada \"Ley de Romanch\" pone fin a una actividad turística con más de un siglo en Central Park. El sindicato TWU demandó a la ciudad el mismo día.",
@@ -1019,81 +1090,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-15-vuelos-cancelados-rd-suben-43-normalidad-domingo",
-      "fecha": "2026-11-15",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Comunidad · Viajes",
-      "titulo": "Suben a 43 los vuelos cancelados en República Dominicana; EE. UU. espera normalizar las operaciones este domingo",
-      "bajada": "Aerodom contó diez cancelaciones más este domingo en Las Américas, por mal tiempo y por las secuelas de la parada aérea en Estados Unidos. La FAA prevé que los horarios se recuperen al cierre del día.",
-      "cuerpo": [
-        "Los aeropuertos de República Dominicana acumulan 43 vuelos cancelados entre el viernes 13 y este domingo 15 de noviembre —22 salidas y 21 llegadas—, según el conteo de Aeropuertos Dominicanos Siglo XXI (Aerodom) publicado por El Día. Solo este domingo se suspendieron diez operaciones, todas en el Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo.",
-        "De acuerdo con Aerodom, 29 de las cancelaciones se deben al cierre del espacio aéreo de Estados Unidos y sus efectos, siete al mal tiempo, cuatro a problemas del control aéreo en Canadá y dos a falta de tripulación de Delta en Atlanta. El sábado fue el peor día, con 19 cancelaciones entre Las Américas y Puerto Plata. Este domingo los vuelos suspendidos fueron sobre todo de JetBlue, hacia y desde Nueva York, San Juan, Fort Lauderdale y Orlando, además de operaciones de American Airlines afectadas por la reorganización de sus tripulaciones. Otros vuelos hacia Nueva York, Miami y Boston salieron con retraso.",
-        "En Estados Unidos, el director de la Administración Federal de Aviación (FAA), Bryan Bedford, pronosticó que los horarios podrían recuperarse por completo al final de este domingo, aunque las aerolíneas todavía deben reubicar aviones y tripulaciones, según Diario Libre. La plataforma FlightAware contaba más de 1,200 vuelos cancelados en el país en la mañana del domingo. Las autoridades atribuyen la falla a trabajos de sustitución de líneas de cobre por fibra óptica, que afectaron las comunicaciones y señales de radar, y descartaron un ciberataque.",
-        "Para los dominicanos que viajan entre la isla y Nueva York, Nueva Jersey, Boston o Florida, la recomendación sigue siendo verificar el estado del vuelo directamente con la aerolínea antes de salir hacia el aeropuerto, ya que los retrasos pueden continuar mientras las compañías terminan de reprogramar."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
-      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/cancelan-10-vuelos-este-domingo-en-las-americas-por-mal-tiempo-y-efectos-del-cierre-aereo-de-ee-uu/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/15/cuales-son-los-vuelos-cancelados-entre-ee-uu-y-la-rd/3721155"
-        },
-        {
-          "nombre": "Infobae",
-          "url": "https://www.infobae.com/republica-dominicana/2026/11/15/decenas-de-pasajeros-quedaron-varados-en-republica-dominicana-tras-la-suspension-de-19-vuelos-a-estados-unidos/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
-    },
-    {
-      "id": "2026-11-14-suspension-vuelos-cancelaciones-aeropuertos-rd",
-      "fecha": "2026-11-14",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Comunidad · Viajes",
-      "titulo": "La parada de vuelos en EE. UU. dejó 25 vuelos cancelados en aeropuertos dominicanos y pasajeros varados en Las Américas",
-      "bajada": "La FAA levantó la orden el viernes en la noche tras más de cuatro horas, pero las aerolíneas siguen reprogramando y el Gobierno estadounidense advierte que habrá retrasos y cancelaciones en los próximos días.",
-      "cuerpo": [
-        "La suspensión nacional de salidas de vuelos que ordenó la Administración Federal de Aviación (FAA) el viernes 13 de noviembre provocó la cancelación de 25 operaciones —15 salidas y 10 llegadas— en los aeropuertos internacionales de República Dominicana entre el viernes y este sábado 14, según el más reciente conteo publicado por El Día y El Nuevo Diario.",
-        "La mayoría de las cancelaciones, 22, ocurrieron en el Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo, en vuelos de JetBlue, American Airlines, Arajet, Delta y United hacia y desde Nueva York (JFK y Newark), Miami, Fort Lauderdale, Orlando, Boston y San Juan, Puerto Rico. Un reporte anterior de Aerodom, citado por Diario Libre, contaba 19. En el aeropuerto Gregorio Luperón, de Puerto Plata, se cancelaron tres vuelos de Delta y Air Transat, que fueron reprogramados para este sábado.",
-        "Diario Libre reportó que el sábado todavía había pasajeros esperando en el AILA; algunos durmieron en la terminal y otros se quejaron de que las aerolíneas solo les ofrecieron cambiar la hora del vuelo.",
-        "En Estados Unidos, la orden de la FAA comenzó a las 3:54 de la tarde (hora del Este) y fue levantada a las 8:15 de la noche, según el secretario de Transporte, Sean Duffy, que la atribuyó a una sobrecarga de equipos de telecomunicaciones en los centros de control de tráfico aéreo. El secretario de Seguridad Nacional, Markwayne Mullin, descartó un ciberataque. De acuerdo con datos de FlightRadar24 citados por Al Jazeera, el viernes se cancelaron más de 4,700 vuelos en el país y unos 10,000 sufrieron retrasos. Duffy advirtió que seguirá habiendo demoras mientras las aerolíneas reprograman: \"va a ser lento\", dijo.",
-        "Para la comunidad dominicana, que viaja con frecuencia entre la isla y Nueva York, Nueva Jersey y Florida, la recomendación sigue siendo la misma: confirmar el estado del vuelo directamente con la aerolínea antes de salir hacia el aeropuerto y estar atentos a cambios de horario en los próximos días."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
-      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/se-elevan-a-25-los-vuelos-cancelados-entre-republica-dominicana-ee-uu-y-puerto-rico/"
-        },
-        {
-          "nombre": "El Nuevo Diario",
-          "url": "https://elnuevodiario.com.do/suman-25-los-vuelos-cancelados-en-aeropuertos-de-rd-por-cierre-del-espacio-aereo-de-ee-uu/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/economia/turismo/2026/11/14/la-suspension-de-vuelos-mantiene-a-pasajeros-varados-en-el-aila/3720704"
-        },
-        {
-          "nombre": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
     }
   ]
 }
