@@ -1,11 +1,141 @@
 {
-  "actualizado": "2026-11-20T10:37:01-04:00",
+  "actualizado": "2026-11-20T13:52:42-04:00",
   "notas": [
+    {
+      "id": "2026-11-20-mamdani-firma-ley-fin-coches-caballos-2028",
+      "fecha": "2026-11-20",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política · Nueva York",
+      "titulo": "Mamdani firma la ley que saca de las calles los coches de caballos de Nueva York a partir de junio de 2028",
+      "bajada": "La llamada \"Ley de Romanch\" pone fin a una actividad turística con más de un siglo en Central Park. El sindicato TWU demandó a la ciudad el mismo día.",
+      "cuerpo": [
+        "El alcalde de Nueva York, Zohran Mamdani, firmó el jueves 19 de noviembre en el Ayuntamiento la ley que prohíbe los coches tirados por caballos en las calles de la ciudad. Los carruajes tendrán que dejar de operar a más tardar el 1 de junio de 2028.",
+        "La medida, impulsada por el concejal Christopher Marte y aprobada por el Concejo Municipal en octubre, lleva el nombre de Romanch Mahajan, un joven de 18 años que murió tras un accidente de un carruaje en Central Park el 17 de junio de 2026, según la alcaldía.",
+        "La administración calcula que el cambio afecta a unas 200 personas, entre dueños de licencias (medallones), cocheros y trabajadores de los establos. La ciudad promete comprar los medallones, crear un programa de empleo y formación con NYC Talent y el Departamento de Servicios para Pequeños Negocios, y presentar un plan completo antes de abril de 2027. También estudiará opciones con carruajes eléctricos en Central Park. Según la Oficina de Bienestar Animal, santuarios y grupos de rescate están listos para recibir a los caballos.",
+        "El Sindicato de Trabajadores del Transporte (TWU) presentó de inmediato una demanda contra la ciudad en la que alega que la prohibición es inconstitucional, según CBS New York. Un abogado de los cocheros habló de unas 300 personas que perderían su trabajo, una cifra mayor que la de la alcaldía.",
+        "Para las familias trabajadoras de la ciudad, el caso abre un debate sobre cómo se compensa a quienes pierden su fuente de ingresos cuando la ciudad elimina una industria completa."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_City_Hall_-_September_2025.jpg?width=1200",
+      "imagen_alt": "El Ayuntamiento de Nueva York (City Hall) en Manhattan",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:New_York_City_Hall_-_September_2025.jpg",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/mamdani-firma-ley-que-pone-fin-a-los-carruajes-de-caballos-en-nueva-york-trump-dice-que-se-avecinan-dos-anos-increiblemente-productivos-con-un-congreso-democrata/"
+        },
+        {
+          "nombre": "Alcaldía de Nueva York",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/11/after-150-years--mayor-mamdani-signs-landmark-legislation-to-end"
+        },
+        {
+          "nombre": "CBS New York",
+          "url": "https://www.cbsnews.com/newyork/news/zohran-mamdani-horse-carriage-ban-law-nyc/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-gracia-navidena-2026-se-mantiene-5500-dolares",
+      "fecha": "2026-11-20",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Comunidad · Diáspora",
+      "titulo": "La gracia navideña para los dominicanos del exterior seguirá en US$5,500 este año",
+      "bajada": "Aduanas mantiene el mismo tope que en años anteriores para traer regalos y artículos del hogar sin pagar impuestos entre el 1 de diciembre y el 7 de enero.",
+      "cuerpo": [
+        "La Dirección General de Aduanas (DGA) de República Dominicana anunció el miércoles 18 de noviembre que la gracia navideña de 2026 se mantendrá en US$5,500. El beneficio permite a los dominicanos que viven fuera del país entrar con regalos, efectos personales y artículos del hogar libres de impuestos.",
+        "La facilidad estará vigente del martes 1 de diciembre de 2026 al jueves 7 de enero de 2027. Lo que llegue fuera de ese período no queda cubierto.",
+        "El monto se calcula por grupo familiar, no por persona, según el valor FOB de la mercancía (el precio de origen, sin flete ni seguro). Aplica a quienes lleguen por vía aérea o marítima, siempre que no traigan cantidades comerciales y que no hayan viajado al país en los últimos seis meses.",
+        "\"La gracia navideña es la expresión del compromiso del Gobierno dominicano\" con la diáspora, dijo el director general de Aduanas, Nelson Arroyo, según Diario Libre.",
+        "Para las familias dominicanas de Nueva York y otras ciudades de EE. UU. que viajan en diciembre, conviene revisar el valor de lo que llevan y tener a mano las facturas para evitar cargos al llegar."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/aduanas-mantendra-en-us5500-la-gracia-navidena-para-dominicanos-en-el-exterior-el-beneficio-estara-vigente-del-1-de-diciembre-de-2026-al-7-de-enero-de-2027-y-permitira-ingresar-articulos-libres-de/"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/11/19/la-direccion-general-de-aduanas-mantiene-en-usd-5500-la-gracia-navidena-para-la-diaspora-dominicana/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-documental-adriano-espaillat-alto-manhattan-6-diciembre",
+      "fecha": "2026-11-20",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Comunidad · Alto Manhattan",
+      "titulo": "Proyectarán gratis en el Alto Manhattan un documental sobre el congresista Adriano Espaillat",
+      "bajada": "\"El congresista de todos\", del cineasta Juan Delancer, se presentará el domingo 6 de diciembre en el Centro Médico de la Universidad de Columbia.",
+      "cuerpo": [
+        "La Fundación Juan Pablo Duarte de Nueva York y El Nuevo Diario Films presentarán el domingo 6 de diciembre, a las 3:30 de la tarde, el documental \"El congresista de todos\" (Everybody's Congressman), sobre el congresista dominicano-estadounidense Adriano Espaillat.",
+        "La función será en el Auditorio de Alumnos del Centro Médico de la Universidad de Columbia, en el 630 West de la calle 168, entre Broadway y Fort Washington Avenue. La entrada es gratuita.",
+        "La obra fue escrita y dirigida por el cineasta y comunicador dominicano Juan Delancer. Espaillat, demócrata, representa el distrito 13 de Nueva York, que incluye barrios del Alto Manhattan y El Bronx con fuerte presencia dominicana. Según Zabala al Día, fue el primer dominicano-estadounidense elegido a la Cámara de Representantes, en 2016.",
+        "La proyección es una de las actividades culturales de la diáspora en Washington Heights antes de las fiestas de fin de año."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/deportes/opiniones/exhibiran-en-el-alto-manhattan-un-documental-sobre-el-congresista-adriano-espaillat-el-proximo-domingo-6-de-diciembre-2026/"
+        },
+        {
+          "nombre": "El Día",
+          "url": "https://eldia.com.do/exhibiran-en-el-alto-manhattan-un-documental-sobre-el-congresista-adriano-espaillat/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-republica-dominicana-preside-fondo-ibermedia",
+      "fecha": "2026-11-20",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana · Cultura",
+      "titulo": "República Dominicana preside por primera vez el Fondo Ibermedia, que financia cine en 21 países",
+      "bajada": "La directora general de Cine, Marianna Vargas Gurilieva, fue elegida por unanimidad para encabezar el programa iberoamericano.",
+      "cuerpo": [
+        "La directora general de Cine de República Dominicana (DGCINE), Marianna Vargas Gurilieva, fue elegida por unanimidad presidenta del Fondo Ibermedia, el programa que apoya el cine de 21 países iberoamericanos. Es la primera vez que el país ocupa ese puesto desde que el fondo se creó en 1997.",
+        "Según Zabala al Día, la elección ocurrió el 16 de noviembre durante una reunión extraordinaria del Consejo Intergubernamental, y el mandato será de dos años, hasta 2028.",
+        "Ibermedia ha invertido más de US$139 millones en más de 3,100 proyectos y ha ayudado a estrenar más de 1,000 películas. República Dominicana participa desde 2008 y 126 proyectos nacionales han recibido cerca de US$3.4 millones, entre ellos películas como \"Pepe\", \"Olivia y las nubes\" y \"Dólares de arena\".",
+        "Entre sus prioridades, Vargas menciona fortalecer la gestión del fondo, medir y dar a conocer sus resultados y sumar nuevos aliados públicos y privados."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/entretenimiento/orgullo-dominicano-republica-dominicana-asume-por-primera-vez-la-presidencia-del-fondo-ibermedia-2/"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/11/18/republica-dominicana-asume-por-primera-vez-la-presidencia-del-fondo-ibermedia-integrado-por-21-paises/"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-mamdani-plan-cerrar-rikers-2032",
       "fecha": "2026-11-20",
       "seccion": "politica",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Política · Nueva York",
       "titulo": "Mamdani presenta un plan para cerrar Rikers Island en 2032, cinco años después del plazo legal",
       "bajada": "El alcalde propone bajar la población de las cárceles de la ciudad y llevar a los detenidos a cuatro centros más pequeños en los condados. El Concejo Municipal tendría que cambiar la ley que fija el cierre para 2027.",
@@ -964,162 +1094,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
-    },
-    {
-      "id": "2026-11-14-leonel-fernandez-vuelo-desviado-washington-agenda-diaspora",
-      "fecha": "2026-11-14",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Política dominicana · Estados Unidos",
-      "titulo": "El vuelo de Leonel Fernández terminó en Washington por la suspensión nacional de vuelos; mantiene su agenda con la diáspora",
-      "bajada": "El presidente de la Fuerza del Pueblo, que viajaba a Nueva York, aterrizó el viernes en el aeropuerto Reagan. Este sábado tiene un encuentro en Harvard y el domingo actos en el Bronx, Nueva Jersey y Manhattan.",
-      "cuerpo": [
-        "El expresidente Leonel Fernández, presidente de la Fuerza del Pueblo (FP), llegó a Estados Unidos la noche del viernes 13 de noviembre, pero no a Nueva York como estaba previsto: su vuelo regular de Delta desde República Dominicana fue desviado al Aeropuerto Nacional Ronald Reagan, en Washington D. C., según informó El Día.",
-        "El cambio ocurrió por la orden de la Administración Federal de Aviación (FAA) que detuvo ese viernes por la tarde las salidas en todos los aeropuertos del país. El aviso de la FAA citó \"circunstancias extraordinarias\" y razones de seguridad, y el secretario de Transporte, Sean Duffy, atribuyó la falla a un problema de comunicaciones en los centros de control de tráfico aéreo. Según FlightAware, citado por Al Jazeera y Reuters, unos 7,000 vuelos sufrieron retrasos o cancelaciones; medios estadounidenses informaron después que la FAA levantó la orden y los vuelos comenzaron a reanudarse.",
-        "De acuerdo con El Día, Fernández llegó acompañado de la doctora Daisy Ventura y de miembros de su seguridad personal. Para este sábado tiene previsto un encuentro con académicos de la Universidad de Harvard, en Cambridge, Massachusetts.",
-        "El domingo 15 se reunirá a las 11:00 de la mañana con empresarios y emprendedores dominicanos en el salón Beverly Hills Manor (1700 Jerome Avenue, en el Bronx); luego irá a Hackensack, Nueva Jersey, y por la tarde regresará a Manhattan para juramentar nuevos miembros del partido en Taíno Towers, en la Segunda Avenida con la calle 123.",
-        "La gira forma parte del trabajo de los partidos dominicanos con la diáspora de cara a las elecciones de 2028. Quienes tengan vuelos estos días hacia o desde República Dominicana deben confirmar el estado de su viaje con su aerolínea."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Washington D. C.",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
-      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/leonel-fernandez-llego-el-viernes-a-washington-d-c-en-vuelo-regular-de-rd/"
-        },
-        {
-          "nombre": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
-        },
-        {
-          "nombre": "WCVB",
-          "url": "https://www.wcvb.com/article/faa-ground-stop-nov-13-2026/74427064"
-        },
-        {
-          "nombre": "NBC Chicago",
-          "url": "https://www.nbcchicago.com/news/local/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-and-safety/4016516/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
-    },
-    {
-      "id": "2026-11-14-casos-de-gripe-se-disparan-en-nueva-york",
-      "fecha": "2026-11-14",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Salud · Nueva York",
-      "titulo": "Los casos de gripe se disparan en el estado de Nueva York y las autoridades piden vacunarse antes de Thanksgiving",
-      "bajada": "Los contagios confirmados subieron 77 % en una semana y las hospitalizaciones se duplicaron, según el Departamento de Salud estatal.",
-      "cuerpo": [
-        "La temporada de gripe llegó temprano y con fuerza al estado de Nueva York. En su reporte semanal más reciente, el Departamento de Salud estatal contabilizó 7,696 casos confirmados de influenza, un 77 % más que la semana anterior, y 668 personas hospitalizadas, un aumento de 105 %.",
-        "El comisionado de Salud del estado, el doctor James McDonald, advirtió que la vacunación va más baja que el año pasado y recomendó ponerse la vacuna al menos dos semanas antes de las reuniones de Acción de Gracias, porque los niños transmiten el virus con facilidad. También hay vacunas disponibles contra el RSV y el COVID-19. \"La gripe ya está aquí\", resumió McDonald.",
-        "Según El Día, citando cifras del Departamento de Salud, en las últimas cuatro semanas se confirmaron 18,739 casos en el estado, frente a 2,657 en el mismo período de 2025. En la temporada pasada, cerca de 27,000 neoyorquinos fueron hospitalizados por gripe.",
-        "El Departamento de Salud de la ciudad recomienda lavarse las manos con frecuencia, quedarse en casa si se está enfermo y usar mascarilla en lugares concurridos. Las personas mayores de 65 años o con defensas bajas pueden pedir la vacuna de dosis alta. Para encontrar un lugar de vacunación cercano se puede llamar al 311.",
-        "Con las fiestas de fin de año y los viajes a República Dominicana a la vuelta de la esquina, la vacuna es una forma sencilla de proteger a los mayores y a los niños de la familia."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellevue_Hospital_Center.jpg?width=1200",
-      "imagen_alt": "El hospital Bellevue, en Manhattan",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/los-casos-de-gripe-aumentan-en-ny-antes-de-las-fiestas-de-halloween-y-navidad/"
-        },
-        {
-          "nombre": "International Business Times",
-          "url": "https://www.ibtimes.com.au/new-york-flu-cases-hospitalisations-surge-early-1878107"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Bellevue_Hospital_Center.jpg"
-    },
-    {
-      "id": "2026-11-13-faa-detiene-vuelos-en-todo-estados-unidos",
-      "fecha": "2026-11-13",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Viajes · Estados Unidos",
-      "titulo": "La FAA detiene las salidas de vuelos en todos los aeropuertos de Estados Unidos por una falla de comunicaciones",
-      "bajada": "La medida, poco común, se tomó la tarde de este viernes y sigue vigente hasta nuevo aviso. Las autoridades dominicanas piden a los viajeros confirmar su vuelo antes de ir al aeropuerto.",
-      "cuerpo": [
-        "La Administración Federal de Aviación (FAA) ordenó la tarde de este viernes 13 de noviembre detener todas las salidas de vuelos desde los aeropuertos de Estados Unidos, tras un problema de comunicaciones que afecta a los centros regionales de control de tránsito aéreo, que dirigen los aviones entre un aeropuerto y otro.",
-        "En su aviso, la FAA explicó que la parada se aplica \"por circunstancias extraordinarias y por razones de seguridad\" y que se mantendrá hasta nuevo aviso. Los aviones que ya estaban en el aire pueden seguir a su destino, y los vuelos internacionales que se dirigen al país se atenderán caso por caso, según la agencia. El secretario de Transporte, Sean Duffy, informó que técnicos de la FAA investigan la falla.",
-        "El secretario de Seguridad Nacional, Markwayne Mullin, dijo que hasta ahora no hay indicios de un ataque y que se trata de una avería de telecomunicaciones, de acuerdo con la agencia AP. Al cierre de esta nota no se había informado una hora para reanudar los vuelos ni cifras oficiales de vuelos afectados. Es la primera parada nacional de este tipo desde enero de 2023.",
-        "Para la comunidad dominicana, que viaja con frecuencia entre Nueva York, Nueva Jersey, Florida y la isla, el impacto es directo. El Gabinete de Turismo de República Dominicana pidió a los pasajeros revisar el estado de sus vuelos con las aerolíneas y no ir a los aeropuertos sin confirmar cambios. Según El Día, la medida solo afecta vuelos hacia y desde Estados Unidos; los vuelos de la isla a Europa y América Latina siguen operando.",
-        "Antes de salir hacia el aeropuerto, conviene consultar la aplicación o la página de su aerolínea y el estado del sistema aéreo en nasstatus.faa.gov."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Washington",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
-      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
-      "fuentes": [
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/turismo-pide-verificar-vuelos-tras-suspension-de-operaciones-aereas-en-estados-unidos/"
-        },
-        {
-          "nombre": "PBS NewsHour (AP)",
-          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
-        },
-        {
-          "nombre": "NBC4 Washington (AP)",
-          "url": "https://www.nbcwashington.com/news/national-international/faa-ground-stop-nationwide-us-airports/4182917/"
-        },
-        {
-          "nombre": "Scripps News",
-          "url": "https://www.scrippsnews.com/us-news/faa-issues-nationwide-ground-stop-on-us-air-traffic"
-        },
-        {
-          "nombre": "ABC7",
-          "url": "https://abc7.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
-    },
-    {
-      "id": "2026-11-13-leonel-fernandez-y-abel-martinez-visitan-la-diaspora",
-      "fecha": "2026-11-13",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Política dominicana · Nueva York",
-      "titulo": "Leonel Fernández y Abel Martínez preparan encuentros con la diáspora en Nueva York",
-      "bajada": "El presidente de la Fuerza del Pueblo tendrá dos actos este domingo en El Bronx y Manhattan; el aspirante del PLD anunció reuniones en Nueva York y Nueva Jersey para la próxima semana.",
-      "cuerpo": [
-        "El expresidente Leonel Fernández, presidente de la Fuerza del Pueblo (FP), encabezará este domingo 15 de noviembre dos actos con dominicanos en Nueva York, como parte de una gira por Estados Unidos que incluye Massachusetts y Nueva Jersey, según El Nuevo Diario y El Día.",
-        "El primer encuentro será a las 11:00 de la mañana en el salón Beverly Hills Manor, en el 1700 de la avenida Jerome, cerca de la calle 175, en El Bronx, organizado por el proyecto \"300 con Leonel\", que dirige Geraldo Rosario. El segundo será a las 3:00 de la tarde en Taíno Towers, en la Segunda Avenida con la calle 123, en Manhattan, donde se juramentarán nuevos miembros del partido. Ambos actos los coordina el arquitecto Franklin Labolur, director operativo de la FP.",
-        "Según esos medios, Fernández plantea una \"alianza estratégica con la diáspora\" y propone un Ministerio de Dominicanos en el Exterior, de cara a las elecciones de 2028.",
-        "Por su parte, el aspirante presidencial del Partido de la Liberación Dominicana (PLD) y exalcalde de Santiago, Abel Martínez, anunció que viajará la próxima semana a Nueva York y Nueva Jersey con una delegación de miembros del Comité Central de su partido. De acuerdo con una nota de prensa de su equipo, publicada por El Nuevo Diario, se reunirá con dirigentes del PLD en el exterior y con líderes comunitarios. No se informaron fechas exactas.",
-        "Las visitas muestran el peso de los dominicanos en Estados Unidos dentro de la política de la isla: la diáspora vota en las elecciones presidenciales y elige diputados propios."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
-      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
-      "fuentes": [
-        {
-          "nombre": "El Nuevo Diario",
-          "url": "https://elnuevodiario.com.do/leonel-fernandez-encabezara-este-domingo-en-nyc-encuentros-con-cientos-de-dominicanos/"
-        },
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/leonel-fernandez-encabezara-este-domingo-en-nyc-encuentros-con-cientos-de-dominicanos/"
-        },
-        {
-          "nombre": "Canal 6 (El Seis)",
-          "url": "https://elseis.do/noticias/leonel-fernandez-encabezara-actos-en-el-bronx-y-manhattan-con-la-diaspora-dominicana"
-        },
-        {
-          "nombre": "El Nuevo Diario",
-          "url": "https://elnuevodiario.com.do/abel-martinez-viajara-a-ee-uu-para-fortalecer-su-compromiso-con-la-diaspora-dominicana/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg"
     }
   ]
 }
