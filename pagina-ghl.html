@@ -1,0 +1,130 @@
+<!-- Dominicanos X El Mundo · Noticias del día
+     Pegar completo en un elemento "Custom JS/HTML" (Código personalizado) de GoHighLevel.
+     Lee noticias.json del repositorio y muestra SOLO las notas del día más reciente. -->
+<div id="dxm-noticias">
+  <div class="dxm-cargando">Cargando las noticias del día…</div>
+</div>
+
+<style>
+#dxm-noticias{--dxm-azul:#002d62;--dxm-rojo:#ce1126;--dxm-texto:#1b1f24;--dxm-gris:#5b6470;--dxm-borde:#e3e6ea;--dxm-fondo:#ffffff;
+  font-family:Georgia,"Times New Roman",serif;color:var(--dxm-texto);background:var(--dxm-fondo);max-width:1140px;margin:0 auto;padding:16px;box-sizing:border-box;line-height:1.5}
+#dxm-noticias *{box-sizing:border-box}
+#dxm-noticias .dxm-sans{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+#dxm-noticias .dxm-cargando,#dxm-noticias .dxm-error{padding:40px 0;text-align:center;color:var(--dxm-gris);font-family:-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+#dxm-noticias .dxm-cab{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px;border-bottom:3px solid var(--dxm-azul);padding-bottom:10px;margin-bottom:20px}
+#dxm-noticias .dxm-cab h2{margin:0;font-size:28px;color:var(--dxm-azul);line-height:1.1}
+#dxm-noticias .dxm-cab h2 span{color:var(--dxm-rojo)}
+#dxm-noticias .dxm-fecha{font-size:14px;color:var(--dxm-gris)}
+#dxm-noticias .dxm-act{font-size:12px;color:var(--dxm-gris)}
+#dxm-noticias .dxm-kicker{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--dxm-rojo);margin-bottom:6px}
+#dxm-noticias .dxm-img{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:6px;background:linear-gradient(135deg,var(--dxm-azul),#1f4f8f 60%,var(--dxm-rojo))}
+#dxm-noticias .dxm-img img{width:100%;height:100%;object-fit:cover;display:block}
+#dxm-noticias .dxm-img .dxm-ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:20px;text-align:center;padding:12px;opacity:.9}
+#dxm-noticias .dxm-portada{display:grid;grid-template-columns:1.4fr 1fr;gap:24px;align-items:center;margin-bottom:28px;cursor:pointer}
+#dxm-noticias .dxm-portada h3{font-size:30px;line-height:1.15;margin:0 0 10px}
+#dxm-noticias .dxm-portada p{font-size:17px;color:#333;margin:0}
+#dxm-noticias .dxm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:22px}
+#dxm-noticias .dxm-card{cursor:pointer;border-top:1px solid var(--dxm-borde);padding-top:14px}
+#dxm-noticias .dxm-card h3{font-size:19px;line-height:1.25;margin:10px 0 6px}
+#dxm-noticias .dxm-card p{font-size:15px;color:#444;margin:0}
+#dxm-noticias .dxm-portada:hover h3,#dxm-noticias .dxm-card:hover h3{color:var(--dxm-azul);text-decoration:underline}
+#dxm-noticias .dxm-meta{font-size:12px;color:var(--dxm-gris);margin-top:8px}
+#dxm-noticias .dxm-credito{font-size:11px;color:var(--dxm-gris);margin-top:4px}
+#dxm-noticias .dxm-nota{max-width:760px;margin:0 auto}
+#dxm-noticias .dxm-volver{background:none;border:1px solid var(--dxm-borde);border-radius:20px;padding:6px 14px;font-size:14px;cursor:pointer;color:var(--dxm-azul);margin-bottom:16px}
+#dxm-noticias .dxm-volver:hover{background:#f2f5f9}
+#dxm-noticias .dxm-nota h1{font-size:32px;line-height:1.15;margin:4px 0 10px}
+#dxm-noticias .dxm-nota .dxm-bajada{font-size:19px;color:#333;margin:0 0 14px}
+#dxm-noticias .dxm-nota .dxm-cuerpo p{font-size:18px;margin:0 0 16px}
+#dxm-noticias .dxm-fuentes{border-top:1px solid var(--dxm-borde);margin-top:24px;padding-top:12px;font-size:14px}
+#dxm-noticias .dxm-fuentes a{color:var(--dxm-azul)}
+#dxm-noticias .dxm-fuentes ul{margin:6px 0 0;padding-left:18px}
+@media (max-width:760px){
+  #dxm-noticias .dxm-portada{grid-template-columns:1fr;gap:12px}
+  #dxm-noticias .dxm-portada h3{font-size:24px}
+  #dxm-noticias .dxm-cab h2{font-size:24px}
+  #dxm-noticias .dxm-nota h1{font-size:26px}
+  #dxm-noticias .dxm-nota .dxm-cuerpo p{font-size:17px}
+}
+</style>
+
+<script>
+(function(){
+  var URL_JSON = "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/noticias.json";
+  var raiz = document.getElementById("dxm-noticias");
+  if(!raiz) return;
+  var SECCIONES = {politica:"Política",inmigracion:"Inmigración",economia:"Economía",comunidad:"Comunidad",rd:"República Dominicana"};
+  var notasDia = [], principal = null, datos = null;
+
+  function esc(t){return String(t==null?"":t).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+  function urlSegura(u){return /^https:\/\//i.test(u||"") ? u : "";}
+  function fechaLarga(iso){
+    var p=(iso||"").split("-"); if(p.length<3) return iso||"";
+    var d=new Date(Date.UTC(+p[0],+p[1]-1,+p[2],12));
+    var s=d.toLocaleDateString("es",{weekday:"long",day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}); return s.charAt(0).toUpperCase()+s.slice(1);
+  }
+  function horaAct(iso){
+    var d=new Date(iso); if(isNaN(d)) return "";
+    return d.toLocaleString("es",{day:"numeric",month:"short",hour:"numeric",minute:"2-digit",timeZone:"America/New_York"})+" (hora de Nueva York)";
+  }
+  function imagen(n){
+    var src=urlSegura(n.imagen);
+    var ph='<div class="dxm-ph dxm-sans">Dominicanos X El Mundo</div>';
+    if(!src) return '<div class="dxm-img">'+ph+'</div>';
+    return '<div class="dxm-img"><img loading="lazy" src="'+esc(src)+'" alt="'+esc(n.imagen_alt||n.titulo)+'" onerror="this.remove()">'+'</div>';
+  }
+  function kicker(n){return esc(n.kicker || SECCIONES[n.seccion] || "Noticias");}
+
+  function pintarPortada(){
+    var otras = notasDia.filter(function(n){return n!==principal;});
+    var h = '<div class="dxm-cab"><div><h2>Noticias <span>del día</span></h2><div class="dxm-fecha dxm-sans">'+esc(fechaLarga(principal.fecha))+'</div></div>'+
+            '<div class="dxm-act dxm-sans">'+(datos.actualizado?'Actualizado: '+esc(horaAct(datos.actualizado)):'')+'</div></div>';
+    h += '<article class="dxm-portada" data-id="'+esc(principal.id)+'" tabindex="0">'+imagen(principal)+
+         '<div><span class="dxm-kicker dxm-sans">'+kicker(principal)+'</span><h3>'+esc(principal.titulo)+'</h3><p>'+esc(principal.bajada)+'</p>'+
+         (principal.lugar?'<div class="dxm-meta dxm-sans">'+esc(principal.lugar)+'</div>':'')+'</div></article>';
+    if(otras.length){
+      h += '<div class="dxm-grid">';
+      otras.forEach(function(n){
+        h += '<article class="dxm-card" data-id="'+esc(n.id)+'" tabindex="0">'+imagen(n)+
+             '<span class="dxm-kicker dxm-sans" style="margin-top:10px">'+kicker(n)+'</span><h3>'+esc(n.titulo)+'</h3><p>'+esc(n.bajada)+'</p></article>';
+      });
+      h += '</div>';
+    }
+    raiz.innerHTML = h;
+    raiz.querySelectorAll("[data-id]").forEach(function(el){
+      var abrir=function(){abrirNota(el.getAttribute("data-id"));};
+      el.addEventListener("click",abrir);
+      el.addEventListener("keydown",function(e){if(e.key==="Enter")abrir();});
+    });
+  }
+
+  function abrirNota(id){
+    var n = notasDia.filter(function(x){return x.id===id;})[0]; if(!n) return;
+    var cuerpo=(n.cuerpo||[]).map(function(p){return "<p>"+esc(p)+"</p>";}).join("");
+    var galeria=(n.galeria||[]).map(function(g){var s=urlSegura(g.url);return s?'<div class="dxm-img" style="margin:0 0 16px"><img loading="lazy" src="'+esc(s)+'" alt="'+esc(g.alt||"")+'"></div>':"";}).join("");
+    var fuentes=(n.fuentes||[]).map(function(f){var u=urlSegura(f.url);return "<li>"+(u?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(f.nombre)+'</a>':esc(f.nombre))+"</li>";}).join("");
+    raiz.innerHTML = '<div class="dxm-nota"><button class="dxm-volver dxm-sans" type="button">← Volver a las noticias del día</button>'+
+      '<span class="dxm-kicker dxm-sans" style="display:block">'+kicker(n)+'</span><h1>'+esc(n.titulo)+'</h1><p class="dxm-bajada">'+esc(n.bajada)+'</p>'+
+      '<div class="dxm-meta dxm-sans" style="margin-bottom:14px">'+esc(n.autor||"")+(n.lugar?' · '+esc(n.lugar):'')+' · '+esc(fechaLarga(n.fecha))+'</div>'+
+      imagen(n)+(n.credito_foto?'<div class="dxm-credito dxm-sans">'+esc(n.credito_foto)+'</div>':'')+
+      '<div class="dxm-cuerpo" style="margin-top:18px">'+cuerpo+'</div>'+galeria+
+      (fuentes?'<div class="dxm-fuentes dxm-sans"><strong>Fuentes</strong><ul>'+fuentes+'</ul></div>':'')+'</div>';
+    raiz.querySelector(".dxm-volver").addEventListener("click",function(){pintarPortada();raiz.scrollIntoView({behavior:"smooth",block:"start"});});
+    raiz.scrollIntoView({behavior:"smooth",block:"start"});
+  }
+
+  fetch(URL_JSON+"?t="+Date.now(),{cache:"no-store"})
+    .then(function(r){if(!r.ok) throw new Error("HTTP "+r.status); return r.json();})
+    .then(function(d){
+      datos=d; var notas=(d.notas||[]).filter(function(n){return n && n.fecha && n.titulo;});
+      if(!notas.length){raiz.innerHTML='<div class="dxm-error">No hay noticias publicadas todavía.</div>';return;}
+      var ultima = notas.map(function(n){return n.fecha;}).sort().pop();
+      notasDia = notas.filter(function(n){return n.fecha===ultima;});
+      var hoy = new Date().toISOString().slice(0,10);
+      principal = notasDia.filter(function(n){return n.destacada_hasta && n.destacada_hasta>=hoy;})[0]
+               || notasDia.filter(function(n){return n.destacada;})[0] || notasDia[0];
+      pintarPortada();
+    })
+    .catch(function(e){raiz.innerHTML='<div class="dxm-error">No se pudieron cargar las noticias. Intenta de nuevo en unos minutos.</div>';if(window.console)console.error("DXM noticias:",e);});
+})();
+</script>
