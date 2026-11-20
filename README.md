@@ -22,5 +22,6 @@ Este repositorio guarda las noticias que se muestran solas en la página de **Do
 | `titulo`, `bajada` | Título y resumen |
 | `cuerpo` | Lista de párrafos |
 | `autor`, `lugar` | Firma y ciudad |
-| `imagen`, `imagen_alt` | Enlace a una foto con permiso de uso (opcional) |
+| `imagen`, `imagen_alt` | Foto de la nota (siempre). Se toma de `img/fotos.json` (fotos con licencia libre de Wikimedia Commons) o de la carpeta `img/` |
+| `credito_url` | Enlace a la página de la foto en Wikimedia Commons (autor y licencia) |
 | `fuentes` | Lista de `{nombre, url}` |

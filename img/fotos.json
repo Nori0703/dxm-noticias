@@ -1,0 +1,125 @@
+{
+  "nota": "Biblioteca de fotos con licencia libre de Wikimedia Commons. Cada nota usa la que mejor encaje con el tema. 'url' va en el campo imagen, 'alt' en imagen_alt, 'credito' en credito_foto y 'pagina' en credito_url.",
+  "fotos": {
+    "ny-ayuntamiento": {
+      "temas": "política de Nueva York, alcalde, Concejo Municipal, gobierno de la ciudad",
+      "archivo": "New_York_City_Hall_-_September_2025.jpg",
+      "alt": "El Ayuntamiento de Nueva York (City Hall) en Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_City_Hall_-_September_2025.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:New_York_City_Hall_-_September_2025.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "rikers": {
+      "temas": "Rikers Island, cárceles de la ciudad",
+      "archivo": "Rikers_Island_from_the_air.JPG",
+      "alt": "Vista aérea de Rikers Island, en Nueva York",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rikers_Island_from_the_air.JPG?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Rikers_Island_from_the_air.JPG",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "federal-plaza": {
+      "temas": "inmigración, ICE, cortes de inmigración, 26 Federal Plaza",
+      "archivo": "Jacob_K._Javits_Federal_Office_Building,_Manhattan,_New_York_(7237338684).jpg",
+      "alt": "Edificio federal Jacob K. Javits, en el 26 Federal Plaza de Manhattan, sede de oficinas de inmigración",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "tribunal": {
+      "temas": "tribunales, jueces, demandas, justicia",
+      "archivo": "New_York_County_Courthouse,_Manhattan,_New_York_(7237323614).jpg",
+      "alt": "Tribunal del condado de Nueva York, en Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "metro": {
+      "temas": "MTA, metro, transporte, pasajes, peajes",
+      "archivo": "NYC_Subway_R160_Train.JPG",
+      "alt": "Un tren del metro de Nueva York",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYC_Subway_R160_Train.JPG?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:NYC_Subway_R160_Train.JPG",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "mercado": {
+      "temas": "economía del hogar, precios, comida, despensas, inflación",
+      "archivo": "Westside_Market_fruit_stand,_Broadway_and_W_110th_St,_Manhattan.jpg",
+      "alt": "Puesto de frutas de un mercado en Broadway, Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "policia": {
+      "temas": "NYPD, seguridad, crímenes, accidentes",
+      "archivo": "NYPD_Police_Car.jpg",
+      "alt": "Una patrulla del Departamento de Policía de Nueva York",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYPD_Police_Car.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "hospital": {
+      "temas": "salud, hospitales, gripe, vacunas",
+      "archivo": "Bellevue_Hospital_Center.jpg",
+      "alt": "El hospital Bellevue, en Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellevue_Hospital_Center.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Bellevue_Hospital_Center.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "escuela": {
+      "temas": "educación, escuelas, exámenes",
+      "archivo": "Stuyvesant_High_School_September_2021_001.jpg",
+      "alt": "Edificio de la escuela secundaria Stuyvesant, en Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuyvesant_High_School_September_2021_001.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Stuyvesant_High_School_September_2021_001.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "aeropuerto": {
+      "temas": "vuelos, aeropuertos, aerolíneas, viajes",
+      "archivo": "JFK_Airport_Tower_and_Terminal.jpg",
+      "alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "desfile-dominicano": {
+      "temas": "comunidad dominicana, cultura, eventos de la diáspora",
+      "archivo": "Dominican_Day_Parade_2019_(50335710071).jpg",
+      "alt": "Público con banderas dominicanas en el Desfile Dominicano de Nueva York",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominican_Day_Parade_2019_%2850335710071%29.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Dominican_Day_Parade_2019_%2850335710071%29.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "washington-heights": {
+      "temas": "barrios dominicanos, Alto Manhattan, vecinos, comunidad",
+      "archivo": "West_179th_Street_wb_at_Fort_Washington_Avenue,_Manhattan,_NY,_June_2026.jpg",
+      "alt": "Calle 179 en Washington Heights, Manhattan",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "congreso-rd": {
+      "temas": "Congreso dominicano, diputados, senadores, presupuesto, leyes",
+      "archivo": "Palacio_del_Congreso_Nacional_Santo_Domingo.jpg",
+      "alt": "Palacio del Congreso Nacional, en Santo Domingo",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_del_Congreso_Nacional_Santo_Domingo.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Palacio_del_Congreso_Nacional_Santo_Domingo.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "palacio-nacional-rd": {
+      "temas": "Gobierno dominicano, presidente Abinader, partidos, política de RD",
+      "archivo": "Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg",
+      "alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    },
+    "zona-colonial": {
+      "temas": "República Dominicana al día, noticias generales de la isla",
+      "archivo": "Santo_Domingo_Cathedral_(Dominican_Republic)_(15960226898).jpg",
+      "alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg",
+      "credito": "Foto: Wikimedia Commons"
+    }
+  }
+}

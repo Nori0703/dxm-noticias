@@ -18,9 +18,9 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rikers.jpg",
-      "imagen_alt": "Ilustración del perfil de los rascacielos de Nueva York al atardecer, frente al agua",
-      "credito_foto": "Ilustración: Dominicanos X El Mundo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Rikers_Island_from_the_air.JPG?width=1200",
+      "imagen_alt": "Vista aérea de Rikers Island, en Nueva York",
+      "credito_foto": "Foto: Wikimedia Commons",
       "fuentes": [
         {
           "nombre": "El Nuevo Día (AP)",
@@ -30,7 +30,8 @@
           "nombre": "amNY",
           "url": "https://www.amny.com/news/mamdani-plan-close-rikers-island-by-2032/"
         }
-      ]
+      ],
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Rikers_Island_from_the_air.JPG"
     },
     {
       "id": "2026-11-20-presupuesto-reformulado-llega-senado-comision-lunes",
@@ -48,9 +49,9 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-senado.jpg",
-      "imagen_alt": "Ilustración de un edificio de gobierno con columnas y la bandera dominicana",
-      "credito_foto": "Ilustración: Dominicanos X El Mundo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_del_Congreso_Nacional_Santo_Domingo.jpg?width=1200",
+      "imagen_alt": "Palacio del Congreso Nacional, en Santo Domingo",
+      "credito_foto": "Foto: Wikimedia Commons",
       "fuentes": [
         {
           "nombre": "Diario Libre",
@@ -64,7 +65,8 @@
           "nombre": "Diario Libre",
           "url": "https://www.diariolibre.com/politica/congreso-nacional/2026/11/19/diputados-aprueban-segundo-presupuesto-complementario-de-2026/3725892"
         }
-      ]
+      ],
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_del_Congreso_Nacional_Santo_Domingo.jpg"
     },
     {
       "id": "2026-11-20-rd-al-dia-cumbre-gobiernos-cap-cana-reforma-policial",
@@ -81,9 +83,9 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras y mar turquesa",
-      "credito_foto": "Ilustración: Dominicanos X El Mundo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
+      "credito_foto": "Foto: Wikimedia Commons",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -93,7 +95,8 @@
           "nombre": "Listín Diario",
           "url": "https://listindiario.com/la-republica/gobierno/20261120/autoridades-presentan-libro-informe-detallado-reforma-policial_930841.html"
         }
-      ]
+      ],
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-19-diputados-aprueban-urgencia-segundo-presupuesto-complementario",
@@ -112,8 +115,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-senado.jpg",
-      "imagen_alt": "Ilustración de edificio de gobierno con columnas y la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_del_Congreso_Nacional_Santo_Domingo.jpg?width=1200",
+      "imagen_alt": "Palacio del Congreso Nacional, en Santo Domingo",
       "fuentes": [
         {
           "nombre": "El Nuevo Diario",
@@ -132,7 +135,8 @@
           "url": "https://elnuevodiario.com.do/diputados-se-preparan-para-conocer-esta-tarde-presupuesto-complementario-de-2026"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_del_Congreso_Nacional_Santo_Domingo.jpg"
     },
     {
       "id": "2026-11-19-hochul-exige-respuestas-ice-carpa-mujeres-batavia",
@@ -150,8 +154,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Batavia, Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-inmigracion.jpg",
-      "imagen_alt": "Ilustración de un pasaporte y documentos de inmigración",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg?width=1200",
+      "imagen_alt": "Edificio federal Jacob K. Javits, en el 26 Federal Plaza de Manhattan, sede de oficinas de inmigración",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -166,7 +170,8 @@
           "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/18/hochul-demands-answers-from-ice-about-tent-detention-facility-in-batavia"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg"
     },
     {
       "id": "2026-11-19-mta-propone-subir-pasajes-peajes-2027",
@@ -184,8 +189,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-transporte.jpg",
-      "imagen_alt": "Ilustración de un tren del metro",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/NYC_Subway_R160_Train.JPG?width=1200",
+      "imagen_alt": "Un tren del metro de Nueva York",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -196,7 +201,8 @@
           "url": "https://5townscentral.com/2026/11/19/commuters-face-potential-mta-fare-toll-hikes-in-2027-and-2029-amid-widening-budget-gaps/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:NYC_Subway_R160_Train.JPG"
     },
     {
       "id": "2026-11-19-oposicion-pide-auditar-superate-gobierno-defiende",
@@ -214,8 +220,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-senado.jpg",
-      "imagen_alt": "Ilustración de edificio de gobierno con columnas y la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
+      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -230,7 +236,8 @@
           "url": "https://www.diariolibre.com/politica/partidos/2026/11/17/fuerza-del-pueblo-solicita-investigacion-sobre-superate/3723561"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
     },
     {
       "id": "2026-11-19-rd-al-dia-doble-sueldo-3-diciembre-dolar-60",
@@ -248,8 +255,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -264,7 +271,8 @@
           "url": "https://www.diariolibre.com/economia/consumo/2026/11/18/gobierno-anuncia-el-pago-del-doble-sueldo-arranca-el-3-de-diciembre/3724317"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-18-gobierno-pide-ampliar-deficit-suspender-regla-fiscal",
@@ -283,8 +291,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-economia.jpg",
-      "imagen_alt": "Ilustración de monedas y una gráfica en alza",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_del_Congreso_Nacional_Santo_Domingo.jpg?width=1200",
+      "imagen_alt": "Palacio del Congreso Nacional, en Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -307,7 +315,8 @@
           "url": "https://www.diariolibre.com/politica/gobierno/2026/11/17/nuevo-presupuesto-general-del-estado-elimina-limites-al-gasto-publico/3723400"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_del_Congreso_Nacional_Santo_Domingo.jpg"
     },
     {
       "id": "2026-11-18-noche-cultura-dominicana-alto-manhattan-salcedo",
@@ -326,8 +335,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-comunidad.jpg",
-      "imagen_alt": "Ilustración de siluetas de personas bajo la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Dominican_Day_Parade_2019_%2850335710071%29.jpg?width=1200",
+      "imagen_alt": "Público con banderas dominicanas en el Desfile Dominicano de Nueva York",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -338,7 +347,8 @@
           "url": "https://teleradioamerica.com/2026/11/roberto-angel-salcedo-liderara-la-noche-de-cultura-en-nueva-york/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Dominican_Day_Parade_2019_%2850335710071%29.jpg"
     },
     {
       "id": "2026-11-18-rd-al-dia-donacion-padre-billini-emprendimiento",
@@ -356,8 +366,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -380,7 +390,8 @@
           "url": "https://deultimominuto.com/economia/banreservas-semana-global-2026/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-17-mamdani-nombra-16-jueces-cortes-penal-familia",
@@ -399,8 +410,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-justicia.jpg",
-      "imagen_alt": "Ilustración de una balanza de la justicia",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg?width=1200",
+      "imagen_alt": "Tribunal del condado de Nueva York, en Manhattan",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -419,7 +430,8 @@
           "url": "https://queenseagle.com/all/2026/11/17/mamdani-makes-his-first-judicial-appointments"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg"
     },
     {
       "id": "2026-11-17-gobierno-dominicano-reformas-leyes-anticorrupcion",
@@ -437,8 +449,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-senado.jpg",
-      "imagen_alt": "Ilustración de edificio de gobierno con columnas y la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
+      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -453,7 +465,8 @@
           "url": "https://listindiario.com/la-republica/gobierno/20261117/abinader-garantizar-haya-corrupcion_930392.html"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
     },
     {
       "id": "2026-11-17-levantan-paro-licey-al-medio-compromisos-gobierno",
@@ -471,8 +484,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Licey al Medio, Santiago",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-comunidad.jpg",
-      "imagen_alt": "Ilustración de siluetas de personas bajo la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -487,7 +500,8 @@
           "url": "https://listindiario.com/la-republica/provincias/20261117/levantan-paro-licey-medio-dialogo-autoridades_930365.html"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-17-trabajar-no-basta-1-3-millones-neoyorquinos-despensas",
@@ -506,8 +520,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-comida.jpg",
-      "imagen_alt": "Ilustración de una bolsa de compra con alimentos",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg?width=1200",
+      "imagen_alt": "Puesto de frutas de un mercado en Broadway, Manhattan",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -518,7 +532,8 @@
           "url": "https://www.amny.com/news/new-yorkers-rely-food-pantries-as-snap-shrinks/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg"
     },
     {
       "id": "2026-11-17-fallas-bancos-united-airlines-lunes",
@@ -537,8 +552,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-economia.jpg",
-      "imagen_alt": "Ilustración de monedas y una gráfica en alza",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg?width=1200",
+      "imagen_alt": "Puesto de frutas de un mercado en Broadway, Manhattan",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -553,7 +568,8 @@
           "url": "https://www.thenationalnews.com/future/2026/11/16/banking-outages-today-united-airlines/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg"
     },
     {
       "id": "2026-11-17-rd-al-dia-electricidad-policias-vuelos",
@@ -571,8 +587,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -599,7 +615,8 @@
           "url": "https://cdn.com.do/nacionales/abinader-encabeza-graduacion-de-2376-nuevos-policias/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-16-abinader-convoca-prm-frenar-choques-internos-2028",
@@ -618,8 +635,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-senado.jpg",
-      "imagen_alt": "Ilustración de edificio de gobierno con columnas y la bandera dominicana",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
+      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -634,7 +651,8 @@
           "url": "https://eldia.com.do/enterate-ny-33/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
     },
     {
       "id": "2026-11-16-viettel-entra-mercado-dominicano-indotel-concesion",
@@ -652,8 +670,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-telecom.jpg",
-      "imagen_alt": "Ilustración de una antena de telecomunicaciones",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -664,7 +682,8 @@
           "url": "https://listindiario.com/la-republica/gobierno/20261116/indotel-firma-contrato-viettel-claro-us-119-5-millones-fortalecer-telecomunicaciones-rd_930315.html"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-16-falla-tecnica-interrumpe-examen-shsat-nueva-york",
@@ -683,8 +702,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-educacion.jpg",
-      "imagen_alt": "Ilustración de libros y un lápiz",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuyvesant_High_School_September_2021_001.jpg?width=1200",
+      "imagen_alt": "Edificio de la escuela secundaria Stuyvesant, en Manhattan",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -699,7 +718,8 @@
           "url": "https://www.cbsnews.com/newyork/video/shsat-rescheduled-for-nyc-students-after-technical-issue/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Stuyvesant_High_School_September_2021_001.jpg"
     },
     {
       "id": "2026-11-16-policia-mata-conductor-belt-parkway-brooklyn",
@@ -718,8 +738,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Brooklyn, Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-seguridad.jpg",
-      "imagen_alt": "Ilustración de luces de patrulla sobre una carretera de noche",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/NYPD_Police_Car.jpg?width=1200",
+      "imagen_alt": "Una patrulla del Departamento de Policía de Nueva York",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -734,7 +754,8 @@
           "url": "https://abc7ny.com/post/officials-responding-police-involved-shooting-belt-parkway-brooklyn/20041109/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg"
     },
     {
       "id": "2026-11-16-rd-al-dia-lluvias-santiago-yaguate-vuelos",
@@ -752,8 +773,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -792,7 +813,8 @@
           "url": "https://eldia.com.do/operaciones-aereas-en-el-pais-comienzan-a-normalizarse-tras-alteraciones-en-estados-unidos"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-15-dominicana-75-anos-muere-hunts-point-sobrino-bajo-custodia",
@@ -810,8 +832,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "El Bronx, Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-seguridad.jpg",
-      "imagen_alt": "Ilustración de luces de patrulla sobre una carretera de noche",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/NYPD_Police_Car.jpg?width=1200",
+      "imagen_alt": "Una patrulla del Departamento de Policía de Nueva York",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -830,7 +852,8 @@
           "url": "https://www.ibtimes.co.uk/bronx-man-held-after-aunt-death-1832295"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg"
     },
     {
       "id": "2026-11-15-rd-al-dia-guajimia-santiago-cultura-sur",
@@ -848,8 +871,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-2026-11-20-rd-al-dia.jpg",
-      "imagen_alt": "Ilustración de una playa del Caribe con palmeras",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
       "fuentes": [
         {
           "nombre": "Zabala al Día",
@@ -864,7 +887,8 @@
           "url": "https://eldia.com.do/roberto-angel-salcedo-anuncia-festival-cultura/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     },
     {
       "id": "2026-11-15-vuelos-cancelados-rd-suben-43-normalidad-domingo",
@@ -882,8 +906,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-vuelos.jpg",
-      "imagen_alt": "Ilustración de un avión en el cielo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -898,7 +922,8 @@
           "url": "https://www.infobae.com/republica-dominicana/2026/11/15/decenas-de-pasajeros-quedaron-varados-en-republica-dominicana-tras-la-suspension-de-19-vuelos-a-estados-unidos/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
     },
     {
       "id": "2026-11-14-suspension-vuelos-cancelaciones-aeropuertos-rd",
@@ -917,8 +942,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Santo Domingo",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-vuelos.jpg",
-      "imagen_alt": "Ilustración de un avión en el cielo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -937,7 +962,8 @@
           "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
     },
     {
       "id": "2026-11-14-leonel-fernandez-vuelo-desviado-washington-agenda-diaspora",
@@ -956,8 +982,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Washington D. C.",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-ny-politica.jpg",
-      "imagen_alt": "Ilustración de rascacielos de Nueva York y un edificio de gobierno",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -976,7 +1002,8 @@
           "url": "https://www.nbcchicago.com/news/local/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-and-safety/4016516/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
     },
     {
       "id": "2026-11-14-casos-de-gripe-se-disparan-en-nueva-york",
@@ -995,8 +1022,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-salud.jpg",
-      "imagen_alt": "Ilustración de una cruz médica",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellevue_Hospital_Center.jpg?width=1200",
+      "imagen_alt": "El hospital Bellevue, en Manhattan",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -1007,7 +1034,8 @@
           "url": "https://www.ibtimes.com.au/new-york-flu-cases-hospitalisations-surge-early-1878107"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Bellevue_Hospital_Center.jpg"
     },
     {
       "id": "2026-11-13-faa-detiene-vuelos-en-todo-estados-unidos",
@@ -1026,8 +1054,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Washington",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-vuelos.jpg",
-      "imagen_alt": "Ilustración de un avión en el cielo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_Airport_Tower_and_Terminal.jpg?width=1200",
+      "imagen_alt": "Torre de control y terminal del aeropuerto JFK, en Nueva York",
       "fuentes": [
         {
           "nombre": "El Día",
@@ -1050,7 +1078,8 @@
           "url": "https://abc7.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:JFK_Airport_Tower_and_Terminal.jpg"
     },
     {
       "id": "2026-11-13-leonel-fernandez-y-abel-martinez-visitan-la-diaspora",
@@ -1069,8 +1098,8 @@
       ],
       "autor": "Redacción Dominicanos X El Mundo",
       "lugar": "Nueva York",
-      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-ny-politica.jpg",
-      "imagen_alt": "Ilustración de rascacielos de Nueva York y un edificio de gobierno",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
       "fuentes": [
         {
           "nombre": "El Nuevo Diario",
@@ -1089,7 +1118,8 @@
           "url": "https://elnuevodiario.com.do/abel-martinez-viajara-a-ee-uu-para-fortalecer-su-compromiso-con-la-diaspora-dominicana/"
         }
       ],
-      "credito_foto": "Ilustración: Dominicanos X El Mundo"
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg"
     }
   ]
 }
