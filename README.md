@@ -2,7 +2,7 @@
 
 Este repositorio guarda las noticias que se muestran solas en la página de **Dominicanos X El Mundo** (GoHighLevel → Websites).
 
-- `pagina-ghl.html` es el código que se pega en GoHighLevel (elemento de código personalizado). Muestra solo las notas del día más reciente de `noticias.json`.
+- `pagina-ghl.html` es la página completa que se pega en GoHighLevel. Llena la portada, "Lo que debes saber hoy" y cada sección con las notas más recientes de `noticias.json`; si una nota no trae foto, usa la ilustración de su sección.
 - `noticias.json` es el único archivo que lee la página. La tarea diaria lo actualiza cada mañana con notas reescritas a partir de Zabala al Día.
 - La nota con `"destacada": true` (la más reciente) va a la portada. Las demás se colocan arriba de su sección (`politica`, `inmigracion`, `economia`, `comunidad`, `rd`).
 - Para quitar una nota, bórrala de la lista `notas` y guarda el archivo. Para corregir un texto, edítalo aquí mismo en GitHub.
