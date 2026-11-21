@@ -1,11 +1,91 @@
 {
-  "actualizado": "2026-11-20T19:49:13-04:00",
+  "actualizado": "2026-11-21T13:51:01-04:00",
   "notas": [
+    {
+      "id": "2026-11-21-noche-cultura-dominicana-manhattan-reconoce-cuatro-figuras-diaspora",
+      "fecha": "2026-11-21",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · Cultura",
+      "titulo": "Noche de Cultura Dominicana en el Alto Manhattan reconoce a cuatro figuras de la diáspora",
+      "bajada": "El Ministerio de Cultura reunió en su oficina de la avenida Amsterdam a artistas y gestores de Nueva York, Nueva Jersey, Connecticut y Nueva Inglaterra, y anunció planes para llegar a más comunidades en 2027.",
+      "cuerpo": [
+        "El Ministerio de Cultura de la República Dominicana celebró el viernes 20 de noviembre una Noche de Cultura Dominicana en la sede de su Dirección de Cultura Dominicana en el Exterior (DCDEX), en el 2406 de la avenida Amsterdam, en el Alto Manhattan. El encuentro lo encabezó el ministro Roberto Ángel Salcedo.",
+        "La velada sirvió de balance del trabajo de 2025 y 2026 en patrimonio, literatura, artes visuales, música, teatro y formación artística. Hubo una muestra de herencia taína llegada desde Connecticut, un fragmento de la obra «Porcelana» a cargo de la comunidad teatral dominicana del Bronx, ligada al festival FITEX, y presentaciones en vivo de estudiantes y profesores de música de Nueva Jersey. Nueva York aportó pintura, acuarela, piano y canto.",
+        "Cuatro personas recibieron reconocimientos: Bienvenido Lara Flores, por su trayectoria comunitaria; Inés María Tejada, por preservar la memoria de la diáspora; Elvys Ruiz, por la promoción internacional del teatro y la cultura dominicana, y Angela «Angy» Abreu, por difundir la literatura dominicana y dominicoamericana en el exterior.",
+        "La DCDEX presentó además sus líneas de trabajo para 2027, que buscan ampliar su presencia hacia otras comunidades dominicanas, entre ellas Miami, Puerto Rico y España.",
+        "Para la diáspora del noreste de Estados Unidos, la oficina de la avenida Amsterdam funciona como punto de encuentro para artistas, escritores y grupos comunitarios que buscan apoyo institucional para sus proyectos culturales."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/ministerio-de-cultura-celebra-riqueza-la-diaspora-de-nueva-york/"
+        },
+        {
+          "nombre": "Periodismo Cultural RD",
+          "url": "https://www.periodismoculturalrd.com/2026/11/roberto-angel-salcedo-celebra-riqueza.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-rd-al-dia-soldados-salvadorenos-cedimat-facturacion-electronica",
+      "fecha": "2026-11-21",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: soldados salvadoreños heridos en Haití reciben atención en Santo Domingo y los pequeños negocios esperan nuevo plazo para la factura electrónica",
+      "bajada": "El país recibió a militares heridos en una detonación en un campamento en Haití, mientras la DGII prepara las reglas de la nueva extensión para micro y pequeños contribuyentes.",
+      "cuerpo": [
+        "Militares salvadoreños heridos en una detonación de material explosivo en Haití fueron trasladados por vía aérea a la República Dominicana y atendidos en Cedimat, en Santo Domingo, según informó El Nuevo Diario el sábado 21 de noviembre. Sus identidades no se han dado a conocer.",
+        "La Fuerza Armada de El Salvador informó que cuatro soldados resultaron afectados mientras manipulaban explosivos en uno de los campamentos donde están desplegados. Dos murieron en el lugar y un tercero falleció después en un hospital dominicano; el cuarto está fuera de peligro, de acuerdo con Diario El Salvador. Las autoridades lo calificaron de detonación accidental y no han explicado la causa. El Salvador tiene más de 2,000 militares en Haití en operaciones contra las pandillas.",
+        "En economía, la economista Ana Julia Sierra pidió a los micro y pequeños contribuyentes no temer a la facturación electrónica y aclaró, en el programa Encuentro del Sábado de El Nuevo Diario TV, que el cambio no modifica la forma en que los consumidores piden sus comprobantes fiscales: la obligación recae en los negocios formales que ya los emiten.",
+        "El plazo general para esos contribuyentes venció el 15 de noviembre. El 16 de noviembre la DGII descartó una nueva prórroga general y dijo que por ahora no aplicaría multas ni cierres; luego anunció, por instrucciones del Poder Ejecutivo, más tiempo para micro y pequeños contribuyentes, y que publicará los criterios y el nuevo plazo a más tardar el 30 de noviembre, según Revista Mercado.",
+        "Para los dominicanos en el exterior que tienen colmados, tiendas u otros negocios en la isla, conviene seguir de cerca ese anuncio de la DGII antes de fin de mes."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
+      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/trasladan-a-soldados-salvadorenos-heridos-en-haiti-a-hospital-de-republica-dominicana/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/economista-llama-a-contribuyentes-a-no-temer-a-la-facturacion-electronica-aclara-no-cambia-la-forma-de-solicitar-comprobantes/"
+        },
+        {
+          "nombre": "Diario El Salvador",
+          "url": "https://diarioelsalvador.com/depais/mueren-tres-militares-salvadorenos-tras-detonacion-de-material-explosivo-en-haiti/878925"
+        },
+        {
+          "nombre": "Ensegundos.do",
+          "url": "https://ensegundos.do/2026/11/21/rd-recibe-a-soldados-salvadorenos-heridos-en-haiti-uno-fallecio"
+        },
+        {
+          "nombre": "Revista Mercado",
+          "url": "https://revistamercado.do/market-brief/finanzas/te-toca-la-nueva-prorroga-de-la-factura-electronica-la-dgii-da-mas-plazo-a-los-pequenos-negocios/"
+        },
+        {
+          "nombre": "Revista Mercado",
+          "url": "https://revistamercado.do/market-brief/finanzas/vencio-el-plazo-de-la-factura-electronica-piden-no-multar-a-los-colmados-y-la-dgii-niega-prorroga/"
+        }
+      ]
+    },
     {
       "id": "2026-11-20-marcos-cross-pide-jce-cedular-millon-dominicanos-exterior",
       "fecha": "2026-11-20",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Diáspora · Voto en el exterior",
       "titulo": "Marcos Cross pide a la JCE llegar a un millón de dominicanos cedulados en el exterior antes de las elecciones de 2028",
       "bajada": "El exdiputado de ultramar, hoy dirigente de la Fuerza del Pueblo, advierte que la participación de la diáspora en las urnas ha caído elección tras elección.",
@@ -1012,80 +1092,6 @@
         {
           "nombre": "El Día",
           "url": "https://eldia.com.do/operaciones-aereas-en-el-pais-comienzan-a-normalizarse-tras-alteraciones-en-estados-unidos"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-15-dominicana-75-anos-muere-hunts-point-sobrino-bajo-custodia",
-      "fecha": "2026-11-15",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Comunidad · El Bronx",
-      "titulo": "Muere una dominicana de 75 años en Hunts Point tras una agresión en su apartamento; su sobrino quedó bajo custodia",
-      "bajada": "Carmen Núñez fue llevada al Hospital Lincoln la madrugada del sábado y no sobrevivió. La policía detuvo en el lugar a un sobrino de 35 años, pero hasta ahora no se han anunciado cargos.",
-      "cuerpo": [
-        "Carmen Núñez, una dominicana de 75 años, murió la madrugada del sábado 14 de noviembre después de ser agredida dentro de su apartamento en el 754 de la calle Manida, en Hunts Point, El Bronx. La policía recibió una llamada al 911 alrededor de las 12:43 a. m. por una agresión en curso y la encontró inconsciente; fue trasladada al Hospital Lincoln, donde la declararon muerta.",
-        "Según fuentes policiales citadas por News 12 y Diario Libre, una discusión con un sobrino de 35 años terminó en un ataque físico. El hombre fue puesto bajo custodia en el lugar, pero la policía no ha divulgado su nombre ni ha informado cargos formales. Como cualquier persona señalada en una investigación, se presume inocente mientras un tribunal no determine lo contrario.",
-        "Vecinos del edificio la describieron como una figura querida en la comunidad; uno de ellos la llamó \"la madre del edificio\", según Diario Libre. El caso lo investiga el NYPD, en la zona del Precinto 41.",
-        "Hunts Point es uno de los vecindarios del sur del Bronx con mayor presencia de familias dominicanas y latinas. Las personas que necesiten ayuda ante una situación de violencia en el hogar pueden llamar al 911 en caso de emergencia o a la línea de NYC Hope, 1-800-621-4673, disponible en español las 24 horas."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "El Bronx, Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/NYPD_Police_Car.jpg?width=1200",
-      "imagen_alt": "Una patrulla del Departamento de Policía de Nueva York",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-domingo-15-de-noviembre-de-2026-nueva-york-despierta-con-dos-muertes-violentas-investigaciones-del-nypd-y-creciente-preocupacion-por-incendios-de-baterias-electricas/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/15/dominicana-en-el-bronx-muere-tras-ser-golpeada-por-un-sobrino/3721224"
-        },
-        {
-          "nombre": "News 12 The Bronx",
-          "url": "https://bronx.news12.com/75-year-old-woman-found-dead-in-hunts-point-home-nephew-in-custody-sources-say"
-        },
-        {
-          "nombre": "IBTimes UK",
-          "url": "https://www.ibtimes.co.uk/bronx-man-held-after-aunt-death-1832295"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg"
-    },
-    {
-      "id": "2026-11-15-rd-al-dia-guajimia-santiago-cultura-sur",
-      "fecha": "2026-11-15",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: entregan tramo saneado de la cañada Guajimía, tiroteo en Santiago y cierre del festival Cultura en el Sur",
-      "bajada": "El Gobierno puso en servicio casi un kilómetro y medio de la cañada en Santo Domingo Oeste, un sargento murió en un enfrentamiento en Santiago y Azua despide cuatro días de actividades culturales.",
-      "cuerpo": [
-        "La vicepresidenta Raquel Peña y el director de la Caasd, Felipe (Fellito) Suberví, entregaron el sábado 14 de noviembre 1,489 metros lineales saneados de la cañada Guajimía, en Ciudad Agraria y Bayona, Santo Domingo Oeste. La obra costó unos RD$466.7 millones e incluye canalización de aguas pluviales y residuales, calles, aceras, iluminación y espacios recreativos. Según la Caasd, beneficia a más de 17,000 personas.",
-        "Suberví dijo que ya se han intervenido 23.5 kilómetros de los 63 de cañadas previstos en el Gran Santo Domingo, y que los tramos de Las Caobas y Caoba Park deben estar listos en el primer trimestre de 2027.",
-        "En Santiago, según Zabala al Día y la Policía Nacional, el sargento Juan Isaac Espinal Jiménez, de 35 años y miembro de la Dirección Central de Investigaciones (Dicrim), murió el jueves 12 durante un operativo en la zona de Gurabo, en el que también fallecieron otras tres personas. La Policía vinculó a dos de los hombres con investigaciones de homicidio; las circunstancias del enfrentamiento siguen bajo investigación, y ninguno de los señalados fue juzgado. El agente deja cuatro hijos.",
-        "Este domingo 15 cerró en el recinto de la UASD en Azua el festival Cultura en el Sur, organizado por el Ministerio de Cultura desde el jueves 12, con 51 actividades y artistas de Azua, San Juan, Elías Piña, San José de Ocoa, Peravia y San Cristóbal, y un homenaje al artista plástico Dionisio Blanco."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-la-republica-dominicana-gobierno-entrega-obra-millonaria-en-guajimia-y-la-seguridad-policial-vuelve-al-debate-nacional/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/14/la-caasd-entrega-1489-metros-de-canada-de-guajimia-saneados/3720786"
-        },
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/roberto-angel-salcedo-anuncia-festival-cultura/"
         }
       ],
       "credito_foto": "Foto: Wikimedia Commons",
