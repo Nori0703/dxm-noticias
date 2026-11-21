@@ -1,11 +1,90 @@
 {
-  "actualizado": "2026-11-21T13:51:01-04:00",
+  "actualizado": "2026-11-21T19:51:54-04:00",
   "notas": [
+    {
+      "id": "2026-11-21-juez-niega-libertad-oscar-belgal-concejo-nypd-ice",
+      "fecha": "2026-11-21",
+      "seccion": "inmigracion",
+      "destacada": true,
+      "kicker": "Inmigración · Nueva York",
+      "titulo": "Juez federal mantiene detenido a Oscar Belgal, el dominicano baleado por ICE, y el Concejo pide al NYPD aclarar su papel",
+      "bajada": "El juez Héctor González rechazó liberar al joven de 28 años mientras avanza su caso de deportación. Al día siguiente, la concejal Carmen de la Rosa cuestionó la actuación de la policía tras el tiroteo en Marble Hill.",
+      "cuerpo": [
+        "Un juez federal rechazó el viernes 20 de noviembre la petición de los abogados de Oscar Belgal, el dominicano de 28 años herido por disparos de agentes de inmigración en octubre, para que fuera puesto en libertad. Belgal seguirá bajo custodia de ICE mientras se resuelve su caso de deportación, según informaron Diario Libre, Univision y la agencia AP.",
+        "En su decisión escrita, el juez de distrito Héctor González admitió que los agentes pudieron cometer un error de procedimiento al entregarle la orden de arresto antes que la citación ante la corte de inmigración, pero lo consideró un fallo técnico que no justifica liberarlo. También rechazó el argumento de que no existía una orden válida y señaló que esa petición no era la vía para examinar las denuncias de uso excesivo de la fuerza. Belgal todavía puede pedir una fianza ante el tribunal de inmigración. La Legal Aid Society, que lo representa, calificó de \"inconcebible\" que siga detenido.",
+        "El tiroteo ocurrió el 8 de octubre en Marble Hill, en el norte de Manhattan, cuando Belgal iba en su carro con su hijo de 5 años, que salió ileso. Las autoridades federales sostienen que los agentes dispararon porque temieron por su vida y que él aceleró hacia ellos; sus abogados afirman que los agentes no se identificaron y que él no supo quiénes eran hasta despertar en el hospital. El Departamento de Seguridad Nacional lo vincula con la pandilla Trinitarios y recuerda que entró al país sin permiso en 2021 y que tiene un caso de drogas pendiente, en el que se presume inocente.",
+        "El sábado, la concejal dominicana Carmen de la Rosa, cuyo distrito incluye Marble Hill, pidió en una audiencia del Concejo Municipal que el NYPD explique a los vecinos, en el momento de los hechos, cuál es su papel cuando ICE interviene, tras la presencia policial frente al hospital donde atendían a Belgal. Según Diario Libre, que cita al medio Documented, el subcomisionado Michael Gerber defendió la actuación del departamento y aseguró que el NYPD lleva diez años sin aceptar una solicitud de detención de ICE.",
+        "En la audiencia se discutieron tres proyectos sobre las leyes de ciudad santuario, entre ellos dos de la concejal Elsie Encarnación que prohibirían al NYPD y al Departamento de Corrección retener a personas por pedido de ICE sin una orden judicial. La comisionada de Asuntos de Inmigración, Faiza Ali, dijo que la administración del alcalde Zohran Mamdani los está revisando. El caso es seguido de cerca en el Alto Manhattan y el Bronx, donde vive buena parte de la comunidad dominicana."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg?width=1200",
+      "imagen_alt": "Edificio federal Jacob K. Javits, en el 26 Federal Plaza de Manhattan, sede de oficinas de inmigración",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:Jacob_K._Javits_Federal_Office_Building%2C_Manhattan%2C_New_York_%287237338684%29.jpg",
+      "fuentes": [
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/usa/actualidad/2026/11/21/juez-deniega-solicitud-de-liberacion-del-dominicano-oscar-belgal/3727679"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://diariolibre.com/usa/actualidad/2026/11/21/carmen-de-la-rosa-pide-al-nypd-aclarar-su-papel-ante-ice/3727768"
+        },
+        {
+          "nombre": "Univision",
+          "url": "https://www.univision.com/noticias/inmigracion/un-juez-federal-rechaza-la-solicitud-de-liberacion-de-oscar-belgal-el-dominicano-baleado-por-ice-en-nueva-york"
+        },
+        {
+          "nombre": "El Nuevo Día (AP)",
+          "url": "https://www.elnuevodia.com/noticias/estados-unidos/notas/juez-federal-niega-libertad-a-dominicano-baleado-por-agentes-del-ice-en-nueva-york/"
+        },
+        {
+          "nombre": "El Nuevo Diario (EFE)",
+          "url": "https://elnuevodiario.com.do/juez-federal-prohibe-a-ice-deportar-al-dominicano-herido-durante-detencion-en-nueva-york/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-rd-al-dia-operacion-rompeolas-extradiciones-nueva-york",
+      "fecha": "2026-11-21",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: piden prisión para 22 acusados en la operación Rompeolas y extraditan a dos dominicanos a Nueva York",
+      "bajada": "La Fiscalía pidió prisión preventiva contra una presunta red que enviaba droga a Puerto Rico, y dos hombres buscados por homicidio y narcotráfico fueron entregados a la justicia estadounidense.",
+      "cuerpo": [
+        "El Ministerio Público pidió el sábado 21 de noviembre prisión preventiva y que se declare caso complejo contra 22 personas acusadas de narcotráfico y lavado de activos en la llamada operación Rompeolas, informó El Nuevo Diario. La audiencia está fijada para el lunes 23 de noviembre a las 2:00 de la tarde en el distrito judicial de La Altagracia.",
+        "Según la Fiscalía y la DNCD, la red, señalada como encabezada por Fausto Candelario Ortiz, alias \"Pacha\", usaba Higüey y Miches como base para mover droga llegada de La Guajira, Colombia, hacia Puerto Rico, y desde allí a Estados Unidos y Europa. El jueves 19 se hicieron 65 allanamientos simultáneos y 21 personas fueron detenidas en el país, de acuerdo con la agencia EFE. Las autoridades vinculan al caso bienes por unos RD$3,112 millones (cerca de US$5.5 millones). Todos los acusados se presumen inocentes mientras un tribunal no decida.",
+        "Por otra parte, la Procuraduría y la DNCD, con apoyo de los US Marshals, entregaron a Estados Unidos a dos dominicanos requeridos en Nueva York, según 7 Días. Felícito Celestino Mercedes, de 63 años, enfrenta en el Distrito Sur de Nueva York cargos por homicidio vinculado al narcotráfico y conspiración para distribuir cocaína; Ramón Romero, de 48, es buscado por la justicia del estado de Nueva York por asesinato en segundo grado y otros cargos. Ambos se presumen inocentes.",
+        "Los dos fueron enviados desde el Aeropuerto Internacional de Las Américas en un vuelo comercial, tras los decretos y resoluciones de la Suprema Corte de Justicia que autorizaron su extradición."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg?width=1200",
+      "imagen_alt": "Tribunal del condado de Nueva York, en Manhattan",
+      "credito_foto": "Foto: Wikimedia Commons",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg",
+      "fuentes": [
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/ministerio-publico-solicita-prision-preventiva-contra-22-personas-arrestadas-en-operacion-rompeolas/"
+        },
+        {
+          "nombre": "El Nuevo Día (EFE)",
+          "url": "https://www.elnuevodia.com/noticias/mundo/notas/cae-red-que-enviaba-drogas-de-republica-dominicana-a-puerto-rico-y-arrestan-a-21-personas/"
+        },
+        {
+          "nombre": "7 Días",
+          "url": "https://7dias.com.do/2026/11/21/autoridades-extraditan-dos-dominicanos-requeridos-por-homicidio-y-narcotrafico-en-nueva-york/"
+        }
+      ]
+    },
     {
       "id": "2026-11-21-noche-cultura-dominicana-manhattan-reconoce-cuatro-figuras-diaspora",
       "fecha": "2026-11-21",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · Cultura",
       "titulo": "Noche de Cultura Dominicana en el Alto Manhattan reconoce a cuatro figuras de la diáspora",
       "bajada": "El Ministerio de Cultura reunió en su oficina de la avenida Amsterdam a artistas y gestores de Nueva York, Nueva Jersey, Connecticut y Nueva Inglaterra, y anunció planes para llegar a más comunidades en 2027.",
@@ -1001,101 +1080,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Stuyvesant_High_School_September_2021_001.jpg"
-    },
-    {
-      "id": "2026-11-16-policia-mata-conductor-belt-parkway-brooklyn",
-      "fecha": "2026-11-16",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Seguridad · Brooklyn",
-      "titulo": "Policía mata a conductor que embistió vehículos en el Belt Parkway tras un reporte de posible secuestro",
-      "bajada": "El NYPD dice que el hombre, de 26 años, huyó en una furgoneta y chocó patrullas y autos con personas dentro. La mujer que iba con él salió ilesa. El caso sigue bajo investigación.",
-      "cuerpo": [
-        "Agentes del NYPD mataron a tiros la noche del sábado 14 de noviembre a Omatoyo Neverson, de 26 años y residente de Brooklyn, en el Belt Parkway, después de una persecución que empezó con un reporte de posible secuestro en el sur del condado.",
-        "Según la policía, poco después de las 7:00 p. m. dos testigos alertaron a los agentes y llamaron al 911 porque vieron a una mujer gritando y pataleando dentro de una furgoneta blanca. Cuando los policías se acercaron, el conductor huyó y, ya en el Belt Parkway, avanzó y retrocedió \"embistiendo vehículos de la policía y de civiles con personas dentro\", dijo el subjefe Charles Minch.",
-        "Los agentes usaron gas pimienta y una pistola eléctrica sin lograr detenerlo, y luego dispararon, de acuerdo con el NYPD. Neverson murió en el hospital. La policía dijo que la mujer es adulta, no sufrió heridas y que el caso parece ser de violencia doméstica. Neverson era buscado por dos incidentes anteriores relacionados con ella. Como murió, no llegó a ser juzgado por esos casos.",
-        "Los hechos fueron grabados por las cámaras corporales de los agentes, pero los videos no se han hecho públicos. Según Zabala al Día, un teniente y tres agentes fueron asignados a funciones modificadas mientras se revisa el uso de la fuerza.",
-        "La investigación sobre el tiroteo y lo que lo provocó sigue abierta. Las víctimas de violencia doméstica en Nueva York pueden pedir ayuda en español a la línea directa de la ciudad, 1-800-621-4673."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Brooklyn, Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/NYPD_Police_Car.jpg?width=1200",
-      "imagen_alt": "Una patrulla del Departamento de Policía de Nueva York",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-lunes-16-de-noviembre-de-2026-nueva-york-despierta-con-tres-muertes-violentas-bajo-investigacion-problemas-en-los-aeropuertos-y-nuevas-preocupaciones-por-la-seguridad/"
-        },
-        {
-          "nombre": "CBS New York",
-          "url": "https://www.cbsnews.com/newyork/news/belt-parkway-police-shooting-nypd-coney-island-brooklyn/"
-        },
-        {
-          "nombre": "ABC7 New York",
-          "url": "https://abc7ny.com/post/officials-responding-police-involved-shooting-belt-parkway-brooklyn/20041109/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg"
-    },
-    {
-      "id": "2026-11-16-rd-al-dia-lluvias-santiago-yaguate-vuelos",
-      "fecha": "2026-11-16",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: lluvias dejan una muerta en Santiago, entregan apartamentos en Yaguate y los vuelos se normalizan",
-      "bajada": "Unas 55 viviendas se inundaron en Santiago y una persona sigue desaparecida en Puerto Plata. En San Cristóbal, el Gobierno entregó la primera etapa de un residencial.",
-      "cuerpo": [
-        "Las lluvias del fin de semana inundaron unas 55 viviendas en Santiago, según datos preliminares de la Defensa Civil: cerca de 12 en Pinar del Río, en el distrito de Santiago Oeste, y unas 43 en Los Salados, Cambollita y sectores cercanos.",
-        "Una mujer de 57 años que fue arrastrada por la corriente de la cañada de Vuelta Larga, en Los Salados, fue hallada muerta la mañana del lunes 16, informó Diario Libre. En Puerto Plata, rescatistas buscan a una persona que fue arrastrada por el río Bajabonico cuando intentaba cruzarlo en motocicleta. Las autoridades piden no cruzar calles, arroyos ni cañadas con corriente fuerte. Según Zabala al Día, especialistas también alertan sobre casos de dengue y leptospirosis en temporada de lluvias.",
-        "En Yaguate, San Cristóbal, el presidente Luis Abinader entregó el domingo 15 los primeros 40 apartamentos del Residencial Villa Esperanza, que benefician a más de 200 personas que vivían en condiciones vulnerables. El ministro de Vivienda, Jean Luis Rodríguez, dijo que el proyecto tendrá 80 viviendas y que se trabaja en las 40 restantes. La inversión ronda los 305 millones de pesos.",
-        "Para los dominicanos que viajan desde Estados Unidos, Aerodom informó que las operaciones en los aeropuertos del país se están normalizando tras la suspensión de vuelos en EE. UU. del viernes 13: el lunes solo se reportó un vuelo afectado. La empresa recomienda confirmar el estado del vuelo directamente con la aerolínea."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/lluvias-dejan-55-viviendas-inundadas-en-santiago-reportan-una-mujer-desaparecida-y-continuan-las-emergencias/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-abinader-entrega-viviendas-crece-el-movimiento-politico-y-la-seguridad-ocupa-la-atencion-nacional/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/salud-y-belleza/alerta-por-dengue-y-leptospirosis-especialistas-advierten-sobre-nuevos-casos-en-republica-dominicana/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/11/16/mujer-arrastrada-por-canada-de-vuelta-larga-hallada-muerta-en-santiago/3721890"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/15/inundaciones-en-santiago-afectan-55-viviendas-y-mujer-esta-desaparecida/3721593"
-        },
-        {
-          "nombre": "La República",
-          "url": "https://larepublicaonline.com/lluvias-dejan-una-mujer-muerta-en-santiago-y-una-persona-desaparecida-en-puerto-plata/"
-        },
-        {
-          "nombre": "Canal 6",
-          "url": "https://elseis.do/noticias/abinader-entrega-40-apartamentos-del-residencial-villa-esperanza-en-yaguate"
-        },
-        {
-          "nombre": "Proceso",
-          "url": "https://proceso.com.do/2026/11/15/el-gobierno-inaugura-la-primera-etapa-del-residencial-villa-esperanza-en-yaguate/"
-        },
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/operaciones-aereas-en-el-pais-comienzan-a-normalizarse-tras-alteraciones-en-estados-unidos"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
     }
   ]
 }
