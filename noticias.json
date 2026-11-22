@@ -1,11 +1,83 @@
 {
-  "actualizado": "2026-11-21T19:51:54-04:00",
+  "actualizado": "2026-11-22T13:51:07-04:00",
   "notas": [
+    {
+      "id": "2026-11-22-dominicanos-piden-jce-cedulacion-fines-de-semana-nueva-york",
+      "fecha": "2026-11-22",
+      "seccion": "comunidad",
+      "destacada": true,
+      "kicker": "Comunidad · Nueva York",
+      "titulo": "Dominicanos en Nueva York piden a la JCE abrir la cedulación los sábados y domingos",
+      "bajada": "Unas 450 personas acudieron al operativo móvil de la Junta Central Electoral en el Alto Manhattan. Muchos dijeron que el horario de lunes a viernes choca con su trabajo.",
+      "cuerpo": [
+        "Dominicanos que viven en Nueva York pidieron a la Junta Central Electoral (JCE) que sus jornadas móviles de cedulación también se hagan los fines de semana. La solicitud surgió durante el operativo que la institución realizó del lunes 16 al miércoles 18 de noviembre en el local de la Fuerza del Pueblo, en el 555 de la calle 157 Oeste, esquina Broadway, en el Alto Manhattan.",
+        "Según El Nuevo Diario y De Último Minuto, alrededor de 450 personas pasaron por el operativo para renovar su cédula de identidad y electoral y para empadronarse, el registro que permite votar desde el exterior. Algunos asistentes llegaron desde otros condados y localidades cercanas.",
+        "Los participantes explicaron que, con el horario actual, tienen que pedir permiso o perder horas de trabajo para hacer el trámite. Por eso propusieron jornadas los sábados y domingos, operativos más frecuentes y con más horas de servicio. Hasta el momento, la JCE no ha dicho públicamente si atenderá el pedido.",
+        "Entre los dirigentes presentes estuvieron Carlos Féliz, presidente de la Fuerza del Pueblo en el estado de Nueva York; Wellington Casanova, responsable del partido en Manhattan, e Hilario Taveras, encargado estatal de Gestión Operativa.",
+        "La renovación de la cédula es gratuita porque la JCE está entregando un nuevo documento a todos los dominicanos. Desde el 2 de noviembre, algunas oficinas de la JCE en el exterior ya no exigen cita previa. En Nueva York, la oficina principal está en el 1501 de Broadway, cuarto piso, en el mismo edificio del Consulado General, y también hay oficinas en el Bronx y Long Island."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg?width=1200",
+      "imagen_alt": "Calle 179 en Washington Heights, Manhattan",
+      "credito_url": "https://commons.wikimedia.org/wiki/File:West_179th_Street_wb_at_Fort_Washington_Avenue%2C_Manhattan%2C_NY%2C_June_2026.jpg",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/dominicanos-piden-servicios-de-cedulacion-los-fines-de-semana-trabajadores-aseguran-que-los-horarios-actuales-dificultan-los-tramites/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/unas-450-personas-acuden-a-operativo-de-la-jce-en-ny-solicitan-jornadas-los-fines-de-semana/"
+        },
+        {
+          "nombre": "De Último Minuto",
+          "url": "https://deultimominuto.com/internacionales/nueva-york-y-nueva-jersey/cedulacion-nueva-york-fines-de-semana/"
+        },
+        {
+          "nombre": "GuayacanalRD",
+          "url": "https://guayacanalrd.com/2026/11/16/jce-expedira-nueva-cedula-en-local-de-la-fuerza-del-pueblo-en-alto-manhattan/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22-abinader-entrega-carcel-anamuya-higuey-545-internos",
+      "fecha": "2026-11-22",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana · Justicia",
+      "titulo": "Abinader entrega en Higüey la nueva cárcel de Anamuya, con espacio para 545 internos",
+      "bajada": "El complejo costó más de RD$790 millones y empezará a operar con 211 privados de libertad. El Gobierno lo presenta como parte de la reforma penitenciaria.",
+      "cuerpo": [
+        "El presidente Luis Abinader y el ministro de Vivienda y Edificaciones, Jean Luis Rodríguez, entregaron el sábado 21 de noviembre el Complejo de Corrección y Rehabilitación Anamuya, en Higüey, provincia La Altagracia. La obra tiene capacidad para 545 privados de libertad.",
+        "Según el Gobierno, la inversión supera los RD$790 millones, incluidos la construcción y el equipamiento, en unos 9,000 metros cuadrados. En una primera etapa recibirá a 211 internos, hombres y mujeres. Tiene edificio administrativo, área de requisa, celdas separadas por sexo, comedor, cancha deportiva, torre de vigilancia y caseta para visitas.",
+        "Roberto Santana, director general de Servicios Penitenciarios y Correccionales, dijo que el nuevo centro sustituye la vieja cárcel de Higüey, conocida por el hacinamiento. Rodríguez afirmó que las obras de su ministerio suman unas 5,500 plazas carcelarias y que la meta es superar las 14,000 en 2028. \"La Reforma Penitenciaria es fundamental\", dijo Abinader durante el acto.",
+        "Para las familias dominicanas, dentro y fuera del país, que tienen parientes presos, las condiciones de las cárceles son un tema sensible: las autoridades vinculan el hacinamiento con muertes en recintos como la vieja cárcel de Higüey. La reforma busca mover a los internos de cárceles viejas a centros nuevos con programas de rehabilitación."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Higüey",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-justicia.jpg",
+      "imagen_alt": "Ilustración sobre justicia",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-y-jean-luis-rodriguez-entregan-el-nuevo-complejo-de-correccion-y-rehabilitacion-anamuya-en-higuey/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/presidente-abinader-y-ministro-jean-luis-rodriguez-entregan-complejo-de-correccion-y-rehabilitacion-anamuya-en-higuey/"
+        },
+        {
+          "nombre": "Cibao Noticias",
+          "url": "https://www.cibaonoticias.com/abinader-inaugura-carcel-anamuya-higuey/"
+        }
+      ]
+    },
     {
       "id": "2026-11-21-juez-niega-libertad-oscar-belgal-concejo-nypd-ice",
       "fecha": "2026-11-21",
       "seccion": "inmigracion",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Inmigración · Nueva York",
       "titulo": "Juez federal mantiene detenido a Oscar Belgal, el dominicano baleado por ICE, y el Concejo pide al NYPD aclarar su papel",
       "bajada": "El juez Héctor González rechazó liberar al joven de 28 años mientras avanza su caso de deportación. Al día siguiente, la concejal Carmen de la Rosa cuestionó la actuación de la policía tras el tiroteo en Marble Hill.",
@@ -1013,73 +1085,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
-    },
-    {
-      "id": "2026-11-16-viettel-entra-mercado-dominicano-indotel-concesion",
-      "fecha": "2026-11-16",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "Economía · República Dominicana",
-      "titulo": "Viettel llega a República Dominicana: Indotel firma concesiones con Claro y la operadora vietnamita por US$119.5 millones",
-      "bajada": "La entrada de un nuevo operador móvil promete más competencia en un mercado que afecta directamente lo que pagan las familias por llamadas, datos e internet.",
-      "cuerpo": [
-        "El Instituto Dominicano de las Telecomunicaciones (Indotel) firmó este lunes 16 de noviembre los contratos de concesión con Claro Dominicana y Viettel Dominicana, filial del grupo vietnamita Viettel, que entra así como nuevo operador al mercado dominicano.",
-        "Las dos empresas recibieron en total 260 megahercios (MHz) de espectro radioeléctrico, con compromisos por US$119.5 millones: US$107 millones corresponden a Viettel y el resto, US$12.5 millones, a Claro, cuya concesión fue ampliada. Según Zabala al Día, el paquete incluye frecuencias de la banda de 700 MHz que quedaron sin asignar en las licitaciones de 2021 y 2023, y hasta un 30 % de los montos podrá destinarse a proyectos como becas digitales y expansión de fibra óptica.",
-        "El presidente del Consejo Directivo del Indotel, Guido Gómez Mazara, defendió la llegada del nuevo competidor: \"La competencia es buena, saludable\", dijo. Según Listín Diario, Gómez estimó que Viettel podría empezar a cumplir sus compromisos en un plazo de tres a cuatro meses.",
-        "Viettel ya opera en Haití, bajo la marca Natcom, y en Perú. Para los dominicanos de la diáspora que mantienen planes y recargas para familiares en la isla, un mercado con más operadores podría traducirse en más opciones de precio y cobertura, aunque las tarifas dependerán de cómo despliegue la empresa su red."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/economia/viettel-entra-al-mercado-dominicano-indotel-firma-concesion-con-claro-y-viettel-por-usd-119-5-millones/"
-        },
-        {
-          "nombre": "Listín Diario",
-          "url": "https://listindiario.com/la-republica/gobierno/20261116/indotel-firma-contrato-viettel-claro-us-119-5-millones-fortalecer-telecomunicaciones-rd_930315.html"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-16-falla-tecnica-interrumpe-examen-shsat-nueva-york",
-      "fecha": "2026-11-16",
-      "seccion": "comunidad",
-      "destacada": false,
-      "kicker": "Educación · Nueva York",
-      "titulo": "Falla técnica interrumpe el examen de ingreso a las escuelas especializadas de Nueva York",
-      "bajada": "Estudiantes que no pudieron terminar el SHSAT el sábado tendrán una nueva fecha automáticamente, según el Departamento de Educación. El canciller ordenó investigar al proveedor.",
-      "cuerpo": [
-        "Muchos estudiantes de octavo grado que presentaban el sábado 14 de noviembre el SHSAT, el examen que decide la admisión a las escuelas secundarias especializadas de Nueva York, fueron enviados a casa antes de tiempo porque no pudieron entrar o terminar la prueba en línea, informaron funcionarios de la ciudad.",
-        "El canciller de Escuelas, Kamar Samuels, atribuyó el problema a una falla técnica de la plataforma del proveedor y dijo que la prueba siguió con normalidad el domingo 15. El Departamento de Educación no ha dicho cuántos alumnos resultaron afectados.",
-        "Según el Departamento de Educación, quienes no pudieron completar el examen recibirán una nueva fecha de forma automática, sin que eso afecte su puntuación ni su consideración para la admisión. El calendario de este año incluye otra jornada el sábado 21 de noviembre y un día de prueba en las escuelas el 18.",
-        "Samuels dijo que pidió a su equipo una investigación completa del proveedor. \"Entiendo la frustración de nuestros estudiantes y familias\", afirmó. Legisladores de Brooklyn, entre ellos la concejal Susan Zhuang, criticaron en un comunicado conjunto al Departamento y a la empresa Pearson, encargada del examen, según amNY.",
-        "Para las familias hispanas y dominicanas con hijos en octavo grado, la recomendación es revisar los avisos de la escuela y de MySchools para confirmar la nueva fecha asignada."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Stuyvesant_High_School_September_2021_001.jpg?width=1200",
-      "imagen_alt": "Edificio de la escuela secundaria Stuyvesant, en Manhattan",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-nueva-york-lunes-16-de-noviembre-de-2026-nueva-york-despierta-con-tres-muertes-violentas-bajo-investigacion-problemas-en-los-aeropuertos-y-nuevas-preocupaciones-por-la-seguridad/"
-        },
-        {
-          "nombre": "amNY",
-          "url": "https://www.amny.com/news/nyc-students-shsat-test-tech-outage/"
-        },
-        {
-          "nombre": "CBS New York",
-          "url": "https://www.cbsnews.com/newyork/video/shsat-rescheduled-for-nyc-students-after-technical-issue/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Stuyvesant_High_School_September_2021_001.jpg"
     }
   ]
 }
