@@ -1,11 +1,74 @@
 {
-  "actualizado": "2026-11-23T13:50:24-04:00",
+  "actualizado": "2026-11-23T19:50:24-04:00",
   "notas": [
+    {
+      "id": "2026-11-23-rd-prohibe-importar-mercancias-trabajo-forzoso-ley-97-26",
+      "fecha": "2026-11-23",
+      "seccion": "rd",
+      "destacada": true,
+      "kicker": "Economía · República Dominicana",
+      "titulo": "República Dominicana prohíbe importar mercancías fabricadas con trabajo forzoso",
+      "bajada": "El presidente Luis Abinader promulgó este lunes la Ley 97-26. Aduanas podrá bloquear la entrada de productos hechos total o parcialmente con trabajo forzoso y los importadores deberán firmar una declaración jurada.",
+      "cuerpo": [
+        "El presidente Luis Abinader promulgó este lunes 23 de noviembre en Santo Domingo la Ley 97-26, de Prevención y Prohibición de Mercancías Producidas Mediante Trabajo Forzoso. La norma, de 26 artículos, impide que entren al territorio aduanero dominicano bienes elaborados total o parcialmente con ese tipo de trabajo.",
+        "La Dirección General de Aduanas (DGA) será la encargada de aplicar la prohibición: podrá abrir investigaciones por su cuenta cuando haya indicios razonables y emitir decisiones administrativas que identifiquen la mercancía y al productor o eslabón de la cadena de suministro señalado. El Ministerio de Trabajo actuará como autoridad técnica para evaluar si existe trabajo forzoso.",
+        "Según el periódico elDinero, cada importador deberá incluir en la declaración aduanera una declaración jurada sobre si conoce o sospecha razonablemente que lo que trae fue producido con trabajo forzoso; mentir en ella será una infracción administrativa. Las mercancías ya embarcadas o en puerto podrán ser reexportadas o destruidas a costa del importador, y la DGA llevará un registro público de las prohibiciones definitivas.",
+        "La ley también reconoce el derecho a la defensa de los importadores, con acceso al expediente y posibilidad de recurrir en vía administrativa y judicial. Las empresas de sectores de riesgo deberán tener sistemas de debida diligencia, y quienes ya hayan sido investigados tendrán que reforzar la trazabilidad y someterse a auditorías independientes.",
+        "Para los dominicanos que tienen negocios de importación entre Estados Unidos y la isla, la norma supone nuevos trámites y controles sobre el origen de los productos. El Gobierno presenta la ley como una forma de proteger la dignidad humana y garantizar una competencia justa en el comercio."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-economia.jpg",
+      "imagen_alt": "Ilustración sobre economía",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-promulga-la-ley-97-26-que-prohibe-la-importacion-de-mercancias-producidas-mediante-trabajo-forzoso/"
+        },
+        {
+          "nombre": "elDinero",
+          "url": "https://eldinero.com.do/389649/abinader-promulga-ley-97-26-que-prohibe-importar-mercancias-producidas-mediante-trabajo-forzoso/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-rd-al-dia-navidad-360-hospital-nisibon",
+      "fecha": "2026-11-23",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: arranca Navidad 360 y abre un nuevo hospital en Las Lagunas de Nisibón",
+      "bajada": "El Gobierno promete 15 millones de raciones de comida para la temporada navideña. En Higüey, el presidente inauguró un hospital de más de RD$1,200 millones.",
+      "cuerpo": [
+        "El presidente Luis Abinader dio inicio el domingo 22 de noviembre al programa Navidad 360 en el parque Cristo Libre, en Cristo Rey, Santo Domingo. El plan, a cargo de la Dirección de Asistencia Social y Alimentación Comunitaria (Dasac), prevé repartir 15 millones de raciones de almuerzo y cena y 1.5 millones de raciones crudas durante la temporada.",
+        "Según El Nuevo Diario, el programa incluye además 63 actividades presidenciales y 20 fiestas navideñas junto al Banco de Reservas. \"Hoy empezamos ya con todas las actividades de la Navidad\", dijo Abinader durante el acto, al que asistieron el director de Dasac, Edgar Augusto Féliz Arbona, y la alcaldesa del Distrito Nacional, Carolina Mejía, entre otros funcionarios.",
+        "Ese mismo domingo, el mandatario y el ministro de Vivienda, Hábitat y Edificaciones, Jean Luis Rodríguez, entregaron el Hospital de Las Lagunas de Nisibón, en Higüey, provincia La Altagracia. La obra costó más de RD$1,200 millones y suma 26 camas, con áreas de maternidad, cirugía, emergencias, laboratorio, imágenes y cuidados intensivos para adultos y recién nacidos.",
+        "Las autoridades informaron que el centro recibirá un tomógrafo en unos cuatro meses y que parte del antiguo hospital se convertirá en un centro de diagnóstico y otra en un centro de formación hotelera del Infotep. Para muchas familias de la diáspora con parientes en el este del país, el nuevo hospital acerca servicios que antes obligaban a viajar a otras ciudades."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-salud.jpg",
+      "imagen_alt": "Ilustración sobre salud",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/asi-amanece-la-republica-dominicana-abinader-activa-la-navidad-entrega-titulos-y-escuelas-mientras-la-justicia-enfrenta-una-prueba-contra-el-narcotrafico/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/abinader-inicia-navidad-360-con-mas-de-15-millones-de-raciones-alimenticias-para-familias/"
+        },
+        {
+          "nombre": "El Nuevo Diario",
+          "url": "https://elnuevodiario.com.do/abinader-y-el-ministro-de-vivienda-entregan-hospital-en-las-lagunas-de-nisibon-higuey/"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-mas-de-6400-dominicanos-deportados-segundo-mandato-trump",
       "fecha": "2026-11-23",
       "seccion": "inmigracion",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Inmigración · Estados Unidos",
       "titulo": "Más de 6,400 dominicanos han sido deportados desde que Trump volvió a la Casa Blanca",
       "bajada": "La cifra abarca desde el 20 de enero de 2025 hasta hoy. En todo el país, el MPI calcula unas 980,000 deportaciones y devoluciones en los primeros 18 meses del segundo mandato.",
@@ -988,73 +1051,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
-    },
-    {
-      "id": "2026-11-17-levantan-paro-licey-al-medio-compromisos-gobierno",
-      "fecha": "2026-11-17",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana · Santiago",
-      "titulo": "Levantan el paro en Licey al Medio tras promesas de terminar el hospital y remodelar el polideportivo",
-      "bajada": "Las organizaciones populares suspendieron la huelga de 48 horas después de reunirse con la gobernadora de Santiago, Rosa Santos, pero advierten que seguirán vigilantes.",
-      "cuerpo": [
-        "Las organizaciones populares y comunitarias de Licey al Medio y de la parte baja de Moca levantaron el lunes 16 de noviembre el paro de 48 horas que habían convocado, luego de llegar a acuerdos con una comisión del Gobierno encabezada por la gobernadora de Santiago, Rosa Santos.",
-        "Según el periódico Hoy, la gobernadora informó que el hospital de Licey se entregará a la comunidad en la segunda semana de diciembre, que el primer picazo para remodelar el polideportivo municipal será el 29 de noviembre y que la carretera de Uveral ya está en proceso de licitación.",
-        "Los grupos reclamaban además reparación de calles, mejoras en escuelas, agua potable y soluciones a los apagones y a la contaminación del río Licey. Antes del acuerdo hubo enfrentamientos con la Policía, aunque los reporteros no informaron heridos ni detenidos.",
-        "El vocero de las organizaciones, Roberto Núñez, advirtió que el movimiento seguirá si los compromisos no se cumplen. Según Zabala al Día, los comunitarios dieron tres semanas a las autoridades para mostrar avances."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Licey al Medio, Santiago",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/rd-levantan-el-paro-en-licey-al-medio-comunitarios-dan-tres-semanas-a-las-autoridades-para-responder-a-sus-reclamos/"
-        },
-        {
-          "nombre": "Hoy",
-          "url": "https://hoy.com.do/el-pais/organizaciones-populares-levantan-huelga-licey-medio-luego-compromisos-gobierno_1108883.html"
-        },
-        {
-          "nombre": "Listín Diario",
-          "url": "https://listindiario.com/la-republica/provincias/20261117/levantan-paro-licey-medio-dialogo-autoridades_930365.html"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-17-trabajar-no-basta-1-3-millones-neoyorquinos-despensas",
-      "fecha": "2026-11-17",
-      "seccion": "economia",
-      "destacada": false,
-      "kicker": "Economía · Nueva York",
-      "titulo": "Tener empleo ya no basta: casi 1.3 millones de neoyorquinos acudieron a despensas de comida en 2025",
-      "bajada": "Un informe de Robin Hood y la Universidad de Columbia revela que más de la mitad de quienes buscan comida gratis en la ciudad trabajan o viven con alguien que trabaja.",
-      "cuerpo": [
-        "Cerca de 1.3 millones de residentes de la ciudad de Nueva York recurrieron en 2025 a despensas y otros servicios de comida gratuita, según un informe de la organización Robin Hood y la Universidad de Columbia presentado el lunes 16 de noviembre en el Banco de Alimentos de Nueva York.",
-        "El dato que más llama la atención es que el 55 % de esas personas tenía trabajo o vivía con una pareja que trabaja. Además, unos 2.6 millones de neoyorquinos, alrededor del 31 % de la población, dijeron que a veces o con frecuencia se quedaron sin comida o temieron quedarse sin ella.",
-        "“El trabajo debería alcanzar para poner comida en la mesa”, afirmó Richard Buery Jr., director ejecutivo de Robin Hood. Christopher Wimer, investigador de Columbia y coautor del estudio, advirtió que las despensas no pueden sustituir los programas públicos de asistencia.",
-        "El informe llega mientras miles de hogares pierden ayuda alimentaria: unos 26,500 residentes de la ciudad quedaron fuera del programa SNAP el 1 de octubre, según amNY. Esa reducción no aparece todavía en las cifras del estudio, que solo cubren 2025.",
-        "Para muchas familias dominicanas de Washington Heights y el Bronx, el golpe se siente en la compra diaria, que compite con el alquiler, la luz, el transporte y las medicinas, según testimonios recogidos por Zabala al Día."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg?width=1200",
-      "imagen_alt": "Puesto de frutas de un mercado en Broadway, Manhattan",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/al-dia-tv-mas/antes-con-100-dolares-llenabas-un-carrito-hoy-apenas-llevas-dos-funditas-el-alto-costo-de-la-comida-golpea-a-familias-dominicanas-de-nueva-york/"
-        },
-        {
-          "nombre": "amNY",
-          "url": "https://www.amny.com/news/new-yorkers-rely-food-pantries-as-snap-shrinks/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg"
     }
   ]
 }
