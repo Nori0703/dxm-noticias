@@ -1,11 +1,100 @@
 {
-  "actualizado": "2026-11-22T13:51:07-04:00",
+  "actualizado": "2026-11-23T13:50:24-04:00",
   "notas": [
+    {
+      "id": "2026-11-23-mas-de-6400-dominicanos-deportados-segundo-mandato-trump",
+      "fecha": "2026-11-23",
+      "seccion": "inmigracion",
+      "destacada": true,
+      "kicker": "Inmigración · Estados Unidos",
+      "titulo": "Más de 6,400 dominicanos han sido deportados desde que Trump volvió a la Casa Blanca",
+      "bajada": "La cifra abarca desde el 20 de enero de 2025 hasta hoy. En todo el país, el MPI calcula unas 980,000 deportaciones y devoluciones en los primeros 18 meses del segundo mandato.",
+      "cuerpo": [
+        "El Servicio de Inmigración y Control de Aduanas (ICE) ha enviado a República Dominicana a algo más de 6,400 dominicanos desde el 20 de enero de 2025, cuando Donald Trump empezó su segundo mandato, según un reportaje del periodista Ramón Mercedes publicado este lunes en Nueva York por Zabala al Día y otros medios dominicanos.",
+        "El dato llega en medio de un aumento general de las expulsiones. Un informe del Instituto de Política Migratoria (MPI), publicado en octubre, estima que el Gobierno deportó o devolvió a unas 980,000 personas de todas las nacionalidades hasta el 31 de julio de 2026, la cifra más alta en años, aunque por debajo de la meta de un millón anual que se había fijado la Casa Blanca.",
+        "Contar con precisión es difícil: el Departamento de Seguridad Nacional dejó de publicar estadísticas oficiales de deportaciones en enero de 2025, por lo que los cálculos se basan en datos obtenidos mediante solicitudes bajo la Ley de Libertad de Información (FOIA).",
+        "El reportaje señala además que ICE cuenta ahora con un presupuesto muy superior al de hace una década, según el American Immigration Council, y que ha contratado miles de nuevos agentes y adquirido centros de detención privados.",
+        "Para las miles de familias dominicanas en Nueva York, Nueva Jersey y otros estados, estas cifras se traducen en separaciones y regresos forzados a la isla. Quien enfrente un proceso migratorio debe buscar orientación de un abogado de inmigración o de una organización acreditada antes de firmar cualquier documento."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Nueva York",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-inmigracion.jpg",
+      "imagen_alt": "Ilustración sobre inmigración",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/mas-de-6400-deportados-desde-ee-uu-a-rd-desde-que-trump-inicio-su-segundo-mandato/"
+        },
+        {
+          "nombre": "Hoy",
+          "url": "https://hoy.com.do/el-mundo/estados-unidos/6-400-deportados-ee-uu-rd-donald-trump-inicio-segundo-mandato_1109567.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-hombre-ataca-nina-10-anos-con-palo-tren-7-queens",
+      "fecha": "2026-11-23",
+      "seccion": "comunidad",
+      "destacada": false,
+      "kicker": "Comunidad · Queens",
+      "titulo": "Arrestan a un hombre acusado de golpear con un palo a una niña de 10 años en el tren 7 en Queens",
+      "bajada": "La menor fue llevada al hospital y se espera que se recupere. El sospechoso, de 67 años, fue detenido en el lugar.",
+      "cuerpo": [
+        "Una niña de 10 años resultó herida el domingo 22 de noviembre al ser golpeada en la cabeza con un palo dentro de un tren de la línea 7 que iba hacia Manhattan, a la altura de la estación 33rd Street–Rawson Street, en Long Island City, Queens.",
+        "La policía arrestó en el lugar a un hombre de 67 años, descrito como persona sin hogar, quien según los investigadores tiene arrestos previos por agresiones. Como toda persona acusada, se presume inocente mientras no se demuestre lo contrario en un tribunal.",
+        "La menor fue trasladada a un hospital; de acuerdo con ABC7, los médicos esperan que se recupere. Zabala al Día, citando al New York Post, informó que fue atendida en NewYork-Presbyterian Queens en condición estable.",
+        "Según ABC7, el detenido enfrenta un cargo adicional porque la víctima tiene menos de 11 años. Las autoridades no habían detallado el resto de los cargos.",
+        "La línea 7 atraviesa barrios de Queens con gran población hispana, como Jackson Heights, Corona y Woodside, y es una de las más usadas por familias latinas para ir al trabajo y a la escuela."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Queens, Nueva York",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-seguridad.jpg",
+      "imagen_alt": "Ilustración sobre seguridad",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/ataque-contra-una-nina-de-10-anos-en-el-metro-de-queens-sospechoso-detenido-tras-golpearla-con-un-palo/"
+        },
+        {
+          "nombre": "ABC7 New York",
+          "url": "https://abc7ny.com/post/police-homeless-man-accused-hitting-10-year-old-stick-moving-7-train/20068403/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-rd-86-feminicidios-2026-reclaman-ley-mirabal",
+      "fecha": "2026-11-23",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana",
+      "titulo": "República Dominicana suma al menos 86 feminicidios en 2026 y crece la presión para aprobar la Ley Mirabal",
+      "bajada": "Una comisión especial de la Cámara de Diputados estudia el proyecto, que busca garantizar a las mujeres una vida libre de violencia.",
+      "cuerpo": [
+        "República Dominicana ha registrado al menos 86 feminicidios en los primeros once meses de 2026, según recuentos publicados por medios del país, y organizaciones de mujeres reclaman que el Congreso apruebe de una vez la llamada Ley Mirabal.",
+        "El proyecto lo estudia una comisión especial de la Cámara de Diputados, que se reunió la semana pasada con representantes del Poder Ejecutivo, la Policía Nacional y la Procuraduría General de la República, según CDN. Los diputados Mayobanex Martínez (PLD) y Selinée Méndez (Fuerza del Pueblo) señalaron que Santiago y la provincia Santo Domingo están entre los territorios con más casos.",
+        "La propuesta busca garantizar a las mujeres una vida libre de violencia y discriminación en todas las etapas de su vida. Los legisladores esperan aprobarla en la actual legislatura.",
+        "El tema toca de cerca a la diáspora: muchas familias dominicanas en Estados Unidos siguen con preocupación estos casos, que con frecuencia afectan a parientes y comunidades de origen."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-justicia.jpg",
+      "imagen_alt": "Ilustración sobre justicia",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/republica-dominicana-registra-86-feminicidios-en-2026-organizaciones-reclaman-aprobar-ley-mirabal-la-adp-financia-sus-paros-con-descuentos-directos-de-educacion-que-rozaran-rd1200-mm-anuales/"
+        },
+        {
+          "nombre": "CDN",
+          "url": "https://cdn.com.do/nacionales/rd-registra-86-feminicidios-en-once-meses-de-2026/"
+        }
+      ]
+    },
     {
       "id": "2026-11-22-dominicanos-piden-jce-cedulacion-fines-de-semana-nueva-york",
       "fecha": "2026-11-22",
       "seccion": "comunidad",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Comunidad · Nueva York",
       "titulo": "Dominicanos en Nueva York piden a la JCE abrir la cedulación los sábados y domingos",
       "bajada": "Unas 450 personas acudieron al operativo móvil de la Junta Central Electoral en el Alto Manhattan. Muchos dijeron que el horario de lunes a viernes choca con su trabajo.",
@@ -966,125 +1055,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg"
-    },
-    {
-      "id": "2026-11-17-fallas-bancos-united-airlines-lunes",
-      "fecha": "2026-11-17",
-      "seccion": "economia",
-      "destacada": false,
-      "kicker": "Economía · Estados Unidos",
-      "titulo": "Fallas en Chase, Wells Fargo y otros bancos dejan a miles de clientes sin acceso a sus cuentas en línea",
-      "bajada": "El lunes también hubo una interrupción en los sistemas de United Airlines. Chase atribuyó su problema a una falla interna y dijo que no fue un hackeo.",
-      "cuerpo": [
-        "Miles de clientes de grandes bancos de Estados Unidos reportaron el lunes 16 de noviembre problemas para entrar a sus cuentas, ver sus balances o hacer transferencias por internet y por aplicaciones, según datos del sitio Downdetector recogidos por Al Jazeera y AP.",
-        "Las quejas se concentraron en JPMorgan Chase, con cerca de 5,000 reportes, y en Wells Fargo, con más de 800. También hubo reportes sobre Bank of America, U.S. Bank, Capital One y la plataforma de pagos Zelle.",
-        "Chase explicó que se trató de una falla técnica interna y no de un ataque informático. El banco dijo que algunas transacciones tardaban más de lo normal, pero que sus clientes seguían teniendo acceso a sus cuentas y a su dinero, y que esperaba resolverlo ese mismo día.",
-        "Ese mismo lunes, United Airlines reconoció una interrupción generalizada de sus sistemas que afectó sus vuelos. Según Zabala al Día, que cita a Diario Libre, la aerolínea informó luego que el fallo quedó solucionado.",
-        "Para quienes envían remesas o pagan cuentas en línea, la recomendación es revisar que las transacciones del lunes se hayan completado y comunicarse con su banco si ven cargos duplicados o pagos pendientes."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg?width=1200",
-      "imagen_alt": "Puesto de frutas de un mercado en Broadway, Manhattan",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/economia/united-airlines-afirma-haber-solucionado-el-fallo-tecnologico-que-ha-afectado-a-sus-vuelos-sitios-de-bancos-en-ee-uu-presentan-fallos-pero-no-hay-ciberataque-segun-jpmorgan-chase/"
-        },
-        {
-          "nombre": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks"
-        },
-        {
-          "nombre": "The National",
-          "url": "https://www.thenationalnews.com/future/2026/11/16/banking-outages-today-united-airlines/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Westside_Market_fruit_stand%2C_Broadway_and_W_110th_St%2C_Manhattan.jpg"
-    },
-    {
-      "id": "2026-11-17-rd-al-dia-electricidad-policias-vuelos",
-      "fecha": "2026-11-17",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: plan de US$700 millones para la red eléctrica, 2,376 nuevos policías y vuelos que se normalizan",
-      "bajada": "El Gobierno anuncia inversión en redes y subestaciones, gradúa una nueva promoción de agentes y Aerodom reporta recuperación de las operaciones aéreas.",
-      "cuerpo": [
-        "El ministro de Energía y Minas, Joel Santos, informó que el Gobierno proyecta invertir más de US$700 millones en el sistema de distribución eléctrica en los próximos dos años, con unos 1,800 kilómetros de redes y 18 subestaciones. Unos US$400 millones corresponderían a 2027.",
-        "La meta es bajar las pérdidas de las distribuidoras, que promedian 39.2 %, en unos 2 a 2.5 puntos porcentuales por año en 2027 y 2028. El ministerio también prepara una reforma a la Ley General de Electricidad 125-01 para endurecer las sanciones por robo de energía, que se espera en los primeros meses de 2027.",
-        "El presidente Luis Abinader encabezó el domingo 15 de noviembre la graduación de 2,376 nuevos agentes de la Policía Nacional, 1,256 hombres y 1,120 mujeres, que pasarán al patrullaje preventivo y a la Digesett tras diez meses de formación.",
-        "En los aeropuertos, la concesionaria Aerodom reportó que las operaciones comenzaron a normalizarse desde el lunes 16, tras varios días de cancelaciones por la suspensión de vuelos en Estados Unidos, según Zabala al Día. Se recomienda a los viajeros confirmar el estado de su vuelo directamente con la aerolínea."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/economia/gobierno-dominicano-proyecta-invertir-mas-de-us700-millones-en-electricidad-el-plan-busca-reducir-perdidas-y-mejorar-las-redes-nacionales/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/turismo/los-vuelos-en-republica-dominicana-comienzan-a-normalizarse-aerodom-reporta-recuperacion-tras-las-alteraciones-aereas-en-estados-unidos/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/asi-amanece-la-republica-dominicana-martes-17-de-noviembre-de-2026-abinader-refuerza-la-policia-llega-nueva-telefonica-y-el-pais-mira-hacia-haiti-para-los-dominicanos-en-el-exterior-la-conectivid/"
-        },
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/gobierno-proyecta-invertir-us700-millones-en-redes-electricas-para-reducir-perdidas-y-mejorar-el-servicio/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/economia/energia/2026/11/16/santos-gobierno-quiere-dejar-un-sistema-electrico-muy-fortalecido/3722386"
-        },
-        {
-          "nombre": "CDN",
-          "url": "https://cdn.com.do/nacionales/abinader-encabeza-graduacion-de-2376-nuevos-policias/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-16-abinader-convoca-prm-frenar-choques-internos-2028",
-      "fecha": "2026-11-16",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "Política · República Dominicana",
-      "titulo": "Abinader reúne a la cúpula del PRM para frenar las peleas públicas por la candidatura de 2028",
-      "bajada": "El presidente convocó este lunes a la alta dirigencia de su partido tras varios días de choques entre figuras oficialistas, incluido el cónsul dominicano en Nueva York.",
-      "cuerpo": [
-        "El presidente Luis Abinader convocó a la alta dirigencia del Partido Revolucionario Moderno (PRM) a una reunión en la sede del partido en Santo Domingo la tarde de este lunes 16 de noviembre, con el objetivo de poner freno a los enfrentamientos públicos entre dirigentes que aspiran a sucederlo en 2028. Abinader no puede volver a postularse por mandato constitucional.",
-        "La convocatoria llega después de una semana de cruces. La vicepresidenta Raquel Peña denunció una campaña en su contra que calificó de \"sucia, despiadada y grosera\", luego de cuestionamientos por una licitación de ingredientes para habichuelas con dulce; la exvicepresidenta Milagros Ortiz Bosch respondió que a Peña le faltaba experiencia política.",
-        "La disputa también tocó a la diáspora: el cónsul dominicano en Nueva York, Jesús \"Chu\" Vásquez, cuestionó la militancia del ministro de Turismo, David Collado, y recibió respuestas del presidente de la Cámara de Diputados, Alfredo Pacheco, y del diputado Ramón Bueno. Collado ha dicho que no ha declarado aspiraciones presidenciales.",
-        "En paralelo, la diputada Maribel Almánzar retiró un proyecto sobre documentos de identidad para personas cuya nacionalidad no pudiera determinarse, después de que la Dirección Ejecutiva del PRM lo rechazara. La vicepresidenta ejecutiva del partido, Deligne Ascención, pidió tramitar las diferencias por canales internos mientras se redacta un reglamento de conducta para los aspirantes y sus equipos.",
-        "Para los dominicanos en Estados Unidos, la pugna interna del partido de gobierno anticipa una campaña larga en la que el voto y la dirigencia del exterior, sobre todo en Nueva York, vuelven a estar en juego."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
-      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-convoca-a-la-cupula-del-prm-a-reunion-urgente-para-frenar-los-choques-internos-rumbo-al-2028/"
-        },
-        {
-          "nombre": "El Día",
-          "url": "https://eldia.com.do/abinader-convoca-a-dirigentes-del-prm-para-frenar-enfrentamientos-publicos/"
-        },
-        {
-          "nombre": "El Día · Entérate NY",
-          "url": "https://eldia.com.do/enterate-ny-33/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
     }
   ]
 }
