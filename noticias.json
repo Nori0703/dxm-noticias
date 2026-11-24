@@ -1,11 +1,104 @@
 {
-  "actualizado": "2026-11-23T19:50:24-04:00",
+  "actualizado": "2026-11-24T13:51:41-04:00",
   "notas": [
+    {
+      "id": "2026-11-24-hochul-prohibe-cobrar-suscripcion-funciones-carro",
+      "fecha": "2026-11-24",
+      "seccion": "politica",
+      "destacada": true,
+      "kicker": "Política · Nueva York",
+      "titulo": "Nueva York prohíbe cobrar suscripciones por funciones que el carro ya trae de fábrica",
+      "bajada": "La gobernadora Kathy Hochul firmó una ley que impide a fabricantes y concesionarios cobrar mensualidades por asientos con calefacción, arranque remoto y otras funciones ya instaladas en el vehículo. Entrará en vigor a finales de febrero de 2027.",
+      "cuerpo": [
+        "La gobernadora de Nueva York, Kathy Hochul, firmó el lunes 23 de noviembre una ley que prohíbe a los fabricantes de automóviles y a los concesionarios cobrar tarifas de suscripción a los dueños por funciones que el carro ya trae incorporadas, como los asientos con calefacción, el arranque remoto, la navegación o la conducción con manos libres.",
+        "La medida (proyecto S.9348A/A.10411A), impulsada en Albany por el senador estatal James Skoufis, se aplica cuando la función depende de piezas que ya vienen instaladas en el vehículo. Según Spectrum News, la ley empezará a regir en unos 90 días, a finales de febrero de 2027.",
+        "De acuerdo con Zabala al Día, quedan fuera de la prohibición servicios que sí dependen de redes o datos externos, como la radio satelital, el wifi dentro del carro, la asistencia en carretera o algunos sistemas avanzados de conducción, y las infracciones podrán castigarse con multas civiles de hasta 250 dólares por cada violación. El mismo medio informa que Hochul firmó además otra ley que obliga a los negocios a avisar antes de que termine una prueba gratis y a facilitar la cancelación de suscripciones.",
+        "La fiscal general del estado, Letitia James, respaldó la norma: \"Nadie debería tener que pagar tarifas recurrentes solo por usar funciones de un carro que ya compró\", afirmó.",
+        "Para las familias hispanas y dominicanas de Nueva York, muchas de las cuales dependen del carro para trabajar —como taxistas, choferes de aplicaciones o repartidores—, la ley busca evitar cobros mensuales adicionales después de haber pagado el vehículo."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Albany",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-transporte.jpg",
+      "imagen_alt": "Ilustración sobre transporte y vehículos",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/hochul-firma-una-ley-que-prohibe-cobrar-suscripcion-por-funciones-que-ya-trae-el-carro/"
+        },
+        {
+          "nombre": "Spectrum News / State of Politics",
+          "url": "https://nystateofpolitics.com/state-of-politics/new-york/news/2026/11/23/hochul-signs-law-to-restrict-built-in-car-feature-subscription-fees"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-contraloria-detiene-publicacion-auditorias-decision-abinader",
+      "fecha": "2026-11-24",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "Política · República Dominicana",
+      "titulo": "La Contraloría frena la publicación de auditorías y deja la decisión en manos de Abinader",
+      "bajada": "Tras divulgar 28 informes a inicios de octubre, la Contraloría General no ha publicado más y dice que las próximas entregas dependen del Poder Ejecutivo.",
+      "cuerpo": [
+        "La Contraloría General de la República Dominicana dejó de publicar nuevos informes de auditoría y traslada al presidente Luis Abinader la decisión sobre cuándo divulgar los siguientes, según informó este martes 24 de noviembre el periódico Diario Libre.",
+        "El 2 de octubre, la institución dio a conocer 28 informes sobre 24 entidades públicas: 25 auditorías integrales y tres seguimientos de recomendaciones. Desde entonces no se ha anunciado una segunda entrega, pese a que en septiembre Abinader había dicho que las auditorías de su gestión se publicarían de forma progresiva a partir del 1 de octubre, a medida que estuvieran listas.",
+        "En una respuesta escrita del 17 de noviembre a una solicitud de información de Diario Libre, el contralor general, Geraldo Espinosa Pérez, explicó que los informes ya divulgados se publicaron por instrucción del Poder Ejecutivo, por lo que las próximas publicaciones dependen de este. Se apoyó en el artículo 18 de la Ley 10-07, que le permite emitir los informes y remitir los resultados al Ejecutivo y a las instituciones auditadas.",
+        "Según el mismo diario, Espinosa no precisó cuándo saldría la siguiente tanda. Zabala al Día recuerda que una observación en una auditoría no equivale por sí sola a una prueba de corrupción ni a una condena.",
+        "La publicación de las auditorías es un punto que siguen de cerca los dominicanos dentro y fuera del país, ya que permite conocer cómo se manejan los fondos públicos."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-justicia.jpg",
+      "imagen_alt": "Ilustración sobre justicia y rendición de cuentas",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/politica/contraloria-detiene-publicacion-de-auditorias-decision-sobre-divulgacion-queda-en-manos-del-presidente-abinader/"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/gobierno/2026/11/24/contraloria-detiene-publicacion-auditorias-y-deja-decision-a-abinader/3729383"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-rd-al-dia-10-millones-visitantes-abinader-oea-ramdin",
+      "fecha": "2026-11-24",
+      "seccion": "rd",
+      "destacada": false,
+      "kicker": "República Dominicana al día",
+      "titulo": "República Dominicana al día: el país supera los 10 millones de visitantes y Abinader recibe al jefe de la OEA",
+      "bajada": "El turismo marcó un récord entre enero y octubre, con Estados Unidos como principal mercado. En el Palacio Nacional, Abinader y Albert Ramdin hablaron de Haití y de la agenda de 2027.",
+      "cuerpo": [
+        "Récord turístico. República Dominicana recibió 10,043,476 visitantes entre enero y octubre de 2026, un 8.2 % más que en el mismo periodo de 2025, anunció el lunes 23 de noviembre el ministro de Turismo, David Collado. De ellos, 7,760,625 llegaron por avión y 2,282,851 fueron pasajeros de cruceros.",
+        "Es la primera vez que el país pasa la marca de los 10 millones tan temprano en el año. Solo en octubre llegaron 812,640 visitantes, y Estados Unidos aportó el 35 % de los turistas. Si se mantiene el ritmo, Turismo proyecta cerrar 2026 con unos 12.5 millones de visitantes, según Acento.",
+        "Visita de la OEA. El presidente Luis Abinader recibió el lunes en el Palacio Nacional al secretario general de la Organización de los Estados Americanos (OEA), Albert Ramdin, acompañado del canciller Víctor \"Ito\" Bisonó. Según Diario Libre, conversaron sobre la agenda multilateral de 2027 y la situación en Haití, y coincidieron en la necesidad de más apoyo a los esfuerzos de pacificación del vecino país.",
+        "Ambos acordaron avanzar en iniciativas comunes de seguridad, prosperidad y democracia, de acuerdo con la Presidencia."
+      ],
+      "autor": "Redacción Dominicanos X El Mundo",
+      "lugar": "Santo Domingo",
+      "imagen": "https://raw.githubusercontent.com/Nori0703/dxm-noticias/main/img/ilustracion-vuelos.jpg",
+      "imagen_alt": "Ilustración sobre vuelos y viajes",
+      "fuentes": [
+        {
+          "nombre": "Zabala al Día",
+          "url": "https://zabalaaldia.com/noticias-principales/el-presidente-luis-abinader-recibe-al-secretario-general-de-la-oea-albert-ramdin/"
+        },
+        {
+          "nombre": "Acento",
+          "url": "https://acento.com.do/turismo/republica-dominicana-supera-los-10-millones-de-visitantes-hasta-octubre-y-proyecta-cerrar-con-12-5-millones-9795230.html"
+        },
+        {
+          "nombre": "Diario Libre",
+          "url": "https://www.diariolibre.com/politica/general/2026/11/23/luis-abinader-se-reune-con-oea-y-albert-ramdin/3729567"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-rd-prohibe-importar-mercancias-trabajo-forzoso-ley-97-26",
       "fecha": "2026-11-23",
       "seccion": "rd",
-      "destacada": true,
+      "destacada": false,
       "kicker": "Economía · República Dominicana",
       "titulo": "República Dominicana prohíbe importar mercancías fabricadas con trabajo forzoso",
       "bajada": "El presidente Luis Abinader promulgó este lunes la Ley 97-26. Aduanas podrá bloquear la entrada de productos hechos total o parcialmente con trabajo forzoso y los importadores deberán firmar una declaración jurada.",
@@ -933,124 +1026,6 @@
       ],
       "credito_foto": "Foto: Wikimedia Commons",
       "credito_url": "https://commons.wikimedia.org/wiki/File:Dominican_Day_Parade_2019_%2850335710071%29.jpg"
-    },
-    {
-      "id": "2026-11-18-rd-al-dia-donacion-padre-billini-emprendimiento",
-      "fecha": "2026-11-18",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana al día",
-      "titulo": "República Dominicana al día: donan US$1 millón para renovar el Centro Padre Billini y arranca la Semana Global de Emprendimiento",
-      "bajada": "La Iglesia de Jesucristo de los Santos de los Últimos Días financiará la remodelación del antiguo «El 28», y Banreservas y aliados abren una semana de actividades para las mipymes.",
-      "cuerpo": [
-        "La Iglesia de Jesucristo de los Santos de los Últimos Días donó un millón de dólares al Gobierno dominicano para la renovación integral del Centro de Rehabilitación Psicosocial Padre Billini. El anuncio lo hizo el élder Ronald A. Rasband, miembro del Cuórum de los Doce Apóstoles, en una reunión con el presidente Luis Abinader en el Palacio Nacional este martes 17 de noviembre.",
-        "El centro está en el kilómetro 28 de la autopista Duarte, en Pedro Brand, y funciona con un modelo de rehabilitación psicosocial desde el 11 de agosto de 2016, cuando sustituyó al antiguo hospital psiquiátrico conocido como «El 28». Tiene capacidad para más de un centenar de usuarios, según El Nuevo Diario. Las obras, que incluirán consultorios, áreas recreativas y pabellones clínicos, se coordinarán con la Oficina de la Primera Dama y el Servicio Nacional de Salud (SNS).",
-        "En Santo Domingo comenzó el lunes 16 la Semana Global de Emprendimiento 2026, que se celebra en todo el país hasta el 22 de noviembre, con actividades durante el resto del mes. La organizan Banreservas, la Red Global de Emprendimiento (GEN), la Fundación EMDES y la plataforma En Lata, con el lema «Los emprendedores de aquí prosperan». La representante de GEN en el país, Patricia Acosta, dijo que esperan más de 10,000 participantes.",
-        "En la apertura, el vicepresidente de Comunicación y Responsabilidad Social de Banreservas, Franklin Soriano, habló en nombre del presidente ejecutivo, Leonardo Aguilera. Se recordó que, según la Encuesta Nacional de las Mipymes del Banco Central y el Ministerio de Industria y Comercio, las micro, pequeñas y medianas empresas aportan el 32 % del PIB y generan más de tres millones de empleos, el 61.6 % de la ocupación nacional. Para dominicanos en el exterior que piensan emprender en la isla, el banco mantiene su programa Cree Banreservas, con capital semilla y acompañamiento."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg?width=1200",
-      "imagen_alt": "Catedral Primada de América, en la Zona Colonial de Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/gobierno-recibe-donacion-de-un-millon-de-dolares-de-la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias-para-el-centro-padre-billini/"
-        },
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/economia/banreservas-inaugura-la-semana-global-de-emprendimiento-2026-para-impulsar-la-innovacion-y-el-desarrollo-de-las-mipymes/"
-        },
-        {
-          "nombre": "El Nuevo Diario",
-          "url": "https://elnuevodiario.com.do/gobierno-recibe-donacion-de-un-millon-de-dolares-de-la-iglesia-de-jesucristo-de-los-santos-de-los-ultimos-dias/"
-        },
-        {
-          "nombre": "El Seis (Canal 6)",
-          "url": "https://elseis.do/noticias/donan-un-millon-de-dolares-para-remodelar-el-centro-padre-billini"
-        },
-        {
-          "nombre": "De Último Minuto",
-          "url": "https://deultimominuto.com/economia/banreservas-semana-global-2026/"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_Cathedral_%28Dominican_Republic%29_%2815960226898%29.jpg"
-    },
-    {
-      "id": "2026-11-17-mamdani-nombra-16-jueces-cortes-penal-familia",
-      "fecha": "2026-11-17",
-      "seccion": "politica",
-      "destacada": false,
-      "kicker": "Política · Nueva York",
-      "titulo": "Mamdani hace sus primeros nombramientos judiciales: 10 jueces nuevos y 6 renovados en las cortes penal y de familia",
-      "bajada": "Es la primera tanda de jueces que designa el alcalde. Los diez candidatos nuevos pasaron este martes por audiencias públicas antes de asumir sus cargos.",
-      "cuerpo": [
-        "El alcalde de Nueva York, Zohran Mamdani, anunció el lunes 16 de noviembre 16 nombramientos para la Corte Penal y la Corte de Familia de la ciudad: diez jueces nuevos y seis que ya estaban en funciones y fueron reconfirmados. Son los primeros nombramientos judiciales de su gestión.",
-        "Los diez nuevos se reparten en partes iguales: cinco van a la Corte Penal y cinco a la Corte de Familia. Entre ellos hay abogados que han trabajado como defensores públicos en organizaciones como Legal Aid Society, Brooklyn Defender Services y Neighborhood Defender Service of Harlem, además de exfiscales de Queens y abogados del Centro Legal de la Niñez. De las seis renovaciones, cinco son en la Corte Penal y una en la Corte de Familia del Bronx.",
-        "Los candidatos fueron entrevistados y evaluados por el Comité Asesor del Alcalde sobre el Poder Judicial, que preside el abogado Ali Najmi. Según la Alcaldía y el diario amNY, los nombramientos estaban sujetos a audiencias públicas este martes 17 de noviembre en la sede de la Oficina de Juicios y Audiencias Administrativas, en el 100 de Church Street, en Manhattan.",
-        "\"Las decisiones que se toman en nuestras cortes pueden cambiar el rumbo de la vida de un neoyorquino\", dijo Mamdani en el comunicado oficial.",
-        "Para muchas familias hispanas y dominicanas de la ciudad, estas dos cortes son las más cercanas: la Corte de Familia ve casos de custodia, manutención y protección de menores, y la Corte Penal atiende la mayoría de los casos de delitos menores en los cinco condados."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Nueva York",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg?width=1200",
-      "imagen_alt": "Tribunal del condado de Nueva York, en Manhattan",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/mamdani-anuncia-16-nombramientos-judiciales-en-nueva-york-diez-nuevos-jueces-seran-evaluados-en-audiencia-publica/"
-        },
-        {
-          "nombre": "Alcaldía de Nueva York",
-          "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-names-16-judges-to-strengthen-new-york-city-s-crim"
-        },
-        {
-          "nombre": "amNY",
-          "url": "https://www.amny.com/law/mayor-mamdani-judge-appointment-reappointments/"
-        },
-        {
-          "nombre": "Queens Daily Eagle",
-          "url": "https://queenseagle.com/all/2026/11/17/mamdani-makes-his-first-judicial-appointments"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:New_York_County_Courthouse%2C_Manhattan%2C_New_York_%287237323614%29.jpg"
-    },
-    {
-      "id": "2026-11-17-gobierno-dominicano-reformas-leyes-anticorrupcion",
-      "fecha": "2026-11-17",
-      "seccion": "rd",
-      "destacada": false,
-      "kicker": "República Dominicana · Transparencia",
-      "titulo": "Gobierno dominicano impulsa cambios a leyes de Senasa, acceso a la información y conflicto de intereses para frenar la corrupción",
-      "bajada": "Abinader y Milagros Ortiz Bosch presentaron el paquete en LA Semanal. Algunas propuestas ya están en el Congreso y otras todavía se preparan.",
-      "cuerpo": [
-        "El presidente Luis Abinader y la directora de Ética e Integridad Gubernamental, Milagros Ortiz Bosch, presentaron el lunes 16 de noviembre, en el Palacio Nacional, una serie de reformas legales para reforzar los controles contra la corrupción en el Estado dominicano.",
-        "Según Diario Libre, el paquete incluye cambiar la ley que rige el Seguro Nacional de Salud (Senasa) para añadir auditorías y controles sobre sus contratos; actualizar las leyes de libre acceso a la información pública y de protección de datos personales; una nueva ley de conflicto de intereses para servidores públicos, que estudia la Comisión de Justicia del Senado; un proyecto para proteger a denunciantes, testigos y víctimas de represalias; y dar rango de ley a la Unidad Antifraude de la Contraloría.",
-        "Abinader reconoció que ningún gobierno puede asegurar que no habrá corrupción, pero afirmó que \"no habrá impunidad cuando se conozca un caso\", según Listín Diario. También pidió a los suplidores del Estado denunciar a cualquier funcionario que les pida comisiones para acelerar pagos.",
-        "Las propuestas todavía deben pasar por el Congreso Nacional, por lo que ninguna de ellas está vigente. Para los dominicanos en el exterior, que envían cada año miles de millones de dólares en remesas al país, la transparencia en el uso de los fondos públicos es un tema que se sigue de cerca."
-      ],
-      "autor": "Redacción Dominicanos X El Mundo",
-      "lugar": "Santo Domingo",
-      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg?width=1200",
-      "imagen_alt": "Palacio Nacional de la República Dominicana, en Santo Domingo",
-      "fuentes": [
-        {
-          "nombre": "Zabala al Día",
-          "url": "https://zabalaaldia.com/noticias-principales/politica/abinader-impulsa-nuevas-medidas-contra-la-corrupcion-gobierno-plantea-reforzar-las-leyes-de-transparencia-y-proteccion-de-denunciantes/"
-        },
-        {
-          "nombre": "Diario Libre",
-          "url": "https://www.diariolibre.com/politica/gobierno/2026/11/17/gobierno-impulsa-reformas-legales-contra-la-corrupcion/3722608"
-        },
-        {
-          "nombre": "Listín Diario",
-          "url": "https://listindiario.com/la-republica/gobierno/20261117/abinader-garantizar-haya-corrupcion_930392.html"
-        }
-      ],
-      "credito_foto": "Foto: Wikimedia Commons",
-      "credito_url": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Republica_Dominicana_06_2018_8849.jpg"
     }
   ]
 }
